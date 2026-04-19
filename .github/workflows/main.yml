@@ -1,0 +1,35 @@
+name: Fetch Football Scores
+
+on:
+  schedule:
+    # Run every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  fetch-scores:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Fetch football scores
+        run: python src/scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add football_scores.json
+          git diff --staged --exit-code || git commit -m "Update football scores $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push || echo "No changes to push"
