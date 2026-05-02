@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-02T19:32:50.301343+00:00",
-  "egypt_time": "2026-05-02 22:32:50",
+  "timestamp": "2026-05-02T20:34:59.398900+00:00",
+  "egypt_time": "2026-05-02 23:34:59",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1745,7 +1745,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "33'",
+                "display": "68'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1964,7 +1964,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "45'+2",
+                "display": "81'",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -2097,7 +2097,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "45'+2",
+                "display": "76'",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -2172,7 +2172,7 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "31'",
+                "display": "61'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -2536,16 +2536,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/team/psv-eindhoven.png"
               },
               "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "73'",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -2560,11 +2560,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "32'",
+                "display": "HT",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -2789,7 +2789,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "28'",
+                "display": "58'",
                 "egypt": "22:05",
                 "status": "MidEvent",
                 "is_live": true,
@@ -2974,11 +2974,11 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "53'",
+                "display": "FT",
                 "egypt": "21:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -3090,17 +3090,17 @@
                 "logo_url": ""
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "22:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -3166,15 +3166,15 @@
               },
               "score": {
                 "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "away": "3",
+                "display": "0 - 3"
               },
               "time": {
-                "display": "75'",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -3298,12 +3298,12 @@
                 "logo_url": ""
               },
               "score": {
-                "home": "1",
+                "home": "3",
                 "away": "1",
-                "display": "1 - 1"
+                "display": "3 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "90'+5",
                 "egypt": "21:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3551,7 +3551,7 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "86'",
                 "egypt": "21:30",
                 "status": "MidEvent",
                 "is_live": true,
