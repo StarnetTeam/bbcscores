@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-03T10:30:06.212554+00:00",
-  "egypt_time": "2026-05-03 13:30:06",
+  "timestamp": "2026-05-03T11:21:31.939102+00:00",
+  "egypt_time": "2026-05-03 14:21:31",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -98,17 +98,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/team/celtic.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "10'",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -127,17 +127,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/team/liverpool-ladies.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "12'",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -150,17 +150,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/team/london-city-women.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "7'",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -485,17 +485,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/team/cagliari.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "38'",
                 "egypt": "13:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -980,12 +980,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -1107,7 +1107,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "12'",
+                "display": "HT",
                 "egypt": "13:15",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1828,12 +1828,12 @@
                 "logo_url": ""
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "12'",
+                "display": "HT",
                 "egypt": "13:15",
                 "status": "MidEvent",
                 "is_live": true,
