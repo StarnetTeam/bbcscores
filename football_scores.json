@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-03T19:50:45.084035+00:00",
-  "egypt_time": "2026-05-03 22:50:45",
+  "timestamp": "2026-05-03T20:36:22.475703+00:00",
+  "egypt_time": "2026-05-03 23:36:22",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -69,16 +69,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "2",
-                "display": "0 - 2"
+                "display": "1 - 2"
               },
               "time": {
-                "display": "90'+2",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -220,11 +220,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "45'+2",
+                "display": "73'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -392,12 +392,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/parma.86459bb00a.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "88'",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -513,12 +513,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rennes.d01a03ef02.svg"
               },
               "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "home": "4",
+                "away": "2",
+                "display": "4 - 2"
               },
               "time": {
-                "display": "HT",
+                "display": "86'",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -645,7 +645,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "19'",
+                "display": "HT",
                 "egypt": "22:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -697,11 +697,11 @@
                 "display": "4 - 0"
               },
               "time": {
-                "display": "88'",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -720,11 +720,11 @@
                 "display": "3 - 1"
               },
               "time": {
-                "display": "86'",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -1077,7 +1077,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "39'",
+                "display": "65'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
