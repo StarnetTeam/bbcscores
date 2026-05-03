@@ -1,9 +1,9 @@
 
 """
-BBC Football Scores Scraper - Fixed Version 3.0
+BBC Football Scores Scraper - Final Fixed Version 4.0
 Fetches live scores, fixtures, and results from BBC Sport
 Supports 3-day fetching: Today, Tomorrow, and After Tomorrow
-Fixed: Team logos using BBC's internal image system for 100% accuracy
+Fixed: Dynamic SVG team logos extracted directly from page assets
 """
 
 import json
@@ -15,11 +15,9 @@ import pytz
 
 
 class BBCFootballScraper:
-    """Scraper for BBC Football Scores and Fixtures with official BBC logo support"""
+    """Scraper for BBC Football Scores and Fixtures with dynamic SVG logo extraction"""
 
     BASE_URL = "https://www.bbc.com/sport/football/scores-fixtures"
-    # BBC Logo CDN Base
-    LOGO_BASE_URL = "https://iscre7.api.bbc.com/v1/images/sportsdata/football/team/{team_id}?width=128"
 
     def __init__(self):
         self.session = requests.Session()
@@ -27,22 +25,43 @@ class BBCFootballScraper:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         })
         self.egypt_tz = pytz.timezone('Africa/Cairo')
+        self.logo_map = {}
 
-    def extract_team_id(self, urn: str) -> Optional[str]:
-        """Extract the unique team ID from a BBC URN (e.g., urn:bbc:sportsdata:football:team:arsenal)"""
-        if not urn:
-            return None
-        parts = urn.split(':')
-        return parts[-1] if parts else None
+    def build_logo_map(self, html: str):
+        """
+        Extract all SVG logo links from the HTML content.
+        BBC logos follow the pattern: .../football/team-name.hash.svg
+        """
+        # Regex to find BBC football SVG logos
+        # Example: https://static.files.bbci.co.uk/core/website/assets/static/sport/football/brentford.aa0256ca6b.svg
+        pattern = r'https?://static\.files\.bbci\.co\.uk/[^\s"\'<>]*?/sport/football/([a-z0-9\-]+)\.[a-z0-9]+\.svg'
+        matches = re.findall(pattern, html)
+        links = re.findall(r'https?://static\.files\.bbci\.co\.uk/[^\s"\'<>]*?/sport/football/[a-z0-9\-]+\.[a-z0-9]+\.svg', html)
+        
+        for name_slug, link in zip(matches, links):
+            # Map the slug (e.g., 'brentford') to the full dynamic link
+            self.logo_map[name_slug] = link
+            
+        # Also try to map common variations
+        # Some names in data might be 'West Ham United' but slug is 'west-ham-united'
+        print(f"Built logo map with {len(self.logo_map)} unique team logos.")
 
-    def get_official_logo(self, team_urn: str) -> str:
-        """Generate the official BBC logo URL using the team's URN"""
-        team_id = self.extract_team_id(team_urn)
-        if not team_id:
-            return ""
-        # This is a common pattern for BBC sports data images
-        # If the direct API doesn't work, we use the static files pattern
-        return f"https://static.files.bbci.co.uk/core/website/assets/static/sport/football/team/{team_id}.png"
+    def get_dynamic_logo(self, team_name: str, team_urn: str) -> str:
+        """Get the dynamic SVG logo from the map using team name or URN slug"""
+        # 1. Try by URN slug (most accurate)
+        # urn:bbc:sportsdata:football:team:brentford -> brentford
+        urn_slug = team_urn.split(':')[-1] if team_urn else ""
+        if urn_slug in self.logo_map:
+            return self.logo_map[urn_slug]
+            
+        # 2. Try by name slug
+        name_slug = team_name.lower().replace(' ', '-').replace('.', '').replace("'", "")
+        if name_slug in self.logo_map:
+            return self.logo_map[name_slug]
+            
+        # 3. Fallback to a generic pattern if not found in current page assets
+        # (Though most should be found if they are on the current page)
+        return f"https://ssl.gstatic.com/onebox/media/sports/logos/{name_slug}_64x64.png"
 
     def convert_to_egypt_time(self, iso_date_str: str) -> str:
         """Convert UTC ISO date to Egypt time (HH:MM)"""
@@ -54,7 +73,7 @@ class BBCFootballScraper:
             return "N/A"
 
     def fetch_day_scores(self, date: datetime) -> List[Dict]:
-        """Fetch scores for a specific date by extracting JSON from BBC page"""
+        """Fetch scores for a specific date by extracting JSON and Assets from BBC page"""
         try:
             date_str = date.strftime("%Y-%m-%d")
             url = f"{self.BASE_URL}/{date_str}"
@@ -63,6 +82,10 @@ class BBCFootballScraper:
             response.raise_for_status()
             html = response.text
             
+            # Update logo map from this page's assets
+            self.build_logo_map(html)
+            
+            # Extract window.__INITIAL_DATA__
             match = re.search(r'window\.__INITIAL_DATA__\s*=\s*"(.*?)";', html, re.DOTALL)
             if not match:
                 return []
@@ -102,9 +125,9 @@ class BBCFootballScraper:
         home_name = home.get('fullName', 'TBD')
         away_name = away.get('fullName', 'TBD')
         
-        # Get official logos using URNs
-        home_logo = self.get_official_logo(home.get('urn', ''))
-        away_logo = self.get_official_logo(away.get('urn', ''))
+        # Get dynamic logos from our map
+        home_logo = self.get_dynamic_logo(home_name, home.get('urn', ''))
+        away_logo = self.get_dynamic_logo(away_name, away.get('urn', ''))
         
         status_comment = event.get('statusComment', {}).get('value', '')
         period_label = event.get('periodLabel', {}).get('value', '')
