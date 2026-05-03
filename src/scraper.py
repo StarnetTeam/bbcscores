@@ -1,9 +1,10 @@
 
 """
-BBC Football Scores Scraper - Final Fixed Version 4.0
+BBC Football Scores Scraper - Final Fixed Version 4.1
 Fetches live scores, fixtures, and results from BBC Sport
 Supports 3-day fetching: Today, Tomorrow, and After Tomorrow
 Fixed: Dynamic SVG team logos extracted directly from page assets
+Updated: Added league exclusion list to filter out unwanted competitions
 """
 
 import json
@@ -19,6 +20,14 @@ class BBCFootballScraper:
 
     BASE_URL = "https://www.bbc.com/sport/football/scores-fixtures"
 
+    # List of leagues/competitions to exclude from the final output
+    EXCLUDED_LEAGUES = [
+        "Scottish", "Women's", "Irish", "Austrian", "Brazilian", "Croatia",
+        "Danish", "Chinese", "Dutch", "Finnish", "Indian", "Nigerian",
+        "Norwegian", "Polish", "Serbian", "Swedish", "Ukraine", "Belgian",
+        "South Africa", "Australian", "Czech", "Greek", "Swiss"
+    ]
+
     def __init__(self):
         self.session = requests.Session()
         self.session.headers.update({
@@ -33,34 +42,25 @@ class BBCFootballScraper:
         BBC logos follow the pattern: .../football/team-name.hash.svg
         """
         # Regex to find BBC football SVG logos
-        # Example: https://static.files.bbci.co.uk/core/website/assets/static/sport/football/brentford.aa0256ca6b.svg
         pattern = r'https?://static\.files\.bbci\.co\.uk/[^\s"\'<>]*?/sport/football/([a-z0-9\-]+)\.[a-z0-9]+\.svg'
         matches = re.findall(pattern, html)
         links = re.findall(r'https?://static\.files\.bbci\.co\.uk/[^\s"\'<>]*?/sport/football/[a-z0-9\-]+\.[a-z0-9]+\.svg', html)
         
         for name_slug, link in zip(matches, links):
-            # Map the slug (e.g., 'brentford') to the full dynamic link
             self.logo_map[name_slug] = link
             
-        # Also try to map common variations
-        # Some names in data might be 'West Ham United' but slug is 'west-ham-united'
         print(f"Built logo map with {len(self.logo_map)} unique team logos.")
 
     def get_dynamic_logo(self, team_name: str, team_urn: str) -> str:
         """Get the dynamic SVG logo from the map using team name or URN slug"""
-        # 1. Try by URN slug (most accurate)
-        # urn:bbc:sportsdata:football:team:brentford -> brentford
         urn_slug = team_urn.split(':')[-1] if team_urn else ""
         if urn_slug in self.logo_map:
             return self.logo_map[urn_slug]
             
-        # 2. Try by name slug
         name_slug = team_name.lower().replace(' ', '-').replace('.', '').replace("'", "")
         if name_slug in self.logo_map:
             return self.logo_map[name_slug]
             
-        # 3. Fallback to a generic pattern if not found in current page assets
-        # (Though most should be found if they are on the current page)
         return f"https://ssl.gstatic.com/onebox/media/sports/logos/{name_slug}_64x64.png"
 
     def convert_to_egypt_time(self, iso_date_str: str) -> str:
@@ -72,6 +72,13 @@ class BBCFootballScraper:
         except Exception:
             return "N/A"
 
+    def is_excluded(self, league_name: str) -> bool:
+        """Check if the league name contains any of the excluded keywords"""
+        for excluded in self.EXCLUDED_LEAGUES:
+            if excluded.lower() in league_name.lower():
+                return True
+        return False
+
     def fetch_day_scores(self, date: datetime) -> List[Dict]:
         """Fetch scores for a specific date by extracting JSON and Assets from BBC page"""
         try:
@@ -82,10 +89,8 @@ class BBCFootballScraper:
             response.raise_for_status()
             html = response.text
             
-            # Update logo map from this page's assets
             self.build_logo_map(html)
             
-            # Extract window.__INITIAL_DATA__
             match = re.search(r'window\.__INITIAL_DATA__\s*=\s*"(.*?)";', html, re.DOTALL)
             if not match:
                 return []
@@ -99,8 +104,12 @@ class BBCFootballScraper:
                     event_groups = value.get('data', {}).get('eventGroups', [])
                     for group in event_groups:
                         league_name = group.get('displayLabel', 'Unknown League')
-                        matches = []
                         
+                        # Skip excluded leagues
+                        if self.is_excluded(league_name):
+                            continue
+                            
+                        matches = []
                         for sec_group in group.get('secondaryGroups', []):
                             for event in sec_group.get('events', []):
                                 matches.append(self.parse_event(event))
@@ -125,7 +134,6 @@ class BBCFootballScraper:
         home_name = home.get('fullName', 'TBD')
         away_name = away.get('fullName', 'TBD')
         
-        # Get dynamic logos from our map
         home_logo = self.get_dynamic_logo(home_name, home.get('urn', ''))
         away_logo = self.get_dynamic_logo(away_name, away.get('urn', ''))
         
