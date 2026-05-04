@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-04T14:37:12.598464+00:00",
-  "egypt_time": "2026-05-04 17:37:12",
+  "timestamp": "2026-05-04T16:27:46.391551+00:00",
+  "egypt_time": "2026-05-04 19:27:46",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,16 +23,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nottingham-forest.f0fc0fc962.svg"
               },
               "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "home": "1",
+                "away": "3",
+                "display": "1 - 3"
               },
               "time": {
-                "display": "13'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -237,17 +237,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-riyadh_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "18'",
                 "egypt": "19:10",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
