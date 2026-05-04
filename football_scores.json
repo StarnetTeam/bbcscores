@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-04T12:19:00.704962+00:00",
-  "egypt_time": "2026-05-04 15:19:00",
+  "timestamp": "2026-05-04T14:37:12.598464+00:00",
+  "egypt_time": "2026-05-04 17:37:12",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nottingham-forest.f0fc0fc962.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "13'",
                 "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
