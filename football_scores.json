@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-05T17:02:11.629107+00:00",
-  "egypt_time": "2026-05-05 20:02:11",
+  "timestamp": "2026-05-05T18:51:38.785823+00:00",
+  "egypt_time": "2026-05-05 21:51:38",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -104,17 +104,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/al-hilal.1a9e01c4ea.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
