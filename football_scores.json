@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-05T23:42:25.183178+00:00",
-  "egypt_time": "2026-05-06 02:42:25",
+  "timestamp": "2026-05-06T02:12:21.674437+00:00",
+  "egypt_time": "2026-05-06 05:12:21",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -98,17 +98,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/boca-juniors.3295ecc1d9.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "03:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -121,17 +121,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lanãºs_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "0",
+                "display": "3 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "82'",
                 "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -144,17 +144,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/independiente-valle_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "03:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
