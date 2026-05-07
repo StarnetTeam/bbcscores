@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-07T19:12:35.530116+00:00",
-  "egypt_time": "2026-05-07 22:12:35",
+  "timestamp": "2026-05-07T20:46:16.225484+00:00",
+  "egypt_time": "2026-05-07 23:46:16",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,12 +23,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nottingham-forest.f0fc0fc962.svg"
               },
               "score": {
-                "home": "0",
+                "home": "4",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "4 - 0"
               },
               "time": {
-                "display": "2'",
+                "display": "82'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -46,12 +46,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sporting-braga.cc49939cfa.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "4'",
+                "display": "85'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -75,12 +75,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/shakhtar-donetsk.16a422c938.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "3'",
+                "display": "85'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -98,17 +98,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rayo-vallecano.a7e0be7e62.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "85'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -271,16 +271,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-nassr_64x64.png"
               },
               "score": {
-                "home": "1",
-                "away": "2",
-                "display": "1 - 2"
+                "home": "2",
+                "away": "4",
+                "display": "2 - 4"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
