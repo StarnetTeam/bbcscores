@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-08T19:52:34.150421+00:00",
-  "egypt_time": "2026-05-08 22:52:34",
+  "timestamp": "2026-05-08T20:53:00.936007+00:00",
+  "egypt_time": "2026-05-08 23:53:00",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -28,7 +28,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "90'+4",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -57,7 +57,7 @@
                 "display": "2 - 2"
               },
               "time": {
-                "display": "45'+6",
+                "display": "88'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -81,16 +81,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/eintracht-frankfurt.ae2efe1598.svg"
               },
               "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "home": "3",
+                "away": "2",
+                "display": "3 - 2"
               },
               "time": {
-                "display": "63'",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -110,16 +110,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sassuolo.960f825bf0.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "48'",
+                "display": "FT",
                 "egypt": "21:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -214,16 +214,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nantes.5ee214cb8d.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "50'",
+                "display": "FT",
                 "egypt": "21:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
