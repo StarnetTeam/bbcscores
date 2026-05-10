@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-10T22:39:40.079785+00:00",
-  "egypt_time": "2026-05-11 01:39:40",
+  "timestamp": "2026-05-10T23:43:57.706974+00:00",
+  "egypt_time": "2026-05-11 02:43:57",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -144,12 +144,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "02:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -410,17 +410,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/austin.6bc6fcca81.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "30'",
                 "egypt": "02:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
