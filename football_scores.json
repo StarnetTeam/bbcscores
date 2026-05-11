@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-11T02:35:22.553082+00:00",
-  "egypt_time": "2026-05-11 05:35:22",
+  "timestamp": "2026-05-11T06:33:21.464432+00:00",
+  "egypt_time": "2026-05-11 09:33:21",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -162,16 +162,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/club-amã©rica_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "3",
+                "display": "3 - 3"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "04:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -438,11 +438,11 @@
                 "display": "1 - 4"
               },
               "time": {
-                "display": "57'",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -861,12 +861,12 @@
           "matches": [
             {
               "home_team": {
-                "name": "TBC",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tbc_64x64.png"
+                "name": "Cruz Azul",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cruz-azul_64x64.png"
               },
               "away_team": {
-                "name": "TBC",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tbc_64x64.png"
+                "name": "Guadalajara",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/guadalajara_64x64.png"
               },
               "score": {
                 "home": null,
@@ -884,12 +884,12 @@
             },
             {
               "home_team": {
-                "name": "TBC",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tbc_64x64.png"
+                "name": "Pachuca",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/pachuca.ad89843077.svg"
               },
               "away_team": {
-                "name": "TBC",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tbc_64x64.png"
+                "name": "Pumas UNAM",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pumas-unam_64x64.png"
               },
               "score": {
                 "home": null,
