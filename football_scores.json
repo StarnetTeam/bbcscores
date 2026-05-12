@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-12T15:58:31.678058+00:00",
-  "egypt_time": "2026-05-12 18:58:31",
+  "timestamp": "2026-05-12T18:02:02.123695+00:00",
+  "egypt_time": "2026-05-12 21:02:02",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -52,17 +52,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/levante.06a099328e.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "41'",
                 "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -127,17 +127,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-okhdood_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "59'",
                 "egypt": "19:20",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
