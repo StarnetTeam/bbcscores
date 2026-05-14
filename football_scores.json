@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-14T08:06:05.632619+00:00",
-  "egypt_time": "2026-05-14 11:06:05",
+  "timestamp": "2026-05-14T10:41:06.506810+00:00",
+  "egypt_time": "2026-05-14 13:41:06",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -625,6 +625,35 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "French Play-offs 1/2",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Saint-Ãtienne",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/st-etienne.513a11172c.svg"
+              },
+              "away_team": {
+                "name": "Rodez",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rodez_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
