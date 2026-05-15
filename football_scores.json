@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-15T19:02:31.236721+00:00",
-  "egypt_time": "2026-05-15 22:02:31",
+  "timestamp": "2026-05-15T20:38:36.284186+00:00",
+  "egypt_time": "2026-05-15 23:38:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/liverpool.34999937ef.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "78'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -52,12 +52,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/grimsby-town.c29db6a639.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "42'",
+                "display": "109' ET",
                 "egypt": "21:15",
                 "status": "MidEvent",
                 "is_live": true,
@@ -75,17 +75,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/chesterfield.78c41d06d2.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "75'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -109,7 +109,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "30'",
+                "display": "PENS",
                 "egypt": "21:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -185,16 +185,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-riyadh_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -219,11 +219,11 @@
                 "display": "2 - 2"
               },
               "time": {
-                "display": "90'+9",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
