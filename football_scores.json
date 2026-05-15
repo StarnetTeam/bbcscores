@@ -1,240 +1,13 @@
 {
-  "timestamp": "2026-05-15T20:38:36.284186+00:00",
-  "egypt_time": "2026-05-15 23:38:36",
+  "timestamp": "2026-05-15T21:53:44.930737+00:00",
+  "egypt_time": "2026-05-16 00:53:44",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(15-05-2026)",
-      "date": "2026-05-15",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "Premier League",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Aston Villa",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/aston-villa.7462c0d498.svg"
-              },
-              "away_team": {
-                "name": "Liverpool",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/liverpool.34999937ef.svg"
-              },
-              "score": {
-                "home": "3",
-                "away": "1",
-                "display": "3 - 1"
-              },
-              "time": {
-                "display": "78'",
-                "egypt": "22:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "League Two",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Salford City",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/salford-city.3b6f151262.svg"
-              },
-              "away_team": {
-                "name": "Grimsby Town",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/grimsby-town.c29db6a639.svg"
-              },
-              "score": {
-                "home": "1",
-                "away": "2",
-                "display": "1 - 2"
-              },
-              "time": {
-                "display": "109' ET",
-                "egypt": "21:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Notts County",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/notts-county.0a3a43e281.svg"
-              },
-              "away_team": {
-                "name": "Chesterfield",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/chesterfield.78c41d06d2.svg"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "75'",
-                "egypt": "22:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "French Play-offs 1/2",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Saint-Ãtienne",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/st-etienne.513a11172c.svg"
-              },
-              "away_team": {
-                "name": "Rodez",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rodez_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "PENS",
-                "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "Liga MX",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Pachuca",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/pachuca.ad89843077.svg"
-              },
-              "away_team": {
-                "name": "Pumas UNAM",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pumas-unam_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "04:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "Saudi Pro League",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Damac",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/damac_64x64.png"
-              },
-              "away_team": {
-                "name": "Al Fayha",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-fayha_64x64.png"
-              },
-              "score": {
-                "home": "3",
-                "away": "0",
-                "display": "3 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "19:15",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Al Taawoun",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-taawoun_64x64.png"
-              },
-              "away_team": {
-                "name": "Al Riyadh",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-riyadh_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "21:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "Turkish Super Lig",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Rizespor",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rizespor_64x64.png"
-              },
-              "away_team": {
-                "name": "BeÅiktaÅ",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/besiktas.31d0b198e4.svg"
-              },
-              "score": {
-                "home": "2",
-                "away": "2",
-                "display": "2 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "20:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(16-05-2026)",
+      "label": "Today(16-05-2026)",
       "date": "2026-05-16",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "FA Cup",
@@ -902,9 +675,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(17-05-2026)",
+      "label": "Tomorrow(17-05-2026)",
       "date": "2026-05-17",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "Premier League",
@@ -2240,6 +2013,100 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(18-05-2026)",
+      "date": "2026-05-18",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "Premier League",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Arsenal",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/arsenal.5be7ff54ce.svg"
+              },
+              "away_team": {
+                "name": "Burnley",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/burnley.03819b9eba.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Liga MX",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Pumas UNAM",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pumas-unam_64x64.png"
+              },
+              "away_team": {
+                "name": "Pachuca",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/pachuca.ad89843077.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "04:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Major League Soccer",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Nashville SC",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nashville-sc.fade97add3.svg"
+              },
+              "away_team": {
+                "name": "Los Angeles",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/los-angeles.020bb9f448.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
