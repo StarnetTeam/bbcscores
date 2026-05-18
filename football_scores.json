@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-18T18:28:03.594392+00:00",
-  "egypt_time": "2026-05-18 21:28:03",
+  "timestamp": "2026-05-18T20:12:57.453049+00:00",
+  "egypt_time": "2026-05-18 23:12:57",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/burnley.03819b9eba.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "55'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
