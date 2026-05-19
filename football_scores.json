@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-19T17:36:10.094846+00:00",
-  "egypt_time": "2026-05-19 20:36:10",
+  "timestamp": "2026-05-19T19:45:55.472072+00:00",
+  "egypt_time": "2026-05-19 22:45:55",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/manchester-city.e4f9593ae9.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "58'",
                 "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -46,17 +46,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "30'",
                 "egypt": "22:15",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
