@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-20T13:35:17.585961+00:00",
-  "egypt_time": "2026-05-20 16:35:17",
+  "timestamp": "2026-05-20T16:48:56.598552+00:00",
+  "egypt_time": "2026-05-20 19:48:56",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -249,8 +249,31 @@
       "leagues": [
         {
           "name": "Internationals",
-          "match_count": 1,
+          "match_count": 2,
           "matches": [
+            {
+              "home_team": {
+                "name": "Qatar",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/qatar_64x64.png"
+              },
+              "away_team": {
+                "name": "Sudan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sudan_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "Qatar",
