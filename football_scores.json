@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-22T19:26:37.683222+00:00",
-  "egypt_time": "2026-05-22 22:26:37",
+  "timestamp": "2026-05-22T20:53:57.065373+00:00",
+  "egypt_time": "2026-05-22 23:53:57",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -24,15 +24,15 @@
               },
               "score": {
                 "home": "1",
-                "away": "0",
-                "display": "1 - 0"
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "42'",
+                "display": "FT",
                 "egypt": "21:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -52,12 +52,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nice.a574303381.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "21'",
+                "display": "82'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
