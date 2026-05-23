@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-22T23:37:43.422780+00:00",
-  "egypt_time": "2026-05-23 02:37:43",
+  "timestamp": "2026-05-23T02:30:16.625299+00:00",
+  "egypt_time": "2026-05-23 05:30:16",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -81,17 +81,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ghana_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "23'",
                 "egypt": "05:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
