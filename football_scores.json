@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-23T15:58:23.633051+00:00",
-  "egypt_time": "2026-05-23 18:58:23",
+  "timestamp": "2026-05-23T17:02:47.985474+00:00",
+  "egypt_time": "2026-05-23 20:02:47",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,16 +23,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/middlesbrough.20bd2d342c.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "64'",
+                "display": "FT",
                 "egypt": "17:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -352,17 +352,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/inter-milan.209b8285b0.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
