@@ -1,211 +1,13 @@
 {
-  "timestamp": "2026-05-25T20:22:51.609414+00:00",
-  "egypt_time": "2026-05-25 23:22:51",
+  "timestamp": "2026-05-25T21:42:45.282935+00:00",
+  "egypt_time": "2026-05-26 00:42:45",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(25-05-2026)",
-      "date": "2026-05-25",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "League Two",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Notts County",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/notts-county.0a3a43e281.svg"
-              },
-              "away_team": {
-                "name": "Salford City",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/salford-city.3b6f151262.svg"
-              },
-              "score": {
-                "home": "3",
-                "away": "0",
-                "display": "3 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "17:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "UEFA Under 17 Championship",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Croatia U17",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/croatia-u17_64x64.png"
-              },
-              "away_team": {
-                "name": "Belgium U17",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/belgium-u17_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "2",
-                "display": "0 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "14:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Estonia U17",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/estonia-u17_64x64.png"
-              },
-              "away_team": {
-                "name": "Spain U17",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain-u17_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "4",
-                "display": "1 - 4"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "20:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "German Bundesliga Playoff",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Paderborn",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paderborn_64x64.png"
-              },
-              "away_team": {
-                "name": "Wolfsburg",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wolfsburg.0483044725.svg"
-              },
-              "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
-              },
-              "time": {
-                "display": "90'+3",
-                "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "Liga MX",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Pumas UNAM",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pumas-unam_64x64.png"
-              },
-              "away_team": {
-                "name": "Cruz Azul",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cruz-azul_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "2",
-                "display": "1 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "04:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "Major League Soccer",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Inter Miami",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/inter-miami.a91c283189.svg"
-              },
-              "away_team": {
-                "name": "Philadelphia Union",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/philadelphia-union.5daeb872b4.svg"
-              },
-              "score": {
-                "home": "6",
-                "away": "4",
-                "display": "6 - 4"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "02:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Los Angeles",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/los-angeles.020bb9f448.svg"
-              },
-              "away_team": {
-                "name": "Seattle Sounders",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/seattle-sounders.19c0cc8ef9.svg"
-              },
-              "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "04:15",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(26-05-2026)",
+      "label": "Today(26-05-2026)",
       "date": "2026-05-26",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "Internationals",
@@ -395,9 +197,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(27-05-2026)",
+      "label": "Tomorrow(27-05-2026)",
       "date": "2026-05-27",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "UEFA Conference League",
@@ -622,6 +424,290 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "01:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(28-05-2026)",
+      "date": "2026-05-28",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "Internationals",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Egypt",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/egypt_64x64.png"
+              },
+              "away_team": {
+                "name": "Football Union of Russia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/football-union-of-russia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Republic of Ireland",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/republic-of-ireland_64x64.png"
+              },
+              "away_team": {
+                "name": "Qatar",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/qatar_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "UEFA Under 17 Championship",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Belgium U17",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/belgium-u17_64x64.png"
+              },
+              "away_team": {
+                "name": "Spain U17",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain-u17_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Estonia U17",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/estonia-u17_64x64.png"
+              },
+              "away_team": {
+                "name": "Croatia U17",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/croatia-u17_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "CONMEBOL Libertadores",
+          "match_count": 6,
+          "matches": [
+            {
+              "home_team": {
+                "name": "BolÃ­var",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bolã­var_64x64.png"
+              },
+              "away_team": {
+                "name": "Independiente Rivadavia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/independiente-rivadavia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Fluminense",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fluminense.4dde9cc914.svg"
+              },
+              "away_team": {
+                "name": "Deportivo La Guaira",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/deportivo-la-guaira_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Corinthians",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/corinthians_64x64.png"
+              },
+              "away_team": {
+                "name": "Platense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/platense_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "PeÃ±arol",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/peã±arol_64x64.png"
+              },
+              "away_team": {
+                "name": "Independiente Santa Fe",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/independiente-santa-fe_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Cerro PorteÃ±o",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cerro-porteã±o_64x64.png"
+              },
+              "away_team": {
+                "name": "Sporting Cristal",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-cristal_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "01:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Palmeiras",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/palmeiras.6820335192.svg"
+              },
+              "away_team": {
+                "name": "Junior",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/junior_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "01:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Portuguese Play-offs 1/2",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Casa Pia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/casa-pia_64x64.png"
+              },
+              "away_team": {
+                "name": "Torreense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/torreense_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
