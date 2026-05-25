@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-25T17:03:01.718507+00:00",
-  "egypt_time": "2026-05-25 20:03:01",
+  "timestamp": "2026-05-25T18:57:35.458288+00:00",
+  "egypt_time": "2026-05-25 21:57:35",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -75,17 +75,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain-u17_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "4",
+                "display": "1 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
@@ -104,17 +104,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wolfsburg.0483044725.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "26'",
                 "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
