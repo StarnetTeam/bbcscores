@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-26T17:53:37.017310+00:00",
-  "egypt_time": "2026-05-26 20:53:37",
+  "timestamp": "2026-05-26T20:01:33.822855+00:00",
+  "egypt_time": "2026-05-26 23:01:33",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -46,17 +46,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zimbabwe_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "47'",
                 "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -99,15 +99,15 @@
               },
               "score": {
                 "home": "1",
-                "away": "1",
-                "display": "1 - 1"
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "51'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -179,17 +179,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nice.a574303381.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
