@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-26T08:27:20.178786+00:00",
-  "egypt_time": "2026-05-26 11:27:20",
+  "timestamp": "2026-05-26T14:53:40.141305+00:00",
+  "egypt_time": "2026-05-26 17:53:40",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/burundi_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "5",
+                "away": "0",
+                "display": "5 - 0"
               },
               "time": {
-                "display": "Scheduled",
-                "egypt": "16:00",
-                "status": "PreEvent",
+                "display": "FT",
+                "egypt": "14:00",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -75,17 +75,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/france-u17_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "14:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
