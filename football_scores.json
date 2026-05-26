@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-26T14:53:40.141305+00:00",
-  "egypt_time": "2026-05-26 17:53:40",
+  "timestamp": "2026-05-26T17:53:37.017310+00:00",
+  "egypt_time": "2026-05-26 20:53:37",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -98,17 +98,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/denmark-u17_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "51'",
                 "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
