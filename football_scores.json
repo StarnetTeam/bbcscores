@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-28T10:50:55.012906+00:00",
-  "egypt_time": "2026-05-28 13:50:55",
+  "timestamp": "2026-05-28T14:33:55.374042+00:00",
+  "egypt_time": "2026-05-28 17:33:55",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -75,17 +75,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain-u17_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "14:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
