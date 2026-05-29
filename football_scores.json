@@ -1,274 +1,13 @@
 {
-  "timestamp": "2026-05-29T19:53:20.088613+00:00",
-  "egypt_time": "2026-05-29 22:53:20",
+  "timestamp": "2026-05-29T21:48:52.813930+00:00",
+  "egypt_time": "2026-05-30 00:48:52",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(29-05-2026)",
-      "date": "2026-05-29",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "Internationals",
-          "match_count": 5,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Iran",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iran_64x64.png"
-              },
-              "away_team": {
-                "name": "Gambia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gambia_64x64.png"
-              },
-              "score": {
-                "home": "3",
-                "away": "1",
-                "display": "3 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "South Africa",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/south-africa_64x64.png"
-              },
-              "away_team": {
-                "name": "Nicaragua",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nicaragua_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "19:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Bosnia-Herzegovina",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bosnia-herzegovina_64x64.png"
-              },
-              "away_team": {
-                "name": "North Macedonia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/north-macedonia_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "59'",
-                "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Iraq",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iraq_64x64.png"
-              },
-              "away_team": {
-                "name": "Andorra",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/andorra_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "19:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Lebanon",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lebanon_64x64.png"
-              },
-              "away_team": {
-                "name": "Sudan",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sudan_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "UEFA Under 17 Championship",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Montenegro U17",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/montenegro-u17_64x64.png"
-              },
-              "away_team": {
-                "name": "Italy U17",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/italy-u17_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "3",
-                "display": "0 - 3"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "14:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "France U17",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/france-u17_64x64.png"
-              },
-              "away_team": {
-                "name": "Denmark U17",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/denmark-u17_64x64.png"
-              },
-              "score": {
-                "home": "4",
-                "away": "0",
-                "display": "4 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "19:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "CONMEBOL Libertadores",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Boca Juniors",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/boca-juniors.3295ecc1d9.svg"
-              },
-              "away_team": {
-                "name": "Universidad CatÃ³lica",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/universidad-catã³lica_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "03:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Cruzeiro",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cruzeiro_64x64.png"
-              },
-              "away_team": {
-                "name": "Barcelona",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/barcelona_64x64.png"
-              },
-              "score": {
-                "home": "4",
-                "away": "0",
-                "display": "4 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "03:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "French Play-offs 1/2",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Nice",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nice.a574303381.svg"
-              },
-              "away_team": {
-                "name": "Saint-Ãtienne",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/st-etienne.513a11172c.svg"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "48'",
-                "egypt": "21:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(30-05-2026)",
+      "label": "Today(30-05-2026)",
       "date": "2026-05-30",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "UEFA Champions League",
@@ -406,9 +145,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(31-05-2026)",
+      "label": "Tomorrow(31-05-2026)",
       "date": "2026-05-31",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "Internationals",
@@ -779,6 +518,307 @@
               "away_team": {
                 "name": "Tunisia U23",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia-u23_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(01-06-2026)",
+      "date": "2026-06-01",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "Internationals",
+          "match_count": 8,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Bulgaria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bulgaria_64x64.png"
+              },
+              "away_team": {
+                "name": "Montenegro",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/montenegro_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Slovakia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/slovakia_64x64.png"
+              },
+              "away_team": {
+                "name": "Malta",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malta_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Norway",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/norway_64x64.png"
+              },
+              "away_team": {
+                "name": "Sweden",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sweden_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Turkey",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/turkey_64x64.png"
+              },
+              "away_team": {
+                "name": "North Macedonia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/north-macedonia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Austria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/austria_64x64.png"
+              },
+              "away_team": {
+                "name": "Tunisia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Tajikistan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tajikistan_64x64.png"
+              },
+              "away_team": {
+                "name": "Palestine",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/palestine_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Match Cancelled",
+                "egypt": "03:00",
+                "status": "Cancelled",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Pakistan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pakistan_64x64.png"
+              },
+              "away_team": {
+                "name": "Bangladesh",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bangladesh_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Maldives",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/maldives_64x64.png"
+              },
+              "away_team": {
+                "name": "Afghanistan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/afghanistan_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "UEFA Under 17 Championship",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Denmark U17",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/denmark-u17_64x64.png"
+              },
+              "away_team": {
+                "name": "Italy U17",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/italy-u17_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "France U17",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/france-u17_64x64.png"
+              },
+              "away_team": {
+                "name": "Montenegro U17",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/montenegro-u17_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Tournoi Maurice Revello",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Japan U20",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/japan-u20_64x64.png"
+              },
+              "away_team": {
+                "name": "CÃ´te d'Ivoire U20",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cã´te-divoire-u20_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Venezuela U20",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/venezuela-u20_64x64.png"
+              },
+              "away_team": {
+                "name": "Canada U20",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/canada-u20_64x64.png"
               },
               "score": {
                 "home": null,
