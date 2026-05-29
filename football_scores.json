@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-29T10:40:29.742358+00:00",
-  "egypt_time": "2026-05-29 13:40:29",
+  "timestamp": "2026-05-29T13:54:26.846637+00:00",
+  "egypt_time": "2026-05-29 16:54:26",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -144,17 +144,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/italy-u17_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "3",
+                "display": "0 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "14:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -754,8 +754,8 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/china-pr-u20_64x64.png"
               },
               "away_team": {
-                "name": "Saudi Arabia U23",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/saudi-arabia-u23_64x64.png"
+                "name": "Saudi Arabia U21",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/saudi-arabia-u21_64x64.png"
               },
               "score": {
                 "home": null,
