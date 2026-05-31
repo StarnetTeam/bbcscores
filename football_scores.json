@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-31T13:23:16.770838+00:00",
-  "egypt_time": "2026-05-31 16:23:16",
+  "timestamp": "2026-05-31T14:59:16.551639+00:00",
+  "egypt_time": "2026-05-31 17:59:16",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -115,12 +115,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jordan_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "5'",
+                "display": "67'",
                 "egypt": "16:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -138,17 +138,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kosovo_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "34'",
                 "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -310,11 +310,11 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "78'",
+                "display": "FT",
                 "egypt": "14:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -329,15 +329,15 @@
               },
               "score": {
                 "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "away": "3",
+                "display": "2 - 3"
               },
               "time": {
-                "display": "79'",
+                "display": "FT",
                 "egypt": "14:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -357,12 +357,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/saudi-arabia-u21_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "7'",
+                "display": "72'",
                 "egypt": "16:00",
                 "status": "MidEvent",
                 "is_live": true,
