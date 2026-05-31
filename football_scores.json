@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-31T16:15:16.434301+00:00",
-  "egypt_time": "2026-05-31 19:15:16",
+  "timestamp": "2026-05-31T17:35:48.989858+00:00",
+  "egypt_time": "2026-05-31 20:35:48",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -115,16 +115,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jordan_64x64.png"
               },
               "score": {
-                "home": "3",
+                "home": "4",
                 "away": "1",
-                "display": "3 - 1"
+                "display": "4 - 1"
               },
               "time": {
-                "display": "57'",
+                "display": "FT",
                 "egypt": "16:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -138,16 +138,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kosovo_64x64.png"
               },
               "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "23'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -161,17 +161,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/serbia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "61'",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -184,17 +184,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ukraine_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "18:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -276,17 +276,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mongolia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "0",
+                "display": "4 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "14:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
@@ -362,11 +362,11 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "63'",
+                "display": "FT",
                 "egypt": "16:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
