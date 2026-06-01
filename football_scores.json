@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-01T05:23:15.096129+00:00",
-  "egypt_time": "2026-06-01 08:23:15",
+  "timestamp": "2026-06-01T10:36:31.006726+00:00",
+  "egypt_time": "2026-06-01 13:36:31",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -157,8 +157,8 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pakistan_64x64.png"
               },
               "away_team": {
-                "name": "Bangladesh",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bangladesh_64x64.png"
+                "name": "Bangladesh U23",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bangladesh-u23_64x64.png"
               },
               "score": {
                 "home": null,
@@ -780,7 +780,7 @@
         },
         {
           "name": "Internationals Women",
-          "match_count": 5,
+          "match_count": 6,
           "matches": [
             {
               "home_team": {
@@ -799,6 +799,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "14:35",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Hong Kong, China",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hong-kong,-china_64x64.png"
+              },
+              "away_team": {
+                "name": "Fiji",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fiji_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
