@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-02T09:46:24.604319+00:00",
-  "egypt_time": "2026-06-02 12:46:24",
+  "timestamp": "2026-06-02T13:55:36.409012+00:00",
+  "egypt_time": "2026-06-02 16:55:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -241,6 +241,29 @@
             },
             {
               "home_team": {
+                "name": "Albania",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/albania_64x64.png"
+              },
+              "away_team": {
+                "name": "Israel",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/israel_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Congo DR",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/congo-dr_64x64.png"
               },
@@ -379,29 +402,6 @@
             },
             {
               "home_team": {
-                "name": "Albania",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/albania_64x64.png"
-              },
-              "away_team": {
-                "name": "Israel",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/israel_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Philippines",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/philippines_64x64.png"
               },
@@ -529,29 +529,6 @@
             },
             {
               "home_team": {
-                "name": "Tanzania",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tanzania_64x64.png"
-              },
-              "away_team": {
-                "name": "Malawi",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malawi_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Myanmar",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/myanmar_64x64.png"
               },
@@ -590,6 +567,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Tanzania",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tanzania_64x64.png"
+              },
+              "away_team": {
+                "name": "Malawi",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malawi_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -682,7 +682,7 @@
       "leagues": [
         {
           "name": "Internationals",
-          "match_count": 13,
+          "match_count": 14,
           "matches": [
             {
               "home_team": {
@@ -747,6 +747,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Iran",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iran_64x64.png"
+              },
+              "away_team": {
+                "name": "Mali",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mali_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
