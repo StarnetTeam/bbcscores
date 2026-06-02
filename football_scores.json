@@ -1,216 +1,13 @@
 {
-  "timestamp": "2026-06-02T18:02:07.353413+00:00",
-  "egypt_time": "2026-06-02 21:02:07",
+  "timestamp": "2026-06-02T21:28:45.352795+00:00",
+  "egypt_time": "2026-06-03 00:28:45",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(02-06-2026)",
-      "date": "2026-06-02",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "Internationals",
-          "match_count": 6,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Colombia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/colombia_64x64.png"
-              },
-              "away_team": {
-                "name": "Costa Rica",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/costa-rica_64x64.png"
-              },
-              "score": {
-                "home": "3",
-                "away": "1",
-                "display": "3 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "02:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Canada",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/canada_64x64.png"
-              },
-              "away_team": {
-                "name": "Uzbekistan",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uzbekistan_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "0",
-                "display": "2 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "04:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Croatia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/croatia_64x64.png"
-              },
-              "away_team": {
-                "name": "Belgium",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/belgium_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
-              },
-              "time": {
-                "display": "90'",
-                "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Georgia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/georgia_64x64.png"
-              },
-              "away_team": {
-                "name": "Romania",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/romania_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "HT",
-                "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Morocco",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/morocco_64x64.png"
-              },
-              "away_team": {
-                "name": "Madagascar",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/madagascar_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "0",
-                "display": "2 - 0"
-              },
-              "time": {
-                "display": "28'",
-                "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Wales",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wales_64x64.png"
-              },
-              "away_team": {
-                "name": "Ghana",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ghana_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "Tournoi Maurice Revello",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "China PR U20",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/china-pr-u20_64x64.png"
-              },
-              "away_team": {
-                "name": "Congo DR U20",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/congo-dr-u20_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "3",
-                "display": "0 - 3"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "16:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Saudi Arabia U21",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/saudi-arabia-u21_64x64.png"
-              },
-              "away_team": {
-                "name": "Colombia U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/colombia-u19_64x64.png"
-              },
-              "score": {
-                "home": "4",
-                "away": "2",
-                "display": "4 - 2"
-              },
-              "time": {
-                "display": "61'",
-                "egypt": "19:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(03-06-2026)",
+      "label": "Today(03-06-2026)",
       "date": "2026-06-03",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "Internationals",
@@ -699,9 +496,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(04-06-2026)",
+      "label": "Tomorrow(04-06-2026)",
       "date": "2026-06-04",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "Internationals",
@@ -1179,6 +976,727 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "01:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(05-06-2026)",
+      "date": "2026-06-05",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "Internationals",
+          "match_count": 22,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Tanzania",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tanzania_64x64.png"
+              },
+              "away_team": {
+                "name": "Uganda",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uganda_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Czech Republic",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/czech-republic_64x64.png"
+              },
+              "away_team": {
+                "name": "Guatemala",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/guatemala_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Mexico",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mexico_64x64.png"
+              },
+              "away_team": {
+                "name": "Serbia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/serbia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "05:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Singapore",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/singapore_64x64.png"
+              },
+              "away_team": {
+                "name": "China",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/china_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Thailand",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/thailand_64x64.png"
+              },
+              "away_team": {
+                "name": "Kuwait",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kuwait_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Indonesia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/indonesia_64x64.png"
+              },
+              "away_team": {
+                "name": "Oman",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/oman_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Slovakia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/slovakia_64x64.png"
+              },
+              "away_team": {
+                "name": "Montenegro",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/montenegro_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Football Union of Russia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/football-union-of-russia_64x64.png"
+              },
+              "away_team": {
+                "name": "Burkina Faso",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/burkina-faso_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Moldova",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/moldova_64x64.png"
+              },
+              "away_team": {
+                "name": "Bulgaria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bulgaria_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Hungary",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hungary_64x64.png"
+              },
+              "away_team": {
+                "name": "Finland",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/finland_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Paraguay",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paraguay_64x64.png"
+              },
+              "away_team": {
+                "name": "Nicaragua",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nicaragua_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "01:15",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Tajikistan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tajikistan_64x64.png"
+              },
+              "away_team": {
+                "name": "India",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/india_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Belarus",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/belarus_64x64.png"
+              },
+              "away_team": {
+                "name": "Syria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/syria_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Georgia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/georgia_64x64.png"
+              },
+              "away_team": {
+                "name": "Bahrain",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bahrain_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "San Marino",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/san-marino_64x64.png"
+              },
+              "away_team": {
+                "name": "Bangladesh",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bangladesh_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Azerbaijan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/azerbaijan_64x64.png"
+              },
+              "away_team": {
+                "name": "Malta",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malta_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Angola",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/angola_64x64.png"
+              },
+              "away_team": {
+                "name": "Botswana",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/botswana_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Match Cancelled",
+                "egypt": "03:00",
+                "status": "Cancelled",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Central African Republic",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/central-african-republic_64x64.png"
+              },
+              "away_team": {
+                "name": "Togo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/togo_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Liberia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/liberia_64x64.png"
+              },
+              "away_team": {
+                "name": "Benin",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/benin_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Match Cancelled",
+                "egypt": "03:00",
+                "status": "Cancelled",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Hong Kong",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hong-kong_64x64.png"
+              },
+              "away_team": {
+                "name": "Mongolia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mongolia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Benin",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/benin_64x64.png"
+              },
+              "away_team": {
+                "name": "Niger",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/niger_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Angola",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/angola_64x64.png"
+              },
+              "away_team": {
+                "name": "Mauritania",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mauritania_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Under 21 Internationals",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Belarus U21",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/belarus-u21_64x64.png"
+              },
+              "away_team": {
+                "name": "Kazakhstan U21",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kazakhstan-u21_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Montenegro U21",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/montenegro-u21_64x64.png"
+              },
+              "away_team": {
+                "name": "Cyprus U21",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cyprus-u21_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Internationals Women",
+          "match_count": 4,
+          "matches": [
+            {
+              "home_team": {
+                "name": "New Zealand",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/new-zealand_64x64.png"
+              },
+              "away_team": {
+                "name": "Haiti",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/haiti_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Egypt",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/egypt_64x64.png"
+              },
+              "away_team": {
+                "name": "Tunisia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Nigeria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nigeria_64x64.png"
+              },
+              "away_team": {
+                "name": "Senegal",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/senegal_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "CÃ´te d'Ivoire",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cã´te-divoire_64x64.png"
+              },
+              "away_team": {
+                "name": "Cabo Verde",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cabo-verde_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Tournoi Maurice Revello",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Colombia U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/colombia-u19_64x64.png"
+              },
+              "away_team": {
+                "name": "China PR U20",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/china-pr-u20_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Saudi Arabia U21",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/saudi-arabia-u21_64x64.png"
+              },
+              "away_team": {
+                "name": "Tunisia U23",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia-u23_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
