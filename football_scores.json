@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-03T02:05:24.132695+00:00",
-  "egypt_time": "2026-06-03 05:05:24",
+  "timestamp": "2026-06-03T07:20:37.888680+00:00",
+  "egypt_time": "2026-06-03 10:20:37",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -161,16 +161,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/new-zealand_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "4",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "4 - 0"
               },
               "time": {
-                "display": "15'",
+                "display": "FT",
                 "egypt": "03:36",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -340,7 +340,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "11:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1388,29 +1388,6 @@
             },
             {
               "home_team": {
-                "name": "Central African Republic",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/central-african-republic_64x64.png"
-              },
-              "away_team": {
-                "name": "Togo",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/togo_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Liberia",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/liberia_64x64.png"
               },
@@ -1463,6 +1440,29 @@
               "away_team": {
                 "name": "Niger",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/niger_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Central African Republic",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/central-african-republic_64x64.png"
+              },
+              "away_team": {
+                "name": "Togo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/togo_64x64.png"
               },
               "score": {
                 "home": null,
