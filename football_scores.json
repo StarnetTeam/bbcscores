@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-05T04:54:11.784328+00:00",
-  "egypt_time": "2026-06-05 07:54:11",
+  "timestamp": "2026-06-05T08:40:12.383790+00:00",
+  "egypt_time": "2026-06-05 11:40:12",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -621,7 +621,7 @@
         },
         {
           "name": "Internationals Women",
-          "match_count": 4,
+          "match_count": 5,
           "matches": [
             {
               "home_team": {
@@ -648,29 +648,6 @@
             },
             {
               "home_team": {
-                "name": "Egypt",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/egypt_64x64.png"
-              },
-              "away_team": {
-                "name": "Tunisia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Nigeria",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nigeria_64x64.png"
               },
@@ -686,6 +663,52 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Egypt",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/egypt_64x64.png"
+              },
+              "away_team": {
+                "name": "Tunisia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Morocco",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/morocco_64x64.png"
+              },
+              "away_team": {
+                "name": "Benin",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/benin_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1279,7 +1302,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "07:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
