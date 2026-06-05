@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-04T22:51:57.735610+00:00",
-  "egypt_time": "2026-06-05 01:51:57",
+  "timestamp": "2026-06-05T00:00:41.859011+00:00",
+  "egypt_time": "2026-06-05 03:00:41",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1576,29 +1576,6 @@
             },
             {
               "home_team": {
-                "name": "Tanzania",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tanzania_64x64.png"
-              },
-              "away_team": {
-                "name": "Malawi",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malawi_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Zambia",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zambia_64x64.png"
               },
@@ -1729,6 +1706,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Tanzania",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tanzania_64x64.png"
+              },
+              "away_team": {
+                "name": "Malawi",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malawi_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
