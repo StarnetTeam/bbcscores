@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-05T11:57:55.137323+00:00",
-  "egypt_time": "2026-06-05 14:57:55",
+  "timestamp": "2026-06-05T14:54:12.356005+00:00",
+  "egypt_time": "2026-06-05 17:54:12",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -92,16 +92,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/china_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "26'",
+                "display": "FT",
                 "egypt": "14:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -115,17 +115,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kuwait_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "15:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -138,17 +138,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/oman_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "0",
+                "display": "3 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "81'",
                 "egypt": "16:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -754,17 +754,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/china-pr-u20_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "90'+4",
                 "egypt": "16:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
