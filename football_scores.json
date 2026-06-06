@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-06T17:04:05.569156+00:00",
-  "egypt_time": "2026-06-06 20:04:05",
+  "timestamp": "2026-06-06T18:46:24.773659+00:00",
+  "egypt_time": "2026-06-06 21:46:24",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -138,17 +138,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/chile_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "37'",
                 "egypt": "20:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -161,17 +161,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wales_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "41'",
                 "egypt": "20:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -420,7 +420,7 @@
               },
               "time": {
                 "display": "FT",
-                "egypt": "19:00",
+                "egypt": "17:00",
                 "status": "PostEvent",
                 "is_live": false,
                 "is_full_time": true,
@@ -437,17 +437,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cayman-islands_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "61'",
                 "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -460,17 +460,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/luxembourg_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "10'",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -552,17 +552,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/palestine_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
-                "egypt": "15:30",
-                "status": "PreEvent",
+                "display": "FT",
+                "egypt": "17:30",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -575,17 +575,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malawi_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "18:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1081,7 +1081,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "18'",
+                "display": "90'+3",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1670,29 +1670,6 @@
             },
             {
               "home_team": {
-                "name": "Uganda",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uganda_64x64.png"
-              },
-              "away_team": {
-                "name": "Madagascar",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/madagascar_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Match Cancelled",
-                "egypt": "03:00",
-                "status": "Cancelled",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
                 "name": "Sri Lanka",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sri-lanka_64x64.png"
               },
@@ -1712,6 +1689,29 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Uganda",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uganda_64x64.png"
+              },
+              "away_team": {
+                "name": "Madagascar",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/madagascar_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Match Cancelled",
+                "egypt": "03:00",
+                "status": "Cancelled",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": false
               }
             },
             {
