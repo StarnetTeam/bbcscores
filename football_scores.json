@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-05T22:39:18.704329+00:00",
-  "egypt_time": "2026-06-06 01:39:18",
+  "timestamp": "2026-06-06T00:01:30.392674+00:00",
+  "egypt_time": "2026-06-06 03:01:30",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/saudi-arabia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Suspended",
                 "egypt": "02:00",
-                "status": "PreEvent",
+                "status": "Suspended",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -475,29 +475,6 @@
             },
             {
               "home_team": {
-                "name": "Ethiopia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ethiopia_64x64.png"
-              },
-              "away_team": {
-                "name": "Malawi",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malawi_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Vanuatu",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vanuatu_64x64.png"
               },
@@ -559,6 +536,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "15:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Ethiopia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ethiopia_64x64.png"
+              },
+              "away_team": {
+                "name": "Malawi",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malawi_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
