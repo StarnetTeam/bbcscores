@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-06T07:42:55.782846+00:00",
-  "egypt_time": "2026-06-06 10:42:55",
+  "timestamp": "2026-06-06T09:57:53.791246+00:00",
+  "egypt_time": "2026-06-06 12:57:53",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -506,27 +506,27 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fiji_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "07:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
               "home_team": {
-                "name": "Guam",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/guam_64x64.png"
-              },
-              "away_team": {
                 "name": "Myanmar",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/myanmar_64x64.png"
+              },
+              "away_team": {
+                "name": "Guam",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/guam_64x64.png"
               },
               "score": {
                 "home": null,
@@ -725,16 +725,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/south-africa_64x64.png"
               },
               "score": {
-                "home": "3",
+                "home": "5",
                 "away": "0",
-                "display": "3 - 0"
+                "display": "5 - 0"
               },
               "time": {
-                "display": "45'+4",
+                "display": "FT",
                 "egypt": "09:50",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -748,17 +748,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mexico_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "37'",
                 "egypt": "12:15",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
