@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-06T14:26:07.206641+00:00",
-  "egypt_time": "2026-06-06 17:26:07",
+  "timestamp": "2026-06-06T15:49:41.540206+00:00",
+  "egypt_time": "2026-06-06 18:49:41",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -92,16 +92,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "5",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "5 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "16:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -414,17 +414,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kazakhstan_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "56'",
                 "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1053,16 +1053,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/canada-u20_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "16:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
