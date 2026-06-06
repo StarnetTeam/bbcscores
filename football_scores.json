@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-06T04:33:57.073262+00:00",
-  "egypt_time": "2026-06-06 07:33:57",
+  "timestamp": "2026-06-06T07:42:55.782846+00:00",
+  "egypt_time": "2026-06-06 10:42:55",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -725,17 +725,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/south-africa_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "0",
+                "display": "3 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "45'+4",
                 "egypt": "09:50",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -863,17 +863,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jamaica_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
