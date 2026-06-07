@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-07T05:04:39.228357+00:00",
-  "egypt_time": "2026-06-07 08:04:39",
+  "timestamp": "2026-06-07T08:33:23.807083+00:00",
+  "egypt_time": "2026-06-07 11:33:23",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -374,7 +374,7 @@
         },
         {
           "name": "Internationals Women",
-          "match_count": 4,
+          "match_count": 5,
           "matches": [
             {
               "home_team": {
@@ -416,6 +416,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Bahrain",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bahrain_64x64.png"
+              },
+              "away_team": {
+                "name": "Kyrgyz Republic",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kyrgyz-republic_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1210,29 +1233,6 @@
             },
             {
               "home_team": {
-                "name": "Angola",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/angola_64x64.png"
-              },
-              "away_team": {
-                "name": "Central African Republic",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/central-african-republic_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Botswana",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/botswana_64x64.png"
               },
@@ -1501,6 +1501,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Central African Republic",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/central-african-republic_64x64.png"
+              },
+              "away_team": {
+                "name": "Angola",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/angola_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
