@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-07T19:11:49.053757+00:00",
-  "egypt_time": "2026-06-07 22:11:49",
+  "timestamp": "2026-06-07T20:43:36.269608+00:00",
+  "egypt_time": "2026-06-07 23:43:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -74,11 +74,11 @@
                 "display": "2 - 1"
               },
               "time": {
-                "display": "Suspended",
+                "display": "FT",
                 "egypt": "19:30",
-                "status": "Suspended",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -92,16 +92,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/slovenia_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "21'",
+                "display": "FT",
                 "egypt": "21:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -116,11 +116,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "5'",
+                "display": "81'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -138,12 +138,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/norway_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "2'",
+                "display": "73'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -161,17 +161,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/guatemala_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "26'",
                 "egypt": "23:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -230,16 +230,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/andorra_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "3",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "47'",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -335,8 +335,8 @@
               "time": {
                 "display": "PENS",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PostEvent",
+                "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
               }
