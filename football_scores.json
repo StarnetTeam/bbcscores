@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-07T21:59:23.022108+00:00",
-  "egypt_time": "2026-06-08 00:59:23",
+  "timestamp": "2026-06-07T23:10:52.837463+00:00",
+  "egypt_time": "2026-06-08 02:10:52",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1286,7 +1286,7 @@
       "leagues": [
         {
           "name": "Internationals",
-          "match_count": 6,
+          "match_count": 7,
           "matches": [
             {
               "home_team": {
@@ -1420,6 +1420,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "23:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Pakistan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pakistan_64x64.png"
+              },
+              "away_team": {
+                "name": "Afghanistan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/afghanistan_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
