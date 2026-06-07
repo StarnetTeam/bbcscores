@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-07T00:04:39.933322+00:00",
-  "egypt_time": "2026-06-07 03:04:39",
+  "timestamp": "2026-06-07T05:04:39.228357+00:00",
+  "egypt_time": "2026-06-07 08:04:39",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/honduras_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "03:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -184,17 +184,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/aruba_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "0",
+                "display": "4 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "03:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -374,7 +374,7 @@
         },
         {
           "name": "Internationals Women",
-          "match_count": 3,
+          "match_count": 4,
           "matches": [
             {
               "home_team": {
@@ -393,6 +393,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Saudi Arabia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/saudi-arabia_64x64.png"
+              },
+              "away_team": {
+                "name": "Sri Lanka",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sri-lanka_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
