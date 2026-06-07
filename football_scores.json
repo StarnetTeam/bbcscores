@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-07T16:09:46.513944+00:00",
-  "egypt_time": "2026-06-07 19:09:46",
+  "timestamp": "2026-06-07T17:45:44.747735+00:00",
+  "egypt_time": "2026-06-07 20:45:44",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -69,17 +69,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ukraine_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "28'",
                 "egypt": "19:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -530,17 +530,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia-u23_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "30'",
                 "egypt": "19:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -846,12 +846,12 @@
             },
             {
               "home_team": {
-                "name": "Nigeria",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nigeria_64x64.png"
-              },
-              "away_team": {
                 "name": "Senegal",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/senegal_64x64.png"
+              },
+              "away_team": {
+                "name": "Nigeria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nigeria_64x64.png"
               },
               "score": {
                 "home": null,
