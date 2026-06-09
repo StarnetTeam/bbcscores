@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-09T02:34:19.594024+00:00",
-  "egypt_time": "2026-06-09 05:34:19",
+  "timestamp": "2026-06-09T06:43:16.566849+00:00",
+  "egypt_time": "2026-06-09 09:43:16",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,16 +23,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "home": "1",
+                "away": "3",
+                "display": "1 - 3"
               },
               "time": {
-                "display": "20'",
+                "display": "FT",
                 "egypt": "05:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -610,17 +610,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/south-africa_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "13'",
                 "egypt": "09:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -809,12 +809,12 @@
             },
             {
               "home_team": {
-                "name": "Zimbabwe",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zimbabwe_64x64.png"
-              },
-              "away_team": {
                 "name": "Zambia",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zambia_64x64.png"
+              },
+              "away_team": {
+                "name": "Zimbabwe",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zimbabwe_64x64.png"
               },
               "score": {
                 "home": null,
