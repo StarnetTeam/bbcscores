@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-10T17:53:41.648131+00:00",
-  "egypt_time": "2026-06-10 20:53:41",
+  "timestamp": "2026-06-10T20:21:12.520205+00:00",
+  "egypt_time": "2026-06-10 23:21:12",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -92,17 +92,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nigeria_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "33'",
                 "egypt": "22:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -121,7 +121,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "23:00",
+                "egypt": "00:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -265,17 +265,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia-u23_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
