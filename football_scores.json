@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-10T02:48:23.111489+00:00",
-  "egypt_time": "2026-06-10 05:48:23",
+  "timestamp": "2026-06-10T07:04:36.667976+00:00",
+  "egypt_time": "2026-06-10 10:04:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -46,16 +46,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iceland_64x64.png"
               },
               "score": {
-                "home": "2",
+                "home": "3",
                 "away": "0",
-                "display": "2 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "79'",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -74,11 +74,11 @@
                 "display": "0 - 2"
               },
               "time": {
-                "display": "80'",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -191,15 +191,15 @@
               },
               "score": {
                 "home": "0",
-                "away": "3",
-                "display": "0 - 3"
+                "away": "6",
+                "display": "0 - 6"
               },
               "time": {
-                "display": "61'",
+                "display": "FT",
                 "egypt": "04:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
