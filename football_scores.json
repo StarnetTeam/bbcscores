@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-11T08:04:41.196005+00:00",
-  "egypt_time": "2026-06-11 11:04:41",
+  "timestamp": "2026-06-11T12:26:05.545396+00:00",
+  "egypt_time": "2026-06-11 15:26:05",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -104,17 +104,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/japan-u20_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "44'",
                 "egypt": "14:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
