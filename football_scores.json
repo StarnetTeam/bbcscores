@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-13T00:15:08.826416+00:00",
-  "egypt_time": "2026-06-13 03:15:08",
+  "timestamp": "2026-06-13T04:57:46.495870+00:00",
+  "egypt_time": "2026-06-13 07:57:46",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -69,17 +69,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paraguay_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
