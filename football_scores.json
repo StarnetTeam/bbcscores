@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-13T17:51:09.998120+00:00",
-  "egypt_time": "2026-06-13 20:51:09",
+  "timestamp": "2026-06-13T19:15:26.269983+00:00",
+  "egypt_time": "2026-06-13 22:15:26",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/switzerland_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "11'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -150,16 +150,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia-u23_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "45'+1",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
