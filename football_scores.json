@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-14T19:16:50.845983+00:00",
-  "egypt_time": "2026-06-14 22:16:50",
+  "timestamp": "2026-06-14T20:44:56.415062+00:00",
+  "egypt_time": "2026-06-14 23:44:56",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -92,17 +92,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/japan_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "44'",
                 "egypt": "23:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
