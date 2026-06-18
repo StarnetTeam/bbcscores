@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-18T21:19:01.605935+00:00",
-  "egypt_time": "2026-06-19 00:19:01",
+  "timestamp": "2026-06-18T23:15:35.536945+00:00",
+  "egypt_time": "2026-06-19 02:15:35",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,8 +11,31 @@
       "leagues": [
         {
           "name": "FIFA World Cup",
-          "match_count": 3,
+          "match_count": 4,
           "matches": [
+            {
+              "home_team": {
+                "name": "Canada",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/canada_64x64.png"
+              },
+              "away_team": {
+                "name": "Qatar",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/qatar_64x64.png"
+              },
+              "score": {
+                "home": "3",
+                "away": "0",
+                "display": "3 - 0"
+              },
+              "time": {
+                "display": "53'",
+                "egypt": "01:00",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "Mexico",
