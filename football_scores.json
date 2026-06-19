@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-19T22:29:28.328213+00:00",
-  "egypt_time": "2026-06-20 01:29:28",
+  "timestamp": "2026-06-19T23:37:35.398290+00:00",
+  "egypt_time": "2026-06-20 02:37:35",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,8 +11,31 @@
       "leagues": [
         {
           "name": "FIFA World Cup",
-          "match_count": 4,
+          "match_count": 5,
           "matches": [
+            {
+              "home_team": {
+                "name": "Scotland",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/scotland_64x64.png"
+              },
+              "away_team": {
+                "name": "Morocco",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/morocco_64x64.png"
+              },
+              "score": {
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
+              },
+              "time": {
+                "display": "74'",
+                "egypt": "01:00",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "Brazil",
