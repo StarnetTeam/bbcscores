@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-21T21:51:17.002488+00:00",
-  "egypt_time": "2026-06-22 00:51:17",
+  "timestamp": "2026-06-21T23:05:29.423768+00:00",
+  "egypt_time": "2026-06-22 02:05:29",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,8 +11,31 @@
       "leagues": [
         {
           "name": "FIFA World Cup",
-          "match_count": 3,
+          "match_count": 4,
           "matches": [
+            {
+              "home_team": {
+                "name": "Uruguay",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uruguay_64x64.png"
+              },
+              "away_team": {
+                "name": "Cape Verde",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cape-verde_64x64.png"
+              },
+              "score": {
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
+              },
+              "time": {
+                "display": "HT",
+                "egypt": "01:00",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "New Zealand",
