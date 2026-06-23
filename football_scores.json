@@ -1,118 +1,13 @@
 {
-  "timestamp": "2026-06-23T19:23:53.855067+00:00",
-  "egypt_time": "2026-06-23 22:23:53",
+  "timestamp": "2026-06-23T21:12:08.635223+00:00",
+  "egypt_time": "2026-06-24 00:12:08",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(23-06-2026)",
-      "date": "2026-06-23",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "FIFA World Cup",
-          "match_count": 4,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Norway",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/norway_64x64.png"
-              },
-              "away_team": {
-                "name": "Senegal",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/senegal_64x64.png"
-              },
-              "score": {
-                "home": "3",
-                "away": "2",
-                "display": "3 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "03:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Jordan",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jordan_64x64.png"
-              },
-              "away_team": {
-                "name": "Algeria",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/algeria_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "2",
-                "display": "1 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "06:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Portugal",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/portugal_64x64.png"
-              },
-              "away_team": {
-                "name": "Uzbekistan",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uzbekistan_64x64.png"
-              },
-              "score": {
-                "home": "5",
-                "away": "0",
-                "display": "5 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "20:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "England",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/england_64x64.png"
-              },
-              "away_team": {
-                "name": "Ghana",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ghana_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "23:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(24-06-2026)",
+      "label": "Today(24-06-2026)",
       "date": "2026-06-24",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -261,9 +156,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(25-06-2026)",
+      "label": "Tomorrow(25-06-2026)",
       "date": "2026-06-25",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -355,6 +250,157 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "23:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(26-06-2026)",
+      "date": "2026-06-26",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "FIFA World Cup",
+          "match_count": 6,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Japan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/japan_64x64.png"
+              },
+              "away_team": {
+                "name": "Sweden",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sweden_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "02:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Tunisia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tunisia_64x64.png"
+              },
+              "away_team": {
+                "name": "Netherlands",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/netherlands_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "02:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Paraguay",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paraguay_64x64.png"
+              },
+              "away_team": {
+                "name": "Australia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/australia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "05:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Turkey",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/turkey_64x64.png"
+              },
+              "away_team": {
+                "name": "United States",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/united-states_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "05:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Norway",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/norway_64x64.png"
+              },
+              "away_team": {
+                "name": "France",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/france_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Senegal",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/senegal_64x64.png"
+              },
+              "away_team": {
+                "name": "Iraq",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iraq_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
