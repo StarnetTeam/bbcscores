@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-23T00:14:05.099282+00:00",
-  "egypt_time": "2026-06-23 03:14:05",
+  "timestamp": "2026-06-23T04:38:19.471815+00:00",
+  "egypt_time": "2026-06-23 07:38:19",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,31 +11,8 @@
       "leagues": [
         {
           "name": "FIFA World Cup",
-          "match_count": 5,
+          "match_count": 4,
           "matches": [
-            {
-              "home_team": {
-                "name": "France",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/france_64x64.png"
-              },
-              "away_team": {
-                "name": "Iraq",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iraq_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "0",
-                "display": "2 - 0"
-              },
-              "time": {
-                "display": "58'",
-                "egypt": "00:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
             {
               "home_team": {
                 "name": "Norway",
@@ -46,16 +23,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/senegal_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "3",
+                "away": "2",
+                "display": "3 - 2"
               },
               "time": {
-                "display": "13'",
+                "display": "FT",
                 "egypt": "03:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -69,17 +46,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/algeria_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "75'",
                 "egypt": "06:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
