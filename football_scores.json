@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-23T14:35:02.411683+00:00",
-  "egypt_time": "2026-06-23 17:35:02",
+  "timestamp": "2026-06-23T17:12:25.853681+00:00",
+  "egypt_time": "2026-06-23 20:12:25",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -69,17 +69,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uzbekistan_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "11'",
                 "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
