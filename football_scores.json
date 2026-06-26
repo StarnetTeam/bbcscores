@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-26T02:44:51.516057+00:00",
-  "egypt_time": "2026-06-26 05:44:51",
+  "timestamp": "2026-06-26T06:48:59.253398+00:00",
+  "egypt_time": "2026-06-26 09:48:59",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -74,11 +74,11 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "44'",
+                "display": "FT",
                 "egypt": "05:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -92,16 +92,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/united-states_64x64.png"
               },
               "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "home": "3",
+                "away": "2",
+                "display": "3 - 2"
               },
               "time": {
-                "display": "45'",
+                "display": "FT",
                 "egypt": "05:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
