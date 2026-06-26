@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-26T17:14:08.348250+00:00",
-  "egypt_time": "2026-06-26 20:14:08",
+  "timestamp": "2026-06-26T19:15:42.545159+00:00",
+  "egypt_time": "2026-06-26 22:15:42",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -115,17 +115,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/france_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "12'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -138,17 +138,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iraq_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "12'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
