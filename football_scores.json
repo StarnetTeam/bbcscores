@@ -1,124 +1,13 @@
 {
-  "timestamp": "2026-06-29T19:48:24.035517+00:00",
-  "egypt_time": "2026-06-29 22:48:24",
+  "timestamp": "2026-06-29T21:19:38.205227+00:00",
+  "egypt_time": "2026-06-30 00:19:38",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(29-06-2026)",
-      "date": "2026-06-29",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "FIFA World Cup",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Brazil",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/brazil_64x64.png"
-              },
-              "away_team": {
-                "name": "Japan",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/japan_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "20:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Germany",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/germany_64x64.png"
-              },
-              "away_team": {
-                "name": "Paraguay",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paraguay_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "23:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "UEFA Under 19 Championship",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Italy U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/italy-u19_64x64.png"
-              },
-              "away_team": {
-                "name": "Serbia U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/serbia-u19_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "0",
-                "display": "2 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Croatia U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/croatia-u19_64x64.png"
-              },
-              "away_team": {
-                "name": "Ukraine U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ukraine-u19_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
-              },
-              "time": {
-                "display": "HT",
-                "egypt": "22:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(30-06-2026)",
+      "label": "Today(30-06-2026)",
       "date": "2026-06-30",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -198,9 +87,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(01-07-2026)",
+      "label": "Tomorrow(01-07-2026)",
       "date": "2026-07-01",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -321,6 +210,117 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(02-07-2026)",
+      "date": "2026-07-02",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "FIFA World Cup",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "United States",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/united-states_64x64.png"
+              },
+              "away_team": {
+                "name": "Bosnia-Herzegovina",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bosnia-herzegovina_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Spain",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain_64x64.png"
+              },
+              "away_team": {
+                "name": "Austria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/austria_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "UEFA Under 19 Championship",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Croatia U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/croatia-u19_64x64.png"
+              },
+              "away_team": {
+                "name": "Italy U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/italy-u19_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Serbia U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/serbia-u19_64x64.png"
+              },
+              "away_team": {
+                "name": "Ukraine U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ukraine-u19_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
