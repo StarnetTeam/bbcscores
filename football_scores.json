@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-30T18:04:06.968557+00:00",
-  "egypt_time": "2026-06-30 21:04:06",
+  "timestamp": "2026-06-30T20:26:18.710370+00:00",
+  "egypt_time": "2026-06-30 23:26:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -46,16 +46,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/norway_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
