@@ -1,147 +1,13 @@
 {
-  "timestamp": "2026-07-01T20:21:14.391913+00:00",
-  "egypt_time": "2026-07-01 23:21:14",
+  "timestamp": "2026-07-01T21:57:34.150512+00:00",
+  "egypt_time": "2026-07-02 00:57:34",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(01-07-2026)",
-      "date": "2026-07-01",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "FIFA World Cup",
-          "match_count": 3,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Mexico",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mexico_64x64.png"
-              },
-              "away_team": {
-                "name": "Ecuador",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ecuador_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "0",
-                "display": "2 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "05:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "England",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/england_64x64.png"
-              },
-              "away_team": {
-                "name": "Congo DR",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/congo-dr_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "19:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Belgium",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/belgium_64x64.png"
-              },
-              "away_team": {
-                "name": "Senegal",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/senegal_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "19'",
-                "egypt": "23:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "UEFA Under 19 Championship",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Denmark U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/denmark-u19_64x64.png"
-              },
-              "away_team": {
-                "name": "Spain U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain-u19_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "3",
-                "display": "0 - 3"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "20:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Wales U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wales-u19_64x64.png"
-              },
-              "away_team": {
-                "name": "Germany U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/germany-u19_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "3",
-                "display": "0 - 3"
-              },
-              "time": {
-                "display": "62'",
-                "egypt": "22:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(02-07-2026)",
+      "label": "Today(02-07-2026)",
       "date": "2026-07-02",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -250,9 +116,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(03-07-2026)",
+      "label": "Tomorrow(03-07-2026)",
       "date": "2026-07-03",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -373,6 +239,140 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(04-07-2026)",
+      "date": "2026-07-04",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "FIFA World Cup",
+          "match_count": 3,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Colombia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/colombia_64x64.png"
+              },
+              "away_team": {
+                "name": "Ghana",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ghana_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "04:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Canada",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/canada_64x64.png"
+              },
+              "away_team": {
+                "name": "Morocco",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/morocco_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Paraguay",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paraguay_64x64.png"
+              },
+              "away_team": {
+                "name": "France",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/france_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "00:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "UEFA Under 19 Championship",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Denmark U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/denmark-u19_64x64.png"
+              },
+              "away_team": {
+                "name": "Wales U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wales-u19_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Spain U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain-u19_64x64.png"
+              },
+              "away_team": {
+                "name": "Germany U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/germany-u19_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
