@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-01T23:16:00.899812+00:00",
-  "egypt_time": "2026-07-02 02:16:00",
+  "timestamp": "2026-07-02T01:30:06.566123+00:00",
+  "egypt_time": "2026-07-02 04:30:06",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bosnia-herzegovina_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "63'",
                 "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
