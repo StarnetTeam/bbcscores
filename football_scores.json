@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-05T14:26:38.105676+00:00",
-  "egypt_time": "2026-07-05 17:26:38",
+  "timestamp": "2026-07-05T15:45:44.423669+00:00",
+  "egypt_time": "2026-07-05 18:45:44",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -52,17 +52,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/croatia-u19_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "42'",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -75,17 +75,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/italy-u19_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "42'",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
