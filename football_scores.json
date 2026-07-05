@@ -1,101 +1,13 @@
 {
-  "timestamp": "2026-07-05T20:08:47.719674+00:00",
-  "egypt_time": "2026-07-05 23:08:47",
+  "timestamp": "2026-07-05T21:31:57.946050+00:00",
+  "egypt_time": "2026-07-06 00:31:57",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(05-07-2026)",
-      "date": "2026-07-05",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "FIFA World Cup",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Brazil",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/brazil_64x64.png"
-              },
-              "away_team": {
-                "name": "Norway",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/norway_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "7'",
-                "egypt": "23:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "UEFA Under 19 Championship",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Serbia U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/serbia-u19_64x64.png"
-              },
-              "away_team": {
-                "name": "Croatia U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/croatia-u19_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "3",
-                "display": "0 - 3"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Ukraine U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ukraine-u19_64x64.png"
-              },
-              "away_team": {
-                "name": "Italy U19",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/italy-u19_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(06-07-2026)",
+      "label": "Today(06-07-2026)",
       "date": "2026-07-06",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -152,9 +64,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(07-07-2026)",
+      "label": "Tomorrow(07-07-2026)",
       "date": "2026-07-07",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -511,6 +423,261 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(08-07-2026)",
+      "date": "2026-07-08",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "UEFA Champions League",
+          "match_count": 4,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Kairat",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/kairat.064a1a3574.svg"
+              },
+              "away_team": {
+                "name": "Sutjeska",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sutjeska_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Flora",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/flora_64x64.png"
+              },
+              "away_team": {
+                "name": "Iberia 1999",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iberia-1999_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "ML Vitebsk",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ml-vitebsk_64x64.png"
+              },
+              "away_team": {
+                "name": "Universitatea Craiova",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/universitatea-craiova_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Petrocub",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/petrocub_64x64.png"
+              },
+              "away_team": {
+                "name": "Egnatia RrogozhinÃ«",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/egnatia-rrogozhinã«_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "UEFA Conference League",
+          "match_count": 3,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Zira",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zira_64x64.png"
+              },
+              "away_team": {
+                "name": "Torpedo Kutaisi",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/torpedo-kutaisi_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Connah's Quay Nomads",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/connahs-quay-nomads_64x64.png"
+              },
+              "away_team": {
+                "name": "Ballkani",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ballkani_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Differdange 03",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/differdange-03_64x64.png"
+              },
+              "away_team": {
+                "name": "Ilves",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ilves_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "UEFA Under 19 Championship",
+          "match_count": 3,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Spain U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain-u19_64x64.png"
+              },
+              "away_team": {
+                "name": "Croatia U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/croatia-u19_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Ukraine U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ukraine-u19_64x64.png"
+              },
+              "away_team": {
+                "name": "Germany U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/germany-u19_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Denmark U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/denmark-u19_64x64.png"
+              },
+              "away_team": {
+                "name": "Italy U19",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/italy-u19_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
