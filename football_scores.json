@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-06T23:00:44.404323+00:00",
-  "egypt_time": "2026-07-07 02:00:44",
+  "timestamp": "2026-07-07T01:14:29.334213+00:00",
+  "egypt_time": "2026-07-07 04:14:29",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/belgium_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "50'",
                 "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
