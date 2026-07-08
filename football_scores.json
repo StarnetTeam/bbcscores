@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-08T18:14:19.805074+00:00",
-  "egypt_time": "2026-07-08 21:14:19",
+  "timestamp": "2026-07-08T20:00:50.282825+00:00",
+  "egypt_time": "2026-07-08 23:00:50",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -70,15 +70,15 @@
               },
               "score": {
                 "home": "1",
-                "away": "3",
-                "display": "1 - 3"
+                "away": "4",
+                "display": "1 - 4"
               },
               "time": {
-                "display": "46'",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -97,11 +97,11 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "52'",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -149,11 +149,11 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "41'",
+                "display": "FT",
                 "egypt": "20:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -172,11 +172,11 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "21'",
+                "display": "FT",
                 "egypt": "20:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -219,12 +219,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/germany-u19_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "12'",
+                "display": "90'+5",
                 "egypt": "21:00",
                 "status": "MidEvent",
                 "is_live": true,
