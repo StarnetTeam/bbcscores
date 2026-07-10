@@ -1,49 +1,13 @@
 {
-  "timestamp": "2026-07-10T20:19:52.737326+00:00",
-  "egypt_time": "2026-07-10 23:19:52",
+  "timestamp": "2026-07-10T21:32:52.300488+00:00",
+  "egypt_time": "2026-07-11 00:32:52",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(10-07-2026)",
-      "date": "2026-07-10",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "FIFA World Cup",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Spain",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain_64x64.png"
-              },
-              "away_team": {
-                "name": "Belgium",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/belgium_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
-              },
-              "time": {
-                "display": "57'",
-                "egypt": "22:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(11-07-2026)",
+      "label": "Today(11-07-2026)",
       "date": "2026-07-11",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -135,9 +99,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(12-07-2026)",
+      "label": "Tomorrow(12-07-2026)",
       "date": "2026-07-12",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -169,6 +133,12 @@
           ]
         }
       ]
+    },
+    {
+      "label": "After Tomorrow(13-07-2026)",
+      "date": "2026-07-13",
+      "day_offset": 2,
+      "leagues": []
     }
   ]
 }
