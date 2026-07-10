@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-10T06:24:27.794384+00:00",
-  "egypt_time": "2026-07-10 09:24:27",
+  "timestamp": "2026-07-10T09:58:08.283516+00:00",
+  "egypt_time": "2026-07-10 12:58:08",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -95,6 +95,35 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Internationals Women",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Cameroon",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cameroon_64x64.png"
+              },
+              "away_team": {
+                "name": "Benin",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/benin_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
