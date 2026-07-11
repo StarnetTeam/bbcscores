@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-11T22:11:54.291962+00:00",
-  "egypt_time": "2026-07-12 01:11:54",
+  "timestamp": "2026-07-11T23:23:20.129794+00:00",
+  "egypt_time": "2026-07-12 02:23:20",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,8 +11,31 @@
       "leagues": [
         {
           "name": "FIFA World Cup",
-          "match_count": 1,
+          "match_count": 2,
           "matches": [
+            {
+              "home_team": {
+                "name": "Norway",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/norway_64x64.png"
+              },
+              "away_team": {
+                "name": "England",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/england_64x64.png"
+              },
+              "score": {
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
+              },
+              "time": {
+                "display": "105' ET",
+                "egypt": "00:00",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "Argentina",
