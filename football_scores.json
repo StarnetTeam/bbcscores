@@ -1,55 +1,19 @@
 {
-  "timestamp": "2026-07-12T20:04:07.251323+00:00",
-  "egypt_time": "2026-07-12 23:04:07",
+  "timestamp": "2026-07-12T21:13:09.828707+00:00",
+  "egypt_time": "2026-07-13 00:13:09",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(12-07-2026)",
-      "date": "2026-07-12",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "FIFA World Cup",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Argentina",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/argentina_64x64.png"
-              },
-              "away_team": {
-                "name": "Switzerland",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/switzerland_64x64.png"
-              },
-              "score": {
-                "home": "3",
-                "away": "1",
-                "display": "3 - 1"
-              },
-              "time": {
-                "display": "AET",
-                "egypt": "04:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(13-07-2026)",
+      "label": "Today(13-07-2026)",
       "date": "2026-07-13",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": []
     },
     {
-      "label": "After Tomorrow(14-07-2026)",
+      "label": "Tomorrow(14-07-2026)",
       "date": "2026-07-14",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "FIFA World Cup",
@@ -337,6 +301,192 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(15-07-2026)",
+      "date": "2026-07-15",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "FIFA World Cup",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "England",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/england_64x64.png"
+              },
+              "away_team": {
+                "name": "Argentina",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/argentina_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "UEFA Champions League",
+          "match_count": 4,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Universitatea Craiova",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/universitatea-craiova_64x64.png"
+              },
+              "away_team": {
+                "name": "ML Vitebsk",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ml-vitebsk_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Atert Bissen",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atert-bissen_64x64.png"
+              },
+              "away_team": {
+                "name": "KÃ",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kã_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:15",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Egnatia RrogozhinÃ«",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/egnatia-rrogozhinã«_64x64.png"
+              },
+              "away_team": {
+                "name": "Petrocub",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/petrocub_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sutjeska",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sutjeska_64x64.png"
+              },
+              "away_team": {
+                "name": "Kairat",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/kairat.064a1a3574.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "UEFA Conference League",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Malisheva",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malisheva_64x64.png"
+              },
+              "away_team": {
+                "name": "Vllaznia ShkodÃ«r",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vllaznia-shkodã«r_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "DeÄiÄ",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/deäiä_64x64.png"
+              },
+              "away_team": {
+                "name": "LiepÄja",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/liepäja_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
