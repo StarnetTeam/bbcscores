@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-12T01:02:07.352291+00:00",
-  "egypt_time": "2026-07-12 04:02:07",
+  "timestamp": "2026-07-12T04:48:00.522149+00:00",
+  "egypt_time": "2026-07-12 07:48:00",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/switzerland_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "AET",
                 "egypt": "04:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
