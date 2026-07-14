@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-14T16:09:28.687288+00:00",
-  "egypt_time": "2026-07-14 19:09:28",
+  "timestamp": "2026-07-14T17:39:06.547794+00:00",
+  "egypt_time": "2026-07-14 20:39:06",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -53,11 +53,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "63'",
                 "egypt": "18:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -75,12 +75,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/flora_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "1'",
+                "display": "15'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -103,7 +103,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "1'",
+                "display": "13'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1196,6 +1196,35 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Friendly",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "RakÃ³w CzÄstochowa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rakã³w-czästochowa_64x64.png"
+              },
+              "away_team": {
+                "name": "GKS Katowice",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gks-katowice_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
