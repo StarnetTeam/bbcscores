@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-14T21:52:08.601260+00:00",
-  "egypt_time": "2026-07-15 00:52:08",
+  "timestamp": "2026-07-14T22:51:51.500089+00:00",
+  "egypt_time": "2026-07-15 01:51:51",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1160,7 +1160,7 @@
         },
         {
           "name": "Friendly",
-          "match_count": 8,
+          "match_count": 9,
           "matches": [
             {
               "home_team": {
@@ -1340,6 +1340,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Alfreton Town",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alfreton-town_64x64.png"
+              },
+              "away_team": {
+                "name": "Derby County",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/derby-county_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
