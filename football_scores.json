@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-14T19:08:32.409926+00:00",
-  "egypt_time": "2026-07-14 22:08:32",
+  "timestamp": "2026-07-14T20:36:18.940745+00:00",
+  "egypt_time": "2026-07-14 23:36:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -24,11 +24,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "1'",
+                "display": "73'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -167,16 +167,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/borac-banja-luka.8ee7567fff.svg"
               },
               "score": {
-                "home": "3",
+                "home": "4",
                 "away": "0",
-                "display": "3 - 0"
+                "display": "4 - 0"
               },
               "time": {
-                "display": "72'",
+                "display": "FT",
                 "egypt": "20:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -190,16 +190,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sabah_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "2",
-                "display": "0 - 2"
+                "display": "1 - 2"
               },
               "time": {
-                "display": "78'",
+                "display": "FT",
                 "egypt": "20:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -213,16 +213,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kauno-å½algiris_64x64.png"
               },
               "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
+                "home": "2",
+                "away": "3",
+                "display": "2 - 3"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -236,12 +236,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tre-fiori_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "1'",
+                "display": "78'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -259,12 +259,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/floriana_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
               },
               "time": {
-                "display": "2'",
+                "display": "73'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -289,11 +289,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "1'",
+                "display": "77'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -334,7 +334,7 @@
         },
         {
           "name": "Friendly",
-          "match_count": 25,
+          "match_count": 28,
           "matches": [
             {
               "home_team": {
@@ -374,11 +374,11 @@
                 "display": "1 - 2"
               },
               "time": {
-                "display": "74'",
+                "display": "FT",
                 "egypt": "20:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -798,6 +798,29 @@
             },
             {
               "home_team": {
+                "name": "HIK",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hik_64x64.png"
+              },
+              "away_team": {
+                "name": "VanlÃ¸se",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vanlã¸se_64x64.png"
+              },
+              "score": {
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
+              },
+              "time": {
+                "display": "FT",
+                "egypt": "19:00",
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
                 "name": "Plauen",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/plauen_64x64.png"
               },
@@ -821,6 +844,29 @@
             },
             {
               "home_team": {
+                "name": "Port Vale",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/port-vale.cc6aca5bb1.svg"
+              },
+              "away_team": {
+                "name": "Tamworth",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tamworth.0c4e65f029.svg"
+              },
+              "score": {
+                "home": "5",
+                "away": "0",
+                "display": "5 - 0"
+              },
+              "time": {
+                "display": "FT",
+                "egypt": "19:00",
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
                 "name": "Randers",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/randers_64x64.png"
               },
@@ -832,6 +878,29 @@
                 "home": "3",
                 "away": "1",
                 "display": "3 - 1"
+              },
+              "time": {
+                "display": "FT",
+                "egypt": "19:00",
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Seraing",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/seraing_64x64.png"
+              },
+              "away_team": {
+                "name": "MVV",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mvv_64x64.png"
+              },
+              "score": {
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
                 "display": "FT",
@@ -1101,7 +1170,7 @@
         },
         {
           "name": "Friendly",
-          "match_count": 2,
+          "match_count": 3,
           "matches": [
             {
               "home_team": {
@@ -1147,6 +1216,29 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sloga Doboj",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sloga-doboj_64x64.png"
+              },
+              "away_team": {
+                "name": "Napredak",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/napredak_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
               }
             }
           ]
