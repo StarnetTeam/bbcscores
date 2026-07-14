@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-14T01:53:01.374872+00:00",
-  "egypt_time": "2026-07-14 04:53:01",
+  "timestamp": "2026-07-14T04:45:44.626151+00:00",
+  "egypt_time": "2026-07-14 07:45:44",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -295,6 +295,35 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Internationals Women",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Ghana",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ghana_64x64.png"
+              },
+              "away_team": {
+                "name": "CÃ´te d'Ivoire",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cã´te-divoire_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
