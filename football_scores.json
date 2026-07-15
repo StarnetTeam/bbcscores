@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-14T23:45:28.552441+00:00",
-  "egypt_time": "2026-07-15 02:45:28",
+  "timestamp": "2026-07-15T01:50:00.223732+00:00",
+  "egypt_time": "2026-07-15 04:50:00",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -190,7 +190,7 @@
         },
         {
           "name": "Friendly",
-          "match_count": 3,
+          "match_count": 5,
           "matches": [
             {
               "home_team": {
@@ -236,6 +236,52 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "OH Leuven",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/oh-leuven_64x64.png"
+              },
+              "away_team": {
+                "name": "Lommel",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lommel_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "AZ",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/az-alkmaar.06174d2d8e.svg"
+              },
+              "away_team": {
+                "name": "Anderlecht",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rsc-anderlecht.30052f71ee.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
@@ -1183,7 +1229,7 @@
         },
         {
           "name": "Friendly",
-          "match_count": 9,
+          "match_count": 11,
           "matches": [
             {
               "home_team": {
@@ -1317,6 +1363,52 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "AZ II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/az-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "Ajax II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ajax-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "De Graafschap",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/de-graafschap_64x64.png"
+              },
+              "away_team": {
+                "name": "Telstar",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/telstar_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
