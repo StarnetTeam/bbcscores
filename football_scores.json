@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-15T16:15:00.318474+00:00",
-  "egypt_time": "2026-07-15 19:15:00",
+  "timestamp": "2026-07-15T17:44:19.323192+00:00",
+  "egypt_time": "2026-07-15 20:44:19",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -52,17 +52,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ml-vitebsk_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "1'",
                 "egypt": "20:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -150,16 +150,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vllaznia-shkodã«r_64x64.png"
               },
               "score": {
-                "home": "4",
+                "home": "5",
                 "away": "0",
-                "display": "4 - 0"
+                "display": "5 - 0"
               },
               "time": {
-                "display": "82'",
+                "display": "FT",
                 "egypt": "17:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -203,15 +203,15 @@
               },
               "score": {
                 "home": "1",
-                "away": "0",
-                "display": "1 - 0"
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "48'",
+                "display": "FT",
                 "egypt": "18:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -230,11 +230,11 @@
                 "display": "3 - 0"
               },
               "time": {
-                "display": "76'",
+                "display": "FT",
                 "egypt": "17:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -248,16 +248,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/konyaspor_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "5'",
+                "display": "FT",
                 "egypt": "18:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -271,17 +271,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/istanbul-basaksehir.e30a4bef27.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "19:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -731,17 +731,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ahli_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -2157,17 +2157,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/polonia-nysa_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "18:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -2484,12 +2484,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "20:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -3692,12 +3692,12 @@
             },
             {
               "home_team": {
-                "name": "Slaven Koprivnica",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/slaven-koprivnica_64x64.png"
-              },
-              "away_team": {
                 "name": "Paks",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paks_64x64.png"
+              },
+              "away_team": {
+                "name": "Slaven Koprivnica",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/slaven-koprivnica_64x64.png"
               },
               "score": {
                 "home": null,
