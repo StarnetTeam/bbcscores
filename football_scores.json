@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-16T13:51:28.305046+00:00",
-  "egypt_time": "2026-07-16 16:51:28",
+  "timestamp": "2026-07-16T15:28:18.557281+00:00",
+  "egypt_time": "2026-07-16 18:28:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -167,17 +167,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dinamo-city_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "22'",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -190,17 +190,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sarajevo_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "13'",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -213,17 +213,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alashkert_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "13'",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -736,11 +736,11 @@
                 "display": "2 - 0"
               },
               "time": {
-                "display": "46'",
+                "display": "FT",
                 "egypt": "15:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -759,11 +759,11 @@
                 "display": "0 - 2"
               },
               "time": {
-                "display": "46'",
+                "display": "FT",
                 "egypt": "15:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
