@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-16T10:01:26.448602+00:00",
-  "egypt_time": "2026-07-16 13:01:26",
+  "timestamp": "2026-07-16T11:57:45.373441+00:00",
+  "egypt_time": "2026-07-16 14:57:45",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -892,17 +892,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/amã©rica-de-cali_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "03:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -920,12 +920,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "04:30",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -938,17 +938,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/burnley.74a6ee9929.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "04:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -4737,7 +4737,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 345,
+          "match_count": 346,
           "matches": [
             {
               "home_team": {
@@ -6702,6 +6702,29 @@
               "away_team": {
                 "name": "Havelse",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/havelse_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "NÃ¦sby",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nã¦sby_64x64.png"
+              },
+              "away_team": {
+                "name": "Skive",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/skive_64x64.png"
               },
               "score": {
                 "home": null,
