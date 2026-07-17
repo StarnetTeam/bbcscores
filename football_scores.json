@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-17T22:12:08.906887+00:00",
-  "egypt_time": "2026-07-18 01:12:08",
+  "timestamp": "2026-07-17T23:15:08.096864+00:00",
+  "egypt_time": "2026-07-18 02:15:08",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -196,7 +196,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 354,
+          "match_count": 355,
           "matches": [
             {
               "home_team": {
@@ -330,6 +330,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "EyÃ¼pspor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eyã¼pspor_64x64.png"
+              },
+              "away_team": {
+                "name": "BandÄ±rmaspor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bandä±rmaspor_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -9555,8 +9578,31 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 9,
+          "match_count": 10,
           "matches": [
+            {
+              "home_team": {
+                "name": "EyÃ¼pspor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eyã¼pspor_64x64.png"
+              },
+              "away_team": {
+                "name": "Mardin 1969",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mardin-1969_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "Hapoel Petah Tikva",
