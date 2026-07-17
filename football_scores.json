@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-17T14:26:51.799216+00:00",
-  "egypt_time": "2026-07-17 17:26:51",
+  "timestamp": "2026-07-17T15:54:31.001193+00:00",
+  "egypt_time": "2026-07-17 18:54:31",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -150,16 +150,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-charleroi_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "52'",
+                "display": "FT",
                 "egypt": "14:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -196,17 +196,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rizespor_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "16:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -334,17 +334,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/urartu_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "3",
+                "display": "4 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "10:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -426,17 +426,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jarosåaw_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -633,17 +633,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sparta-prague.bb93a39eae.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "5",
+                "away": "1",
+                "display": "5 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -2496,17 +2496,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/maccabi-kabilio-jaffa_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "09:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -3290,29 +3290,6 @@
               "away_team": {
                 "name": "Luzino",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/luzino_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Birmingham City",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/birmingham-city.124bb4ce56.svg"
-              },
-              "away_team": {
-                "name": "Porto",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-porto.8a6a8e0bff.svg"
               },
               "score": {
                 "home": null,
@@ -5162,6 +5139,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Birmingham City",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/birmingham-city.124bb4ce56.svg"
+              },
+              "away_team": {
+                "name": "Porto",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-porto.8a6a8e0bff.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
