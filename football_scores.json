@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-17T02:03:46.157368+00:00",
-  "egypt_time": "2026-07-17 05:03:46",
+  "timestamp": "2026-07-17T05:25:37.134682+00:00",
+  "egypt_time": "2026-07-17 08:25:37",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,16 +23,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlante_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -51,12 +51,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "06:10",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -98,16 +98,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sporting-kansas-city.9acdcfa54d.svg"
               },
               "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "home": "3",
+                "away": "2",
+                "display": "3 - 2"
               },
               "time": {
-                "display": "57'",
+                "display": "FT",
                 "egypt": "03:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -121,17 +121,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/portland-timbers.c3217090fa.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "4",
+                "display": "1 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "90'+2",
                 "egypt": "05:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -332,29 +332,6 @@
               "away_team": {
                 "name": "LeixÃµes",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/leixãµes_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Motor Lublin",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/motor-lublin_64x64.png"
-              },
-              "away_team": {
-                "name": "Hapoel Jerusalem",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hapoel-jerusalem_64x64.png"
               },
               "score": {
                 "home": null,
@@ -723,6 +700,29 @@
               "away_team": {
                 "name": "Hallescher FC",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hallescher-fc_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Motor Lublin",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/motor-lublin_64x64.png"
+              },
+              "away_team": {
+                "name": "Hapoel Jerusalem",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hapoel-jerusalem_64x64.png"
               },
               "score": {
                 "home": null,
@@ -2488,12 +2488,12 @@
             },
             {
               "home_team": {
-                "name": "ASA TÃ¢rgu MureÅ",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/asa-tã¢rgu-mureå_64x64.png"
+                "name": "Gloria BistriÅ£a",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gloria-bistriå£a_64x64.png"
               },
               "away_team": {
-                "name": "Metaloglobus",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/metaloglobus_64x64.png"
+                "name": "FC BacÄu",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fc-bacäu_64x64.png"
               },
               "score": {
                 "home": null,
@@ -2502,7 +2502,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "11:00",
+                "egypt": "10:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -2511,12 +2511,12 @@
             },
             {
               "home_team": {
-                "name": "Gloria BistriÅ£a",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gloria-bistriå£a_64x64.png"
+                "name": "ASA TÃ¢rgu MureÅ",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/asa-tã¢rgu-mureå_64x64.png"
               },
               "away_team": {
-                "name": "FC BacÄu",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fc-bacäu_64x64.png"
+                "name": "Metaloglobus",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/metaloglobus_64x64.png"
               },
               "score": {
                 "home": null,
@@ -2580,12 +2580,12 @@
             },
             {
               "home_team": {
-                "name": "SkÃ«nderbeu KorÃ§Ã«",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/skã«nderbeu-korã§ã«_64x64.png"
+                "name": "Äastkovce",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/äastkovce_64x64.png"
               },
               "away_team": {
-                "name": "Struga",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/struga_64x64.png"
+                "name": "UherskÃ½ Brod",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uherskã½-brod_64x64.png"
               },
               "score": {
                 "home": null,
@@ -2603,12 +2603,12 @@
             },
             {
               "home_team": {
-                "name": "Äastkovce",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/äastkovce_64x64.png"
+                "name": "SkÃ«nderbeu KorÃ§Ã«",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/skã«nderbeu-korã§ã«_64x64.png"
               },
               "away_team": {
-                "name": "UherskÃ½ Brod",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uherskã½-brod_64x64.png"
+                "name": "Struga",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/struga_64x64.png"
               },
               "score": {
                 "home": null,
@@ -2617,7 +2617,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "18:00",
+                "egypt": "18:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -11229,7 +11229,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "21:00",
+                "egypt": "22:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
