@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-18T11:51:14.389236+00:00",
-  "egypt_time": "2026-07-18 14:51:14",
+  "timestamp": "2026-07-18T12:59:31.596404+00:00",
+  "egypt_time": "2026-07-18 15:59:31",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -719,12 +719,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "04:30",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1105,17 +1105,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zemplã­n-michalovce_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -9693,7 +9693,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 10,
+          "match_count": 11,
           "matches": [
             {
               "home_team": {
@@ -9758,6 +9758,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Spaeri",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spaeri_64x64.png"
+              },
+              "away_team": {
+                "name": "Samgurali",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/samgurali_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
