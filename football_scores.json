@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-18T21:43:17.787926+00:00",
-  "egypt_time": "2026-07-19 00:43:17",
+  "timestamp": "2026-07-18T22:41:39.576000+00:00",
+  "egypt_time": "2026-07-19 01:41:39",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -322,12 +322,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -700,6 +700,29 @@
             },
             {
               "home_team": {
+                "name": "RudeÅ¡",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rudeå¡_64x64.png"
+              },
+              "away_team": {
+                "name": "Shakhtar Donetsk",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/shakhtar-donetsk.16a422c938.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Sporting Hasselt",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-hasselt_64x64.png"
               },
@@ -959,29 +982,6 @@
               "away_team": {
                 "name": "Al Ahli",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ahli_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "RudeÅ¡",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rudeå¡_64x64.png"
-              },
-              "away_team": {
-                "name": "Shakhtar Donetsk",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/shakhtar-donetsk.16a422c938.svg"
               },
               "score": {
                 "home": null,
