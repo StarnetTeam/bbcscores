@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-19T05:35:09.105722+00:00",
-  "egypt_time": "2026-07-19 08:35:09",
+  "timestamp": "2026-07-19T08:05:19.636593+00:00",
+  "egypt_time": "2026-07-19 11:05:19",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -150,16 +150,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/club-amã©rica_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "06:10",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -167,7 +167,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 44,
+          "match_count": 45,
           "matches": [
             {
               "home_team": {
@@ -217,12 +217,12 @@
             },
             {
               "home_team": {
-                "name": "BKMA II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bkma-ii_64x64.png"
+                "name": "Ararat",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ararat_64x64.png"
               },
               "away_team": {
-                "name": "Syunik",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/syunik_64x64.png"
+                "name": "Sardarapat",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sardarapat_64x64.png"
               },
               "score": {
                 "home": null,
@@ -231,7 +231,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "10:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -240,12 +240,12 @@
             },
             {
               "home_team": {
-                "name": "Ararat",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ararat_64x64.png"
+                "name": "BKMA II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bkma-ii_64x64.png"
               },
               "away_team": {
-                "name": "Sardarapat",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sardarapat_64x64.png"
+                "name": "Syunik",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/syunik_64x64.png"
               },
               "score": {
                 "home": null,
@@ -277,7 +277,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "10:00",
+                "egypt": "10:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -309,6 +309,29 @@
             },
             {
               "home_team": {
+                "name": "Rochdale",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rochdale.763bb0856c.svg"
+              },
+              "away_team": {
+                "name": "Al Rayyan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-rayyan_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "11:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Dornbirn",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dornbirn_64x64.png"
               },
@@ -328,29 +351,6 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Rochdale",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rochdale.763bb0856c.svg"
-              },
-              "away_team": {
-                "name": "Al Rayyan",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-rayyan_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "12:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
               }
             },
             {
@@ -838,6 +838,29 @@
             },
             {
               "home_team": {
+                "name": "GÃ³rnik ÅÄczna",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gã³rnik-åäczna_64x64.png"
+              },
+              "away_team": {
+                "name": "Hapoel Jerusalem",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hapoel-jerusalem_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Krasnodar",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/krasnodar_64x64.png"
               },
@@ -1174,7 +1197,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "19:00",
+                "egypt": "19:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
