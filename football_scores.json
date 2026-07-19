@@ -1,1217 +1,13 @@
 {
-  "timestamp": "2026-07-19T20:05:09.501766+00:00",
-  "egypt_time": "2026-07-19 23:05:09",
+  "timestamp": "2026-07-19T21:13:22.053545+00:00",
+  "egypt_time": "2026-07-20 00:13:22",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
     {
-      "label": "Today(19-07-2026)",
-      "date": "2026-07-19",
-      "day_offset": 0,
-      "leagues": [
-        {
-          "name": "FIFA World Cup",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Spain",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain_64x64.png"
-              },
-              "away_team": {
-                "name": "Argentina",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/argentina_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "45'+1",
-                "egypt": "22:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "Internationals Women",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Algeria",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/algeria_64x64.png"
-              },
-              "away_team": {
-                "name": "Zambia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zambia_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "Mexican Primera",
-          "match_count": 4,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Pumas UNAM",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pumas-unam_64x64.png"
-              },
-              "away_team": {
-                "name": "Pachuca",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/pachuca.ad89843077.svg"
-              },
-              "score": {
-                "home": "0",
-                "away": "3",
-                "display": "0 - 3"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "02:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Monterrey",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/monterrey.d45ab03573.svg"
-              },
-              "away_team": {
-                "name": "Santos Laguna",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/santos-laguna_64x64.png"
-              },
-              "score": {
-                "home": "3",
-                "away": "2",
-                "display": "3 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "04:05",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Guadalajara",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/guadalajara_64x64.png"
-              },
-              "away_team": {
-                "name": "Toluca",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/toluca_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "2",
-                "display": "0 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "04:07",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "QuerÃ©taro",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/querã©taro_64x64.png"
-              },
-              "away_team": {
-                "name": "Club AmÃ©rica",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/club-amã©rica_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "06:10",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
-        {
-          "name": "Club Friendlies",
-          "match_count": 45,
-          "matches": [
-            {
-              "home_team": {
-                "name": "GÃ¶ztepe",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gã¶ztepe_64x64.png"
-              },
-              "away_team": {
-                "name": "Al Dhafra",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-dhafra_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Millonarios",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/millonarios_64x64.png"
-              },
-              "away_team": {
-                "name": "Colo Colo",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/colo-colo_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "02:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Ararat",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ararat_64x64.png"
-              },
-              "away_team": {
-                "name": "Sardarapat",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sardarapat_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "10:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "BKMA II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bkma-ii_64x64.png"
-              },
-              "away_team": {
-                "name": "Syunik",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/syunik_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "10:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Avispa Fukuoka",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avispa-fukuoka_64x64.png"
-              },
-              "away_team": {
-                "name": "Osaka",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/osaka_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "10:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Yokohama F. Marinos",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/yokohama-f-marinos_64x64.png"
-              },
-              "away_team": {
-                "name": "Roasso Kumamoto",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/roasso-kumamoto_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "11:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Rochdale",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rochdale.763bb0856c.svg"
-              },
-              "away_team": {
-                "name": "Al Rayyan",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-rayyan_64x64.png"
-              },
-              "score": {
-                "home": "3",
-                "away": "3",
-                "display": "3 - 3"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "11:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Dornbirn",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dornbirn_64x64.png"
-              },
-              "away_team": {
-                "name": "Rheindorf Altach",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rheindorf-altach_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Match Cancelled",
-                "egypt": "12:00",
-                "status": "Cancelled",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Tasmania Berlin",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tasmania-berlin_64x64.png"
-              },
-              "away_team": {
-                "name": "Olympic",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/olympic_64x64.png"
-              },
-              "score": {
-                "home": "3",
-                "away": "4",
-                "display": "3 - 4"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "12:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Tondela",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tondela_64x64.png"
-              },
-              "away_team": {
-                "name": "Nacional",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nacional_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "13:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "NÃ¦stved",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nã¦stved_64x64.png"
-              },
-              "away_team": {
-                "name": "HelsingÃ¸r",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/helsingã¸r_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "2",
-                "display": "2 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "14:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Erzgebirge Aue",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/erzgebirge-aue_64x64.png"
-              },
-              "away_team": {
-                "name": "Schalke 04",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/schalke-04_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "4",
-                "display": "2 - 4"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "15:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Hessen Kassel",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hessen-kassel_64x64.png"
-              },
-              "away_team": {
-                "name": "Lippstadt 08",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lippstadt-08_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "15:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Sandhausen",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sandhausen_64x64.png"
-              },
-              "away_team": {
-                "name": "Rot-Weiss Wittlich",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rot-weiss-wittlich_64x64.png"
-              },
-              "score": {
-                "home": "10",
-                "away": "0",
-                "display": "10 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "15:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Werder Bremen II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/werder-bremen-ii_64x64.png"
-              },
-              "away_team": {
-                "name": "BFC Preussen",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bfc-preussen_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "5",
-                "display": "0 - 5"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "15:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Balingen",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/balingen_64x64.png"
-              },
-              "away_team": {
-                "name": "Stuttgart",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/vfb-stuttgart.a557019cef.svg"
-              },
-              "score": {
-                "home": "0",
-                "away": "7",
-                "display": "0 - 7"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "15:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Bremer SV",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bremer-sv_64x64.png"
-              },
-              "away_team": {
-                "name": "Heeslinger SC",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/heeslinger-sc_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "15:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Aindling",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/aindling_64x64.png"
-              },
-              "away_team": {
-                "name": "1860 MÃ¼nchen",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/1860-mã¼nchen_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "3",
-                "display": "1 - 3"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "16:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Ararat",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ararat_64x64.png"
-              },
-              "away_team": {
-                "name": "Andranik",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/andranik_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "16:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Ulm",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ulm_64x64.png"
-              },
-              "away_team": {
-                "name": "Bayern MÃ¼nchen II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bayern-mã¼nchen-ii_64x64.png"
-              },
-              "score": {
-                "home": "3",
-                "away": "1",
-                "display": "3 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "16:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Cracovia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cracovia_64x64.png"
-              },
-              "away_team": {
-                "name": "Sevilla",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sevilla_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "17:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Eintracht Norderstedt",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eintracht-norderstedt_64x64.png"
-              },
-              "away_team": {
-                "name": "Havelse",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/havelse_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "17:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Ennepetal",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ennepetal_64x64.png"
-              },
-              "away_team": {
-                "name": "Westfalia Rhynern",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/westfalia-rhynern_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "5",
-                "display": "1 - 5"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "17:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "RudeÅ¡",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rudeå¡_64x64.png"
-              },
-              "away_team": {
-                "name": "Shakhtar Donetsk",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/shakhtar-donetsk.16a422c938.svg"
-              },
-              "score": {
-                "home": "0",
-                "away": "5",
-                "display": "0 - 5"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "17:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Sporting Hasselt",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-hasselt_64x64.png"
-              },
-              "away_team": {
-                "name": "Antwerp",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/antwerp_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "2",
-                "display": "0 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "17:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "St. Pauli",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-st-pauli.41d3cc5f0d.svg"
-              },
-              "away_team": {
-                "name": "HNK Gorica",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hnk-gorica_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "17:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Avellino",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avellino_64x64.png"
-              },
-              "away_team": {
-                "name": "Castel di Sangro",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/castel-di-sangro_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Buchonia Flieden",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/buchonia-flieden_64x64.png"
-              },
-              "away_team": {
-                "name": "Barockstadt Fulda-Lehn.",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/barockstadt-fulda-lehn_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "7",
-                "display": "1 - 7"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Genoa",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/genoa.1dc6f20dba.svg"
-              },
-              "away_team": {
-                "name": "Trento",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trento_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "GÃ³rnik ÅÄczna",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gã³rnik-åäczna_64x64.png"
-              },
-              "away_team": {
-                "name": "Hapoel Jerusalem",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hapoel-jerusalem_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "2",
-                "display": "0 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Krasnodar",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/krasnodar_64x64.png"
-              },
-              "away_team": {
-                "name": "Baltika",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/baltika_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Widzew ÅÃ³dÅº",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/widzew-åã³dåº_64x64.png"
-              },
-              "away_team": {
-                "name": "Puszcza NiepoÅomice",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/puszcza-niepoåomice_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Hellas Verona",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/hellas-verona.aa3d27e02e.svg"
-              },
-              "away_team": {
-                "name": "Rovereto",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rovereto_64x64.png"
-              },
-              "score": {
-                "home": "8",
-                "away": "1",
-                "display": "8 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Szombathelyi HaladÃ¡s",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/szombathelyi-haladã¡s_64x64.png"
-              },
-              "away_team": {
-                "name": "Lecce",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lecce.d1642b5cd8.svg"
-              },
-              "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Venezia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/venezia_64x64.png"
-              },
-              "away_team": {
-                "name": "Dolomiti Bellunesi",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dolomiti-bellunesi_64x64.png"
-              },
-              "score": {
-                "home": "4",
-                "away": "2",
-                "display": "4 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "18:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Pisa",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/pisa.0a74c80d23.svg"
-              },
-              "away_team": {
-                "name": "Pavia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pavia_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Rio Ave",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rio-ave_64x64.png"
-              },
-              "away_team": {
-                "name": "Al Ahli",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ahli_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Sturm Graz II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sturm-graz-ii_64x64.png"
-              },
-              "away_team": {
-                "name": "Al Hilal",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/al-hilal.cdcf3e6b3a.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Persebaya Surabaya",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/persebaya-surabaya_64x64.png"
-              },
-              "away_team": {
-                "name": "PSIS Semarang",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/psis-semarang_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "2",
-                "display": "2 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "11:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "SlÃ¡via TU KoÅ¡ice",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/slã¡via-tu-koå¡ice_64x64.png"
-              },
-              "away_team": {
-                "name": "Spartak Medzev",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spartak-medzev_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "11:30",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Kazincbarcika",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kazincbarcika_64x64.png"
-              },
-              "away_team": {
-                "name": "DEAC",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/deac_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "0",
-                "display": "2 - 0"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "12:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Smederevo 1924",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/smederevo-1924_64x64.png"
-              },
-              "away_team": {
-                "name": "Mladost DG",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mladost-dg_64x64.png"
-              },
-              "score": {
-                "home": "4",
-                "away": "2",
-                "display": "4 - 2"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "12:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Poprad",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/poprad_64x64.png"
-              },
-              "away_team": {
-                "name": "PartizÃ¡n Bardejov",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/partizã¡n-bardejov_64x64.png"
-              },
-              "score": {
-                "home": "2",
-                "away": "3",
-                "display": "2 - 3"
-              },
-              "time": {
-                "display": "FT",
-                "egypt": "14:00",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Napredak",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/napredak_64x64.png"
-              },
-              "away_team": {
-                "name": "Borac ÄaÄak",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/borac-äaäak_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Otrant-Olympic",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/otrant-olympic_64x64.png"
-              },
-              "away_team": {
-                "name": "Bokelj",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bokelj_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Tomorrow(20-07-2026)",
+      "label": "Today(20-07-2026)",
       "date": "2026-07-20",
-      "day_offset": 1,
+      "day_offset": 0,
       "leagues": [
         {
           "name": "Club Friendlies",
@@ -1521,9 +317,9 @@
       ]
     },
     {
-      "label": "After Tomorrow(21-07-2026)",
+      "label": "Tomorrow(21-07-2026)",
       "date": "2026-07-21",
-      "day_offset": 2,
+      "day_offset": 1,
       "leagues": [
         {
           "name": "UEFA Champions League",
@@ -3605,6 +2401,2412 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "After Tomorrow(22-07-2026)",
+      "date": "2026-07-22",
+      "day_offset": 2,
+      "leagues": [
+        {
+          "name": "UEFA Champions League",
+          "match_count": 3,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Omonia Nicosia",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/omonia-nicosia.c9b6e3cf0f.svg"
+              },
+              "away_team": {
+                "name": "Kairat",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/kairat.064a1a3574.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Levski Sofia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/levski-sofia_64x64.png"
+              },
+              "away_team": {
+                "name": "Universitatea Craiova",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/universitatea-craiova_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Egnatia RrogozhinÃ«",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/egnatia-rrogozhinã«_64x64.png"
+              },
+              "away_team": {
+                "name": "Celje",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/celje_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "UEFA Conference League",
+          "match_count": 6,
+          "matches": [
+            {
+              "home_team": {
+                "name": "NeftÃ§i",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/neftã§i_64x64.png"
+              },
+              "away_team": {
+                "name": "Dinamo Minsk",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/dinamo-minsk.4a5b3746bc.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Bohemians",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bohemians_64x64.png"
+              },
+              "away_team": {
+                "name": "Ballkani",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ballkani_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Ä°stanbul BaÅakÅehir",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/istanbul-basaksehir.e30a4bef27.svg"
+              },
+              "away_team": {
+                "name": "Inter Turku",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/inter-turku_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Vardar Skopje",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vardar-skopje_64x64.png"
+              },
+              "away_team": {
+                "name": "Riga",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/riga_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Spartak Trnava",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spartak-trnava_64x64.png"
+              },
+              "away_team": {
+                "name": "CSKA 1948 Sofia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cska-1948-sofia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Å½elezniÄar PanÄevo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/å½elezniäar-panäevo_64x64.png"
+              },
+              "away_team": {
+                "name": "Sporting Braga",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sporting-braga.69299bd744.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Internationals Women",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Algeria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/algeria_64x64.png"
+              },
+              "away_team": {
+                "name": "Zambia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zambia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Mexican Primera",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Cruz Azul",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cruz-azul_64x64.png"
+              },
+              "away_team": {
+                "name": "Puebla",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/puebla_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "04:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Toluca",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/toluca_64x64.png"
+              },
+              "away_team": {
+                "name": "Pumas UNAM",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pumas-unam_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "06:05",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Club Friendlies",
+          "match_count": 91,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Tottenham Hotspur",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
+              },
+              "away_team": {
+                "name": "MK Dons",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/milton-keynes-dons.acc9c240ab.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Dunkerque",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dunkerque_64x64.png"
+              },
+              "away_team": {
+                "name": "Samsunspor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/samsunspor_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Alverca",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alverca_64x64.png"
+              },
+              "away_team": {
+                "name": "Estoril",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/estoril_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Bourg-PÃ©ronnas",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bourg-pã©ronnas_64x64.png"
+              },
+              "away_team": {
+                "name": "Dijon",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dijon_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Bukovyna",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bukovyna_64x64.png"
+              },
+              "away_team": {
+                "name": "Rukh Vynnyky",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rukh-vynnyky_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Clermont",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/clermont.a457d6d47f.svg"
+              },
+              "away_team": {
+                "name": "Fleury",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fleury_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Match Cancelled",
+                "egypt": "03:00",
+                "status": "Cancelled",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "FamalicÃ£o",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/famalicã£o_64x64.png"
+              },
+              "away_team": {
+                "name": "Arouca",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/arouca_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Feignies Aulnoye",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/feignies-aulnoye_64x64.png"
+              },
+              "away_team": {
+                "name": "Seraing",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/seraing_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Laval",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/laval_64x64.png"
+              },
+              "away_team": {
+                "name": "Avranches",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avranches_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "LusitÃ¢nia Lourosa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lusitã¢nia-lourosa_64x64.png"
+              },
+              "away_team": {
+                "name": "Vizela",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vizela_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "MarÃ­timo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/marã­timo_64x64.png"
+              },
+              "away_team": {
+                "name": "Camacha",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/camacha_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "VitÃ³ria GuimarÃ£es",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/vitoria-guimaraes.f966fe5ecc.svg"
+              },
+              "away_team": {
+                "name": "UniÃ£o de Leiria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uniã£o-de-leiria_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Westerlo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/westerlo_64x64.png"
+              },
+              "away_team": {
+                "name": "Al Fayha",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-fayha_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Willem II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/willem-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "AZ II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/az-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Vissel Kobe",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vissel-kobe_64x64.png"
+              },
+              "away_team": {
+                "name": "Imabari",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/imabari_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "05:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "AVS",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avs_64x64.png"
+              },
+              "away_team": {
+                "name": "Paredes",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paredes_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Chaves",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/chaves_64x64.png"
+              },
+              "away_team": {
+                "name": "Amarante",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/amarante_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Santa Clara",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/santa-clara_64x64.png"
+              },
+              "away_team": {
+                "name": "Moreirense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/moreirense_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Blackburn Rovers",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/blackburn-rovers.ea8654807d.svg"
+              },
+              "away_team": {
+                "name": "Nottingham Forest",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nottingham-forest.f0fc0fc962.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Nacional",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nacional_64x64.png"
+              },
+              "away_team": {
+                "name": "LeganÃ©s",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leganes.6620ee20ea.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Tondela",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tondela_64x64.png"
+              },
+              "away_team": {
+                "name": "AcadÃ©mica",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/acadã©mica_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "WolfenbÃ¼ttel",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wolfenbã¼ttel_64x64.png"
+              },
+              "away_team": {
+                "name": "SchÃ¶ningen",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/schã¶ningen_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Amiens",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/amiens_64x64.png"
+              },
+              "away_team": {
+                "name": "Reims",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/reims.06f7f4e9a3.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Bologna",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bologna.be4ad81732.svg"
+              },
+              "away_team": {
+                "name": "Heidenheim",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/heidenheim.54be4fd282.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Kharkiv",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kharkiv_64x64.png"
+              },
+              "away_team": {
+                "name": "Schalke 04",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/schalke-04_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Avellino",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avellino_64x64.png"
+              },
+              "away_team": {
+                "name": "Scafatese",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/scafatese_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Palermo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/palermo_64x64.png"
+              },
+              "away_team": {
+                "name": "Paradiso",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paradiso_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sassuolo",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sassuolo.960f825bf0.svg"
+              },
+              "away_team": {
+                "name": "Padova",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/padova_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Concarneau",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/concarneau_64x64.png"
+              },
+              "away_team": {
+                "name": "Guingamp",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/guingamp_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Hellas Verona",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/hellas-verona.aa3d27e02e.svg"
+              },
+              "away_team": {
+                "name": "Virtus Verona",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/virtus-verona_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Lecce",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lecce.d1642b5cd8.svg"
+              },
+              "away_team": {
+                "name": "SSU Poli TimiÅoara",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ssu-poli-timiåoara_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Metz",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/metz.7c2e05c1d6.svg"
+              },
+              "away_team": {
+                "name": "Sochaux",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sochaux_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Nantes",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nantes.5ee214cb8d.svg"
+              },
+              "away_team": {
+                "name": "La Roche VF",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/la-roche-vf_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Torino",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/torino.2266635c87.svg"
+              },
+              "away_team": {
+                "name": "Alcione Milano",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alcione-milano_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Werder Bremen",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/werder-bremen.5c344100c3.svg"
+              },
+              "away_team": {
+                "name": "Fagiano Okayama",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fagiano-okayama_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Brest",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/brest.b287b887e5.svg"
+              },
+              "away_team": {
+                "name": "Al Wakrah",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-wakrah_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Clermont",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/clermont.a457d6d47f.svg"
+              },
+              "away_team": {
+                "name": "Quevilly-Rouen MÃ©tropole",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/quevilly-rouen-mã©tropole_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Le Mans",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/le-mans_64x64.png"
+              },
+              "away_team": {
+                "name": "Versailles",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/versailles_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "LiÃ¨ge",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/liã¨ge_64x64.png"
+              },
+              "away_team": {
+                "name": "Sint-Truiden",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sint-truiden_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "MSV Duisburg",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/msv-duisburg_64x64.png"
+              },
+              "away_team": {
+                "name": "Beerschot",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/beerschot_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Match Cancelled",
+                "egypt": "19:00",
+                "status": "Cancelled",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Montpellier",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/montpellier.59e5f5836f.svg"
+              },
+              "away_team": {
+                "name": "Cannes",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cannes_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Napoli",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/napoli.29b133b9ff.svg"
+              },
+              "away_team": {
+                "name": "Arezzo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/arezzo_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "RAAL La LouviÃ¨re",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/raal-la-louviã¨re_64x64.png"
+              },
+              "away_team": {
+                "name": "Kifisia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kifisia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Rodez",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rodez_64x64.png"
+              },
+              "away_team": {
+                "name": "NÃ®mes",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nã®mes_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Santa Clara",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/santa-clara_64x64.png"
+              },
+              "away_team": {
+                "name": "Felgueiras 1932",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/felgueiras-1932_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "AZ",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/az-alkmaar.06174d2d8e.svg"
+              },
+              "away_team": {
+                "name": "Genk",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/genk_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "BrÃ¸nshÃ¸j",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/brã¸nshã¸j_64x64.png"
+              },
+              "away_team": {
+                "name": "Avarta",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avarta_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Jahn Zeiskam",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jahn-zeiskam_64x64.png"
+              },
+              "away_team": {
+                "name": "Kaiserslautern II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kaiserslautern-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Jeddeloh",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jeddeloh_64x64.png"
+              },
+              "away_team": {
+                "name": "RÃ¶dinghausen",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rã¶dinghausen_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "VfL Halle",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vfl-halle_64x64.png"
+              },
+              "away_team": {
+                "name": "Barockstadt Fulda-Lehn.",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/barockstadt-fulda-lehn_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Angers",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/angers.50d84bf5c8.svg"
+              },
+              "away_team": {
+                "name": "Les Herbiers",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/les-herbiers_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "CÃ¡diz",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/cadiz.dcb8c2358f.svg"
+              },
+              "away_team": {
+                "name": "Leicester City",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leicester-city.55fe2b7ddd.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Excelsior Virton",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/excelsior-virton_64x64.png"
+              },
+              "away_team": {
+                "name": "Hostert",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hostert_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Fiorentina",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fiorentina.a7a02aaf95.svg"
+              },
+              "away_team": {
+                "name": "Gubbio",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gubbio_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Heist",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/heist_64x64.png"
+              },
+              "away_team": {
+                "name": "Patro Eisden",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/patro-eisden_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "LSK Hansa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lsk-hansa_64x64.png"
+              },
+              "away_team": {
+                "name": "Hamburger SV II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hamburger-sv-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Mainz 05 II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mainz-05-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "Kreuzlingen",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kreuzlingen_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Orlando Pirates",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/orlando-pirates_64x64.png"
+              },
+              "away_team": {
+                "name": "Las Palmas",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/las-palmas.0c92619b42.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Osijek",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/osijek_64x64.png"
+              },
+              "away_team": {
+                "name": "Cibalia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cibalia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Ravensburg",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ravensburg_64x64.png"
+              },
+              "away_team": {
+                "name": "Homburg",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/homburg_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Valencia",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/valencia.b0c6153da8.svg"
+              },
+              "away_team": {
+                "name": "Eldense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eldense_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Atlas Delmenhorst",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlas-delmenhorst_64x64.png"
+              },
+              "away_team": {
+                "name": "BersenbrÃ¼ck",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bersenbrã¼ck_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Hilden",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hilden_64x64.png"
+              },
+              "away_team": {
+                "name": "Unterrath",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/unterrath_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sestao River",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sestao-river_64x64.png"
+              },
+              "away_team": {
+                "name": "Athletic Club",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/athletic-bilbao.d8dcd1124f.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "AFC Wimbledon",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/afc-wimbledon.0f2de40137.svg"
+              },
+              "away_team": {
+                "name": "Norwich City",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/norwich-city.6b69653fd4.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Eendracht Termien",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eendracht-termien_64x64.png"
+              },
+              "away_team": {
+                "name": "Genk II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/genk-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Olot",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/olot_64x64.png"
+              },
+              "away_team": {
+                "name": "Girona",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/girona.4dc82412e1.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Burton Albion",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/burton-albion.835c6534a4.svg"
+              },
+              "away_team": {
+                "name": "Birmingham City",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/birmingham-city.124bb4ce56.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Maidenhead United",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/maidenhead-united.f2e0799df3.svg"
+              },
+              "away_team": {
+                "name": "Wolverhampton Wanderers",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wolverhampton-wanderers.0139aed1b8.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Recreativo Huelva",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/recreativo-huelva_64x64.png"
+              },
+              "away_team": {
+                "name": "Real Betis",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/real-betis.0034ca7a6b.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Southend United",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/southend-united.3e62bb0264.svg"
+              },
+              "away_team": {
+                "name": "Northampton Town",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/northampton-town.b8683d9cf5.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Eastleigh",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/eastleigh.f4e5277049.svg"
+              },
+              "away_team": {
+                "name": "Valenciennes",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/valenciennes_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Peterborough Sports",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/peterborough-sports_64x64.png"
+              },
+              "away_team": {
+                "name": "Peterborough United",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/peterborough-united.bbd0093d21.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Rangers",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rangers.924070bcfe.svg"
+              },
+              "away_team": {
+                "name": "Saint-Ãtienne",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/st-etienne.513a11172c.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Stevenage",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/stevenage.6d72e6ce96.svg"
+              },
+              "away_team": {
+                "name": "West Ham United",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/west-ham-united.e3ad534012.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Gil Vicente",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gil-vicente_64x64.png"
+              },
+              "away_team": {
+                "name": "Porto",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-porto.8a6a8e0bff.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Tenerife",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tenerife_64x64.png"
+              },
+              "away_team": {
+                "name": "Getafe",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/getafe.ff70b38ab3.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Strumska slava",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/strumska-slava_64x64.png"
+              },
+              "away_team": {
+                "name": "Bnei Yehuda",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bnei-yehuda_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "10:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Jablonec II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jablonec-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "PÅÃ­bram II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/påã­bram-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "VysokÃ© MÃ½to",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vysokã©-mã½to_64x64.png"
+              },
+              "away_team": {
+                "name": "Pardubice II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pardubice-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sesvete",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sesvete_64x64.png"
+              },
+              "away_team": {
+                "name": "Koprivnica",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/koprivnica_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sloboda Tuzla",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sloboda-tuzla_64x64.png"
+              },
+              "away_team": {
+                "name": "Zvijezda 09",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zvijezda-09_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sloga Doboj",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sloga-doboj_64x64.png"
+              },
+              "away_team": {
+                "name": "Ajman",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ajman_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sparta KolÃ­n",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sparta-kolã­n_64x64.png"
+              },
+              "away_team": {
+                "name": "Povltava FA",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/povltava-fa_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Å tÄtÃ­",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/å tätã­_64x64.png"
+              },
+              "away_team": {
+                "name": "Slovan Velvary",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/slovan-velvary_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Wienerberg",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wienerberg_64x64.png"
+              },
+              "away_team": {
+                "name": "Wiener Viktoria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wiener-viktoria_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "F91 Dudelange",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/f91-dudelange_64x64.png"
+              },
+              "away_team": {
+                "name": "Mamer",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mamer_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Jeunesse d'Esch",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jeunesse-desch_64x64.png"
+              },
+              "away_team": {
+                "name": "Koeppchen",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/koeppchen_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "RÃ©sidence Walferdange",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rã©sidence-walferdange_64x64.png"
+              },
+              "away_team": {
+                "name": "Luxembourg City",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/luxembourg-city_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Amical Saint-Prex",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/amical-saint-prex_64x64.png"
+              },
+              "away_team": {
+                "name": "Terre Sainte",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/terre-sainte_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "DelÃ©mont",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/delã©mont_64x64.png"
+              },
+              "away_team": {
+                "name": "La Chaux-de-Fonds",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/la-chaux-de-fonds_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
