@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-19T11:34:45.343727+00:00",
-  "egypt_time": "2026-07-19 14:34:45",
+  "timestamp": "2026-07-19T13:01:42.794313+00:00",
+  "egypt_time": "2026-07-19 16:01:42",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -202,17 +202,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/colo-colo_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "02:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
