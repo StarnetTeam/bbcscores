@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-20T01:02:10.938164+00:00",
-  "egypt_time": "2026-07-20 04:02:10",
+  "timestamp": "2026-07-20T05:01:47.205575+00:00",
+  "egypt_time": "2026-07-20 08:01:47",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -2718,8 +2718,31 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 91,
+          "match_count": 92,
           "matches": [
+            {
+              "home_team": {
+                "name": "Benfica II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/benfica-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "Al Nassr",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-nassr_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "Tottenham Hotspur",
