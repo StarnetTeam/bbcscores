@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-20T05:01:47.205575+00:00",
-  "egypt_time": "2026-07-20 08:01:47",
+  "timestamp": "2026-07-20T08:21:48.180856+00:00",
+  "egypt_time": "2026-07-20 11:21:48",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -2718,7 +2718,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 92,
+          "match_count": 93,
           "matches": [
             {
               "home_team": {
@@ -3970,6 +3970,29 @@
               "away_team": {
                 "name": "Gubbio",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gubbio_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Granada",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/granada.35f5e6b023.svg"
+              },
+              "away_team": {
+                "name": "NEOM",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/neom_64x64.png"
               },
               "score": {
                 "home": null,
