@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-20T13:23:19.518511+00:00",
-  "egypt_time": "2026-07-20 16:23:19",
+  "timestamp": "2026-07-20T15:26:03.394145+00:00",
+  "egypt_time": "2026-07-20 18:26:03",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -51,12 +51,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "05:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -92,17 +92,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bnei-yehuda_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -2261,12 +2261,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "21:45",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
