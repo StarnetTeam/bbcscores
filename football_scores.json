@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-20T16:52:59.354879+00:00",
-  "egypt_time": "2026-07-20 19:52:59",
+  "timestamp": "2026-07-20T18:49:00.630353+00:00",
+  "egypt_time": "2026-07-20 21:49:00",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,7 +11,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 13,
+          "match_count": 14,
           "matches": [
             {
               "home_team": {
@@ -138,13 +138,36 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/samgurali_64x64.png"
               },
               "score": {
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
+              },
+              "time": {
+                "display": "FT",
+                "egypt": "16:30",
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Epitsentr",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/epitsentr_64x64.png"
+              },
+              "away_team": {
+                "name": "Al Ula",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ula_64x64.png"
+              },
+              "score": {
                 "home": null,
                 "away": null,
                 "display": "vs"
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "16:30",
+                "egypt": "19:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -161,17 +184,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wolfsberger-ac_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "4",
+                "display": "0 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -207,17 +230,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-nasr_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "4",
+                "display": "0 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "18:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
