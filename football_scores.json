@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-20T15:26:03.394145+00:00",
-  "egypt_time": "2026-07-20 18:26:03",
+  "timestamp": "2026-07-20T16:52:59.354879+00:00",
+  "egypt_time": "2026-07-20 19:52:59",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mardin-1969_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -2156,12 +2156,12 @@
             },
             {
               "home_team": {
-                "name": "Avenir Beggen",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avenir-beggen_64x64.png"
-              },
-              "away_team": {
                 "name": "Jeunesse d'Esch",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jeunesse-desch_64x64.png"
+              },
+              "away_team": {
+                "name": "Avenir Beggen",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avenir-beggen_64x64.png"
               },
               "score": {
                 "home": null,
