@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-21T02:02:40.659532+00:00",
-  "egypt_time": "2026-07-21 05:02:40",
+  "timestamp": "2026-07-21T05:33:35.984215+00:00",
+  "egypt_time": "2026-07-21 08:33:35",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -740,6 +740,29 @@
             },
             {
               "home_team": {
+                "name": "Bochum",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/vfl-bochum.76974424f8.svg"
+              },
+              "away_team": {
+                "name": "Swansea City",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/swansea-city.6aeb4726cf.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Empoli",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/empoli.717ad04dd0.svg"
               },
@@ -792,29 +815,6 @@
               "away_team": {
                 "name": "Shakhtar Donetsk",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/shakhtar-donetsk.16a422c938.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Swansea City",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/swansea-city.6aeb4726cf.svg"
-              },
-              "away_team": {
-                "name": "Bochum",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/vfl-bochum.76974424f8.svg"
               },
               "score": {
                 "home": null,
@@ -1200,29 +1200,6 @@
             },
             {
               "home_team": {
-                "name": "Carrick Rangers",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/carrick-rangers_64x64.png"
-              },
-              "away_team": {
-                "name": "Queen's University",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/queens-university_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Chertsey Town",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/chertsey-town_64x64.png"
               },
@@ -1298,6 +1275,29 @@
               "away_team": {
                 "name": "Portadown",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/portadown_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Queen's University",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/queens-university_64x64.png"
+              },
+              "away_team": {
+                "name": "Carrick Rangers",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/carrick-rangers_64x64.png"
               },
               "score": {
                 "home": null,
@@ -1775,29 +1775,6 @@
             },
             {
               "home_team": {
-                "name": "Gloggnitz",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gloggnitz_64x64.png"
-              },
-              "away_team": {
-                "name": "Wiener Neustadt",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wiener-neustadt_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Orlando Pirates",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/orlando-pirates_64x64.png"
               },
@@ -1827,6 +1804,29 @@
               "away_team": {
                 "name": "Sirnitz",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sirnitz_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Wiener Neustadt",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wiener-neustadt_64x64.png"
+              },
+              "away_team": {
+                "name": "Gloggnitz",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gloggnitz_64x64.png"
               },
               "score": {
                 "home": null,
