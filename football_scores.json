@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-21T10:36:07.404859+00:00",
-  "egypt_time": "2026-07-21 13:36:07",
+  "timestamp": "2026-07-21T12:20:18.991427+00:00",
+  "egypt_time": "2026-07-21 15:20:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -335,6 +335,35 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:15",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Internationals Women",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Morocco",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/morocco_64x64.png"
+              },
+              "away_team": {
+                "name": "Cabo Verde",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cabo-verde_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1269,29 +1298,6 @@
             },
             {
               "home_team": {
-                "name": "H&W Welders",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/h&w-welders_64x64.png"
-              },
-              "away_team": {
-                "name": "Portadown",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/portadown_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Queen's University",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/queens-university_64x64.png"
               },
@@ -1574,6 +1580,29 @@
               "away_team": {
                 "name": "Halifax Town",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/halifax-town_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "H&W Welders",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/h&w-welders_64x64.png"
+              },
+              "away_team": {
+                "name": "Portadown",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/portadown_64x64.png"
               },
               "score": {
                 "home": null,
@@ -5908,29 +5937,6 @@
             },
             {
               "home_team": {
-                "name": "Austin",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/austin.6bc6fcca81.svg"
-              },
-              "away_team": {
-                "name": "Seattle Sounders",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/seattle-sounders.19c0cc8ef9.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Houston Dynamo",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/houston-dynamo.c80456133e.svg"
               },
@@ -5992,6 +5998,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "03:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Austin",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/austin.6bc6fcca81.svg"
+              },
+              "away_team": {
+                "name": "Seattle Sounders",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/seattle-sounders.19c0cc8ef9.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "04:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -6117,7 +6146,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 15,
+          "match_count": 17,
           "matches": [
             {
               "home_team": {
@@ -6443,8 +6472,8 @@
             },
             {
               "home_team": {
-                "name": "Korona Kielce",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/korona-kielce_64x64.png"
+                "name": "Korona Kielce II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/korona-kielce-ii_64x64.png"
               },
               "away_team": {
                 "name": "Nea Salamis",
@@ -6458,6 +6487,52 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Breitenrain",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/breitenrain_64x64.png"
+              },
+              "away_team": {
+                "name": "Solothurn",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/solothurn_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Biel-Bienne",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/biel-bienne_64x64.png"
+              },
+              "away_team": {
+                "name": "Prishtina Bern",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/prishtina-bern_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
