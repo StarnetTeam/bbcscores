@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-21T12:20:18.991427+00:00",
-  "egypt_time": "2026-07-21 15:20:18",
+  "timestamp": "2026-07-21T14:31:46.589183+00:00",
+  "egypt_time": "2026-07-21 17:31:46",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1142,7 +1142,7 @@
               },
               "away_team": {
                 "name": "Hartlepool United",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/hartlepool-united.a52453bc20.svg"
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/hartlepool-united.c8f21ab5c5.svg"
               },
               "score": {
                 "home": null,
@@ -1326,7 +1326,7 @@
               },
               "away_team": {
                 "name": "Barrow",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/barrow.3f04124eac.svg"
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/barrow.b6b5cee92d.svg"
               },
               "score": {
                 "home": null,
@@ -1621,7 +1621,7 @@
             {
               "home_team": {
                 "name": "Hornchurch",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hornchurch_64x64.png"
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/hornchurch.f22840c2b8.svg"
               },
               "away_team": {
                 "name": "Leyton Orient",
@@ -6146,8 +6146,31 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 17,
+          "match_count": 18,
           "matches": [
+            {
+              "home_team": {
+                "name": "VoÅ¾dovac",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/voå¾dovac_64x64.png"
+              },
+              "away_team": {
+                "name": "Gaziantep FK",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gaziantep-fk_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "Zorya",
