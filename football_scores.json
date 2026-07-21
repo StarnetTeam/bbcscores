@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-21T05:33:35.984215+00:00",
-  "egypt_time": "2026-07-21 08:33:35",
+  "timestamp": "2026-07-21T08:13:47.324618+00:00",
+  "egypt_time": "2026-07-21 11:13:47",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -363,7 +363,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "18:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -391,29 +391,6 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Livyi Bereh",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/livyi-bereh_64x64.png"
-              },
-              "away_team": {
-                "name": "Obolon Kyiv",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/obolon-kyiv_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
               }
             },
             {
@@ -617,6 +594,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Livyi Bereh",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/livyi-bereh_64x64.png"
+              },
+              "away_team": {
+                "name": "Obolon Kyiv",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/obolon-kyiv_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -960,12 +960,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "20:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
