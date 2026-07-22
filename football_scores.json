@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-22T11:23:46.121258+00:00",
-  "egypt_time": "2026-07-22 14:23:46",
+  "timestamp": "2026-07-22T12:54:30.167090+00:00",
+  "egypt_time": "2026-07-22 15:54:30",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -311,7 +311,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 95,
+          "match_count": 96,
           "matches": [
             {
               "home_team": {
@@ -369,17 +369,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/samsunspor_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "41'",
                 "egypt": "15:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -436,6 +436,29 @@
               "away_team": {
                 "name": "Arouca",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/arouca_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "LusitÃ¢nia Lourosa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lusitã¢nia-lourosa_64x64.png"
+              },
+              "away_team": {
+                "name": "LeixÃµes",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/leixãµes_64x64.png"
               },
               "score": {
                 "home": null,
@@ -622,17 +645,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/moreirense_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -645,17 +668,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nottingham-forest.f0fc0fc962.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "3",
+                "display": "0 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -668,17 +691,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leganes.6620ee20ea.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -4426,7 +4449,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 74,
+          "match_count": 76,
           "matches": [
             {
               "home_team": {
@@ -5649,52 +5672,6 @@
             },
             {
               "home_team": {
-                "name": "SokÃ³Å Kolbuszowa Dolna",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sokã³å-kolbuszowa-dolna_64x64.png"
-              },
-              "away_team": {
-                "name": "Czarni PoÅaniec",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/czarni-poåaniec_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Javor",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/javor_64x64.png"
-              },
-              "away_team": {
-                "name": "Metalac GM",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/metalac-gm_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "15:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Sloga Doboj",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sloga-doboj_64x64.png"
               },
@@ -5724,6 +5701,29 @@
               "away_team": {
                 "name": "Podkonice",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/podkonice_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "SokÃ³Å Kolbuszowa Dolna",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sokã³å-kolbuszowa-dolna_64x64.png"
+              },
+              "away_team": {
+                "name": "Czarni PoÅaniec",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/czarni-poåaniec_64x64.png"
               },
               "score": {
                 "home": null,
@@ -5793,6 +5793,75 @@
               "away_team": {
                 "name": "Mamelodi Sundowns",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/mamelodi-sundowns.cffd92a873.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Gedania GdaÅsk",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gedania-gdaåsk_64x64.png"
+              },
+              "away_team": {
+                "name": "Czarni Pruszcz GdaÅski",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/czarni-pruszcz-gdaåski_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Javor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/javor_64x64.png"
+              },
+              "away_team": {
+                "name": "Metalac GM",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/metalac-gm_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "StarÃ¡ Ä½ubovÅa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/starã¡-ä½ubovåa_64x64.png"
+              },
+              "away_team": {
+                "name": "Poprad Muszyna",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/poprad-muszyna_64x64.png"
               },
               "score": {
                 "home": null,
