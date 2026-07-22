@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-22T00:14:01.797077+00:00",
-  "egypt_time": "2026-07-22 03:14:01",
+  "timestamp": "2026-07-22T03:55:34.520477+00:00",
+  "egypt_time": "2026-07-22 06:55:34",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -276,12 +276,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "04:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
