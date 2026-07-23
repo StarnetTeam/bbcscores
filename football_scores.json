@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-23T04:16:12.973905+00:00",
-  "egypt_time": "2026-07-23 07:16:12",
+  "timestamp": "2026-07-23T07:02:45.370490+00:00",
+  "egypt_time": "2026-07-23 10:02:45",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1444,16 +1444,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/st-louis-city.83b1653c5a.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "3",
-                "display": "0 - 3"
+                "display": "1 - 3"
               },
               "time": {
-                "display": "75'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1468,15 +1468,15 @@
               },
               "score": {
                 "home": "3",
-                "away": "0",
-                "display": "3 - 0"
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "76'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1490,16 +1490,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-dallas.d3f930d32a.svg"
               },
               "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "75'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1518,11 +1518,11 @@
                 "display": "0 - 4"
               },
               "time": {
-                "display": "74'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -1593,12 +1593,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "03:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -2421,29 +2421,6 @@
             },
             {
               "home_team": {
-                "name": "Bournemouth",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/afc-bournemouth.3e0ae7da8e.svg"
-              },
-              "away_team": {
-                "name": "St. Pauli",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-st-pauli.41d3cc5f0d.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Den Bosch",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/den-bosch_64x64.png"
               },
@@ -2473,6 +2450,29 @@
               "away_team": {
                 "name": "Oldham Athletic",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/oldham-athletic.6c50eb9f51.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "St. Pauli",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-st-pauli.41d3cc5f0d.svg"
+              },
+              "away_team": {
+                "name": "Bournemouth",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/afc-bournemouth.3e0ae7da8e.svg"
               },
               "score": {
                 "home": null,
@@ -3194,7 +3194,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "15:00",
+                "egypt": "11:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -4012,7 +4012,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 261,
+          "match_count": 262,
           "matches": [
             {
               "home_team": {
@@ -7840,6 +7840,29 @@
               "away_team": {
                 "name": "Istra 1961",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/istra-1961_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Omonia Aradippou",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/omonia-aradippou_64x64.png"
+              },
+              "away_team": {
+                "name": "Karmiotissa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/karmiotissa_64x64.png"
               },
               "score": {
                 "home": null,
