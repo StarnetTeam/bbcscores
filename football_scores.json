@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-23T23:54:20.053664+00:00",
-  "egypt_time": "2026-07-24 02:54:20",
+  "timestamp": "2026-07-24T02:04:14.727344+00:00",
+  "egypt_time": "2026-07-24 05:04:14",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -8807,7 +8807,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 46,
+          "match_count": 48,
           "matches": [
             {
               "home_team": {
@@ -9501,6 +9501,29 @@
             },
             {
               "home_team": {
+                "name": "Mantova",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mantova_64x64.png"
+              },
+              "away_team": {
+                "name": "Ambrosiana",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ambrosiana_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Potenza",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/potenza_64x64.png"
               },
@@ -9654,6 +9677,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Atalanta",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/atalanta.d1c89c44af.svg"
+              },
+              "away_team": {
+                "name": "Arezzo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/arezzo_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
