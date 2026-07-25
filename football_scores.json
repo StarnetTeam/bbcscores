@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-25T11:04:11.401215+00:00",
-  "egypt_time": "2026-07-25 14:04:11",
+  "timestamp": "2026-07-25T12:13:52.656320+00:00",
+  "egypt_time": "2026-07-25 15:13:52",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,12 +23,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/borussia-dortmund.11b645e3a6.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "2'",
+                "display": "52'",
                 "egypt": "14:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -272,8 +272,8 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/famalicã£o_64x64.png"
               },
               "away_team": {
-                "name": "Felgueiras 1932",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/felgueiras-1932_64x64.png"
+                "name": "Tondela",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tondela_64x64.png"
               },
               "score": {
                 "home": null,
@@ -295,8 +295,8 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/famalicã£o_64x64.png"
               },
               "away_team": {
-                "name": "Tondela",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tondela_64x64.png"
+                "name": "Felgueiras 1932",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/felgueiras-1932_64x64.png"
               },
               "score": {
                 "home": null,
@@ -460,17 +460,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nagoya-grampus_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "09:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -506,17 +506,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sabadell_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -529,17 +529,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/deportivo-alaves.f81e3c929f.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -4155,29 +4155,6 @@
             },
             {
               "home_team": {
-                "name": "Las Palmas",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/las-palmas.0c92619b42.svg"
-              },
-              "away_team": {
-                "name": "Al Ittihad",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ittihad_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Le Havre",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/le-havre.53b1145132.svg"
               },
@@ -4575,6 +4552,29 @@
               "away_team": {
                 "name": "Al Ettifaq",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ettifaq_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Las Palmas",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/las-palmas.0c92619b42.svg"
+              },
+              "away_team": {
+                "name": "Al Ittihad",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ittihad_64x64.png"
               },
               "score": {
                 "home": null,
@@ -5295,12 +5295,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "11:30",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -5318,12 +5318,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Match Cancelled",
+                "display": "Scheduled",
                 "egypt": "11:30",
-                "status": "Cancelled",
+                "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": false
+                "is_upcoming": true
               }
             },
             {
@@ -5428,17 +5428,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tesla-stropkov_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -5474,17 +5474,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/unia-swarzädz_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -5520,17 +5520,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-avilã©s_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -6781,7 +6781,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 53,
+          "match_count": 54,
           "matches": [
             {
               "home_team": {
@@ -7504,6 +7504,29 @@
               "away_team": {
                 "name": "West Ham United",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/west-ham-united.e3ad534012.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Urartu",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/urartu_64x64.png"
+              },
+              "away_team": {
+                "name": "Ararat",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ararat_64x64.png"
               },
               "score": {
                 "home": null,
