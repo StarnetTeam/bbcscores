@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-25T21:23:02.604073+00:00",
-  "egypt_time": "2026-07-26 00:23:02",
+  "timestamp": "2026-07-25T22:24:57.852370+00:00",
+  "egypt_time": "2026-07-26 01:24:57",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,7 +11,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 54,
+          "match_count": 55,
           "matches": [
             {
               "home_team": {
@@ -145,6 +145,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Wrexham",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wrexham.b02a4ae432.svg"
+              },
+              "away_team": {
+                "name": "Leeds United",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leeds-united.6eb48daff9.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "02:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
