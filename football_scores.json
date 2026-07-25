@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-25T15:36:17.180257+00:00",
-  "egypt_time": "2026-07-25 18:36:17",
+  "timestamp": "2026-07-25T16:50:36.784716+00:00",
+  "egypt_time": "2026-07-25 19:50:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,7 +11,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 282,
+          "match_count": 283,
           "matches": [
             {
               "home_team": {
@@ -74,11 +74,11 @@
                 "display": "2 - 2"
               },
               "time": {
-                "display": "77'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -92,17 +92,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/villarreal.3f988cd607.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "42'",
                 "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1230,6 +1230,29 @@
                 "is_live": false,
                 "is_full_time": true,
                 "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Fulham",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fulham.d16ec60bd3.svg"
+              },
+              "away_team": {
+                "name": "Norwich City",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/norwich-city.6b69653fd4.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
@@ -2898,17 +2921,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/forest-green-rovers.ab258afa7d.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "5",
+                "away": "1",
+                "display": "5 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -3220,17 +3243,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nac-breda_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -3473,17 +3496,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/horsham_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -3519,17 +3542,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/plymouth-argyle.d4c3a23692.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -6515,16 +6538,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wick-academy_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "78'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6543,11 +6566,11 @@
                 "display": "3 - 0"
               },
               "time": {
-                "display": "71'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6566,11 +6589,11 @@
                 "display": "2 - 0"
               },
               "time": {
-                "display": "Suspended",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "Suspended",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6589,11 +6612,11 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "75'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6607,16 +6630,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/keith_64x64.png"
               },
               "score": {
-                "home": "4",
+                "home": "5",
                 "away": "1",
-                "display": "4 - 1"
+                "display": "5 - 1"
               },
               "time": {
-                "display": "76'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6635,11 +6658,11 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "69'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6653,16 +6676,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/huntly_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "72'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6676,16 +6699,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rothes_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "3",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "75'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6704,11 +6727,11 @@
                 "display": "1 - 2"
               },
               "time": {
-                "display": "73'",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -7820,12 +7843,12 @@
             },
             {
               "home_team": {
-                "name": "St. PÃ¶lten II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/st-pã¶lten-ii_64x64.png"
+                "name": "Hutnik KrakÃ³w II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hutnik-krakã³w-ii_64x64.png"
               },
               "away_team": {
-                "name": "Donau",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/donau_64x64.png"
+                "name": "Wieczysta KrakÃ³w II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wieczysta-krakã³w-ii_64x64.png"
               },
               "score": {
                 "home": null,
@@ -7843,12 +7866,12 @@
             },
             {
               "home_team": {
-                "name": "Wieczysta KrakÃ³w II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/wieczysta-krakã³w-ii_64x64.png"
+                "name": "St. PÃ¶lten II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/st-pã¶lten-ii_64x64.png"
               },
               "away_team": {
-                "name": "Hutnik KrakÃ³w II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hutnik-krakã³w-ii_64x64.png"
+                "name": "Donau",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/donau_64x64.png"
               },
               "score": {
                 "home": null,
