@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-25T09:41:20.738925+00:00",
-  "egypt_time": "2026-07-25 12:41:20",
+  "timestamp": "2026-07-25T11:04:11.401215+00:00",
+  "egypt_time": "2026-07-25 14:04:11",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/borussia-dortmund.11b645e3a6.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "2'",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1740,6 +1740,29 @@
             },
             {
               "home_team": {
+                "name": "Hanwell Town",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hanwell-town_64x64.png"
+              },
+              "away_team": {
+                "name": "Aldershot Town",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/aldershot-town.6ae25718a4.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Kaiserslautern II",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kaiserslautern-ii_64x64.png"
               },
@@ -3074,29 +3097,6 @@
             },
             {
               "home_team": {
-                "name": "Hanwell Town",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hanwell-town_64x64.png"
-              },
-              "away_team": {
-                "name": "Aldershot Town",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/aldershot-town.6ae25718a4.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Hartlepool United",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/hartlepool-united.c8f21ab5c5.svg"
               },
@@ -3235,12 +3235,12 @@
             },
             {
               "home_team": {
-                "name": "Palermo",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/palermo_64x64.png"
-              },
-              "away_team": {
                 "name": "NÃ¼rnberg",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nã¼rnberg_64x64.png"
+              },
+              "away_team": {
+                "name": "Palermo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/palermo_64x64.png"
               },
               "score": {
                 "home": null,
@@ -4155,6 +4155,29 @@
             },
             {
               "home_team": {
+                "name": "Las Palmas",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/las-palmas.0c92619b42.svg"
+              },
+              "away_team": {
+                "name": "Al Ittihad",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ittihad_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Le Havre",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/le-havre.53b1145132.svg"
               },
@@ -4552,29 +4575,6 @@
               "away_team": {
                 "name": "Al Ettifaq",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ettifaq_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Las Palmas",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/las-palmas.0c92619b42.svg"
-              },
-              "away_team": {
-                "name": "Al Ittihad",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ittihad_64x64.png"
               },
               "score": {
                 "home": null,
