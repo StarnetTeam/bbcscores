@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-25T22:24:57.852370+00:00",
-  "egypt_time": "2026-07-26 01:24:57",
+  "timestamp": "2026-07-25T23:28:09.478466+00:00",
+  "egypt_time": "2026-07-26 02:28:09",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,8 +11,31 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 55,
+          "match_count": 56,
           "matches": [
+            {
+              "home_team": {
+                "name": "Liverpool",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/liverpool.34999937ef.svg"
+              },
+              "away_team": {
+                "name": "Sunderland",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sunderland.6fb24a6b29.svg"
+              },
+              "score": {
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
+              },
+              "time": {
+                "display": "54'",
+                "egypt": "01:00",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "Auckland",
@@ -1299,12 +1322,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "02:07",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1357,8 +1380,31 @@
         },
         {
           "name": "Major League Soccer",
-          "match_count": 14,
+          "match_count": 15,
           "matches": [
+            {
+              "home_team": {
+                "name": "New York RB",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/new-york-red-bulls.94c643f250.svg"
+              },
+              "away_team": {
+                "name": "Charlotte",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/charlotte.41769a6e69.svg"
+              },
+              "score": {
+                "home": "0",
+                "away": "2",
+                "display": "0 - 2"
+              },
+              "time": {
+                "display": "41'",
+                "egypt": "01:30",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "Columbus Crew",
