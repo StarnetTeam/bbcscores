@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-25T05:37:32.518997+00:00",
-  "egypt_time": "2026-07-25 08:37:32",
+  "timestamp": "2026-07-25T07:55:53.831311+00:00",
+  "egypt_time": "2026-07-25 10:55:53",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,7 +11,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 279,
+          "match_count": 280,
           "matches": [
             {
               "home_team": {
@@ -213,7 +213,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "21:00",
+                "egypt": "19:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1096,6 +1096,29 @@
             },
             {
               "home_team": {
+                "name": "Skive",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/skive_64x64.png"
+              },
+              "away_team": {
+                "name": "VSK Ãrhus",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vsk-ãrhus_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Sonnenhof GroÃaspach",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sonnenhof-groãaspach_64x64.png"
               },
@@ -1441,12 +1464,12 @@
             },
             {
               "home_team": {
-                "name": "Heidenheim",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/heidenheim.54be4fd282.svg"
-              },
-              "away_team": {
                 "name": "Hamburger SV",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/hamburg.eebe599ebd.svg"
+              },
+              "away_team": {
+                "name": "Heidenheim",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/heidenheim.54be4fd282.svg"
               },
               "score": {
                 "home": null,
