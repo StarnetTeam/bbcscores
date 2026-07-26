@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-26T15:36:55.748284+00:00",
-  "egypt_time": "2026-07-26 18:36:55",
+  "timestamp": "2026-07-26T16:52:09.391863+00:00",
+  "egypt_time": "2026-07-26 19:52:09",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -92,16 +92,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/inter-milan.209b8285b0.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "46'",
+                "display": "FT",
                 "egypt": "17:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -116,11 +116,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "1'",
+                "display": "57'",
                 "egypt": "18:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3613,6 +3613,29 @@
             },
             {
               "home_team": {
+                "name": "Gorleston",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gorleston_64x64.png"
+              },
+              "away_team": {
+                "name": "Leiston",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/leiston_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Marine",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/marine_64x64.png"
               },
@@ -3757,29 +3780,6 @@
               "away_team": {
                 "name": "Dorking Wanderers",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/dorking-wanderers.646834c863.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Gorleston",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gorleston_64x64.png"
-              },
-              "away_team": {
-                "name": "Leiston",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/leiston_64x64.png"
               },
               "score": {
                 "home": null,
