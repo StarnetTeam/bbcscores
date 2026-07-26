@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-26T04:53:55.112717+00:00",
-  "egypt_time": "2026-07-26 07:53:55",
+  "timestamp": "2026-07-26T07:32:08.799098+00:00",
+  "egypt_time": "2026-07-26 10:32:08",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -61,12 +61,12 @@
             },
             {
               "home_team": {
-                "name": "Trabzonspor",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trabzonspor_64x64.png"
-              },
-              "away_team": {
                 "name": "Eintracht Frankfurt",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/eintracht-frankfurt.ae2efe1598.svg"
+              },
+              "away_team": {
+                "name": "Trabzonspor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trabzonspor_64x64.png"
               },
               "score": {
                 "home": null,
@@ -268,29 +268,6 @@
             },
             {
               "home_team": {
-                "name": "Urartu",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/urartu_64x64.png"
-              },
-              "away_team": {
-                "name": "Syunik",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/syunik_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Viktoria KÃ¶ln",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/viktoria-kã¶ln_64x64.png"
               },
@@ -356,6 +333,29 @@
                 "is_live": false,
                 "is_full_time": true,
                 "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Urartu",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/urartu_64x64.png"
+              },
+              "away_team": {
+                "name": "Syunik",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/syunik_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "10:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
@@ -1317,16 +1317,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlas_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "06:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1340,16 +1340,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlã©tico-san-luis_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "06:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
