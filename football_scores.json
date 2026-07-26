@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-26T07:32:08.799098+00:00",
-  "egypt_time": "2026-07-26 10:32:08",
+  "timestamp": "2026-07-26T09:53:05.874469+00:00",
+  "egypt_time": "2026-07-26 12:53:05",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -11,7 +11,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 55,
+          "match_count": 56,
           "matches": [
             {
               "home_team": {
@@ -245,29 +245,6 @@
             },
             {
               "home_team": {
-                "name": "Standard LiÃ¨ge",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/standard-liã¨ge_64x64.png"
-              },
-              "away_team": {
-                "name": "Seraing",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/seraing_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Viktoria KÃ¶ln",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/viktoria-kã¶ln_64x64.png"
               },
@@ -281,12 +258,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "03:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -429,6 +406,29 @@
             },
             {
               "home_team": {
+                "name": "Standard LiÃ¨ge",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/standard-liã¨ge_64x64.png"
+              },
+              "away_team": {
+                "name": "Seraing",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/seraing_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Jagiellonia BiaÅystok",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/jagiellonia-bialystok.3abde60f15.svg"
               },
@@ -511,12 +511,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "14:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -596,6 +596,29 @@
               "away_team": {
                 "name": "Aris Limassol",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/aris-limassol_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Meerbusch",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/meerbusch_64x64.png"
+              },
+              "away_team": {
+                "name": "Hilden",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hilden_64x64.png"
               },
               "score": {
                 "home": null,
@@ -695,12 +718,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "16:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -843,6 +866,29 @@
             },
             {
               "home_team": {
+                "name": "Bursaspor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bursaspor_64x64.png"
+              },
+              "away_team": {
+                "name": "Shakhtar Donetsk",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/shakhtar-donetsk.16a422c938.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Lazio",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lazio.c57f0e4e91.svg"
               },
@@ -927,29 +973,6 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "19:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Bursaspor",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bursaspor_64x64.png"
-              },
-              "away_team": {
-                "name": "Shakhtar Donetsk",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/shakhtar-donetsk.16a422c938.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
