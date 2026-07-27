@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-27T18:53:54.722303+00:00",
-  "egypt_time": "2026-07-27 21:53:54",
+  "timestamp": "2026-07-27T20:16:55.620473+00:00",
+  "egypt_time": "2026-07-27 23:16:55",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -28,7 +28,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "11'",
+                "display": "HT",
                 "egypt": "21:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -387,31 +387,8 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 83,
+          "match_count": 82,
           "matches": [
-            {
-              "home_team": {
-                "name": "Al Nassr",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-nassr_64x64.png"
-              },
-              "away_team": {
-                "name": "MÃ©rida",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mã©rida_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
             {
               "home_team": {
                 "name": "Real Madrid",
@@ -2603,7 +2580,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 66,
+          "match_count": 67,
           "matches": [
             {
               "home_team": {
@@ -2645,6 +2622,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "MÃ©rida",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mã©rida_64x64.png"
+              },
+              "away_team": {
+                "name": "Al Nassr",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-nassr_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
