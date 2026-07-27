@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-27T01:10:00.671220+00:00",
-  "egypt_time": "2026-07-27 04:10:00",
+  "timestamp": "2026-07-27T05:05:37.682295+00:00",
+  "egypt_time": "2026-07-27 08:05:37",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -98,16 +98,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/monterrey.d45ab03573.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "02:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -121,17 +121,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/querã©taro_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "04:06",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
@@ -2603,7 +2603,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 58,
+          "match_count": 59,
           "matches": [
             {
               "home_team": {
@@ -2967,6 +2967,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Lecce",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lecce.d1642b5cd8.svg"
+              },
+              "away_team": {
+                "name": "Bistrica",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bistrica_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
