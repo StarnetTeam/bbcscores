@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-28T15:14:55.542862+00:00",
-  "egypt_time": "2026-07-28 18:14:55",
+  "timestamp": "2026-07-28T16:56:46.025816+00:00",
+  "egypt_time": "2026-07-28 19:56:46",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -24,15 +24,15 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "5'",
+                "display": "FT",
                 "egypt": "18:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -46,17 +46,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mjã¤llby_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -282,7 +282,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 82,
+          "match_count": 83,
           "matches": [
             {
               "home_team": {
@@ -301,6 +301,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "12:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Al Nassr",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-nassr_64x64.png"
+              },
+              "away_team": {
+                "name": "MÃ©rida",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mã©rida_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1680,7 +1703,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "19:00",
+                "egypt": "19:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1810,29 +1833,6 @@
               "away_team": {
                 "name": "Chasetown",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/chasetown_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Canvey Island",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/canvey-island_64x64.png"
-              },
-              "away_team": {
-                "name": "Aveley",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/aveley_64x64.png"
               },
               "score": {
                 "home": null,
@@ -2169,6 +2169,29 @@
                 "is_full_time": false,
                 "is_upcoming": true
               }
+            },
+            {
+              "home_team": {
+                "name": "Canvey Island",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/canvey-island_64x64.png"
+              },
+              "away_team": {
+                "name": "Aveley",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/aveley_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
             }
           ]
         }
@@ -2475,7 +2498,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 70,
+          "match_count": 69,
           "matches": [
             {
               "home_team": {
@@ -2494,29 +2517,6 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "13:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "MÃ©rida",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mã©rida_64x64.png"
-              },
-              "away_team": {
-                "name": "Al Nassr",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-nassr_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
