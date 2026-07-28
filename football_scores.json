@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-28T05:30:14.632599+00:00",
-  "egypt_time": "2026-07-28 08:30:14",
+  "timestamp": "2026-07-28T08:22:03.448643+00:00",
+  "egypt_time": "2026-07-28 11:22:03",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -349,75 +349,6 @@
             },
             {
               "home_team": {
-                "name": "Derby County",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/derby-county_64x64.png"
-              },
-              "away_team": {
-                "name": "Valencia",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/valencia.b0c6153da8.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Nancy",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nancy_64x64.png"
-              },
-              "away_team": {
-                "name": "Annecy",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/annecy_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Quick Boys",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/quick-boys_64x64.png"
-              },
-              "away_team": {
-                "name": "AZ II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/az-ii_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Sanfrecce Hiroshima",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sanfrecce-hiroshima_64x64.png"
               },
@@ -456,6 +387,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "13:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Derby County",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/derby-county_64x64.png"
+              },
+              "away_team": {
+                "name": "Valencia",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/valencia.b0c6153da8.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -562,6 +516,29 @@
               "away_team": {
                 "name": "UniÃ£o de Leiria",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uniã£o-de-leiria_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Nancy",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nancy_64x64.png"
+              },
+              "away_team": {
+                "name": "Annecy",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/annecy_64x64.png"
               },
               "score": {
                 "home": null,
@@ -838,6 +815,29 @@
               "away_team": {
                 "name": "Crawley Town",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/crawley-town.0f6339195b.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Quick Boys",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/quick-boys_64x64.png"
+              },
+              "away_team": {
+                "name": "AZ II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/az-ii_64x64.png"
               },
               "score": {
                 "home": null,
@@ -2445,8 +2445,37 @@
           ]
         },
         {
+          "name": "Sydney Super Cup",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Tottenham Hotspur",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
+              },
+              "away_team": {
+                "name": "Sydney",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sydney_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
           "name": "Club Friendlies",
-          "match_count": 67,
+          "match_count": 69,
           "matches": [
             {
               "home_team": {
@@ -2519,6 +2548,29 @@
             },
             {
               "home_team": {
+                "name": "Konyaspor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/konyaspor_64x64.png"
+              },
+              "away_team": {
+                "name": "Al Dhafra",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-dhafra_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "AEK Athens",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/aek-athens_64x64.png"
               },
@@ -2555,12 +2607,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "19:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -2822,6 +2874,29 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rkc-waalwijk_64x64.png"
               },
               "away_team": {
+                "name": "Patro Eisden",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/patro-eisden_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "RKC Waalwijk",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rkc-waalwijk_64x64.png"
+              },
+              "away_team": {
                 "name": "Telstar",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/telstar_64x64.png"
               },
@@ -2831,12 +2906,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "15:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -3084,12 +3159,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "19:30",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -3983,35 +4058,6 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "Sydney Super Cup",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Tottenham Hotspur",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
-              },
-              "away_team": {
-                "name": "Sydney",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sydney_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "12:45",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
