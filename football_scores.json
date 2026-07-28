@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-28T10:56:05.997958+00:00",
-  "egypt_time": "2026-07-28 13:56:05",
+  "timestamp": "2026-07-28T12:50:36.810589+00:00",
+  "egypt_time": "2026-07-28 15:50:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -265,17 +265,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/western-sydney-wanderers_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "6",
+                "away": "4",
+                "display": "6 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:45",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
@@ -409,17 +409,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ahli_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -447,12 +447,12 @@
             },
             {
               "home_team": {
-                "name": "Avellino",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avellino_64x64.png"
+                "name": "Cagliari",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/cagliari.517b4f0922.svg"
               },
               "away_team": {
-                "name": "Real Forio",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-forio_64x64.png"
+                "name": "Modena",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/modena_64x64.png"
               },
               "score": {
                 "home": null,
@@ -470,12 +470,12 @@
             },
             {
               "home_team": {
-                "name": "Cagliari",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/cagliari.517b4f0922.svg"
+                "name": "Avellino",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avellino_64x64.png"
               },
               "away_team": {
-                "name": "Modena",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/modena_64x64.png"
+                "name": "Real Forio",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-forio_64x64.png"
               },
               "score": {
                 "home": null,
@@ -484,7 +484,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "18:00",
+                "egypt": "18:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1334,12 +1334,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "21:45",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -2475,7 +2475,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 69,
+          "match_count": 70,
           "matches": [
             {
               "home_team": {
@@ -3773,6 +3773,29 @@
               "away_team": {
                 "name": "Sporting Trestina",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-trestina_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Pescara",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pescara_64x64.png"
+              },
+              "away_team": {
+                "name": "San Giovanni Teatino",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/san-giovanni-teatino_64x64.png"
               },
               "score": {
                 "home": null,
