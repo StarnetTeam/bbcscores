@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-29T11:01:03.410235+00:00",
-  "egypt_time": "2026-07-29 14:01:03",
+  "timestamp": "2026-07-29T13:12:18.053826+00:00",
+  "egypt_time": "2026-07-29 16:12:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -9,35 +9,6 @@
       "date": "2026-07-29",
       "day_offset": 0,
       "leagues": [
-        {
-          "name": "Sydney Super Cup",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Tottenham Hotspur",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
-              },
-              "away_team": {
-                "name": "Sydney",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sydney_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
-              },
-              "time": {
-                "display": "55'",
-                "egypt": "12:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            }
-          ]
-        },
         {
           "name": "UEFA Champions League",
           "match_count": 8,
@@ -304,6 +275,35 @@
           ]
         },
         {
+          "name": "Sydney Super Cup",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Tottenham Hotspur",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
+              },
+              "away_team": {
+                "name": "Sydney",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sydney_64x64.png"
+              },
+              "score": {
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
+              },
+              "time": {
+                "display": "PENS",
+                "egypt": "12:45",
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            }
+          ]
+        },
+        {
           "name": "Club Friendlies",
           "match_count": 69,
           "matches": [
@@ -322,11 +322,11 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -907,6 +907,29 @@
             },
             {
               "home_team": {
+                "name": "Real Valladolid",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-valladolid_64x64.png"
+              },
+              "away_team": {
+                "name": "CD Coria",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cd-coria_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Saint-Ãtienne",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/st-etienne.513a11172c.svg"
               },
@@ -922,6 +945,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Girona",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/girona.4dc82412e1.svg"
+              },
+              "away_team": {
+                "name": "CastellÃ³n",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/castellã³n_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1068,29 +1114,6 @@
             },
             {
               "home_team": {
-                "name": "Real Valladolid",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-valladolid_64x64.png"
-              },
-              "away_team": {
-                "name": "CD Coria",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cd-coria_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Deportivo de A CoruÃ±a",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/deportivo-de-a-coruã±a_64x64.png"
               },
@@ -1212,29 +1235,6 @@
               "away_team": {
                 "name": "Bristol City",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bristol-city.5a501a6adb.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Girona",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/girona.4dc82412e1.svg"
-              },
-              "away_team": {
-                "name": "CastellÃ³n",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/castellã³n_64x64.png"
               },
               "score": {
                 "home": null,
@@ -3517,7 +3517,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 55,
+          "match_count": 56,
           "matches": [
             {
               "home_team": {
@@ -4640,6 +4640,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "GOÅ K Gabela",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/goå k-gabela_64x64.png"
+              },
+              "away_team": {
+                "name": "VeleÅ¾ Nevesinje",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/veleå¾-nevesinje_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
