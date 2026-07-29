@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-29T01:59:38.288020+00:00",
-  "egypt_time": "2026-07-29 04:59:38",
+  "timestamp": "2026-07-29T05:27:29.510890+00:00",
+  "egypt_time": "2026-07-29 08:27:29",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -3494,7 +3494,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 54,
+          "match_count": 55,
           "matches": [
             {
               "home_team": {
@@ -3849,6 +3849,29 @@
               "away_team": {
                 "name": "Cercle Brugge",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cercle-brugge_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Wolfsburg",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wolfsburg.39c3020b6a.svg"
+              },
+              "away_team": {
+                "name": "Telstar",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/telstar_64x64.png"
               },
               "score": {
                 "home": null,
