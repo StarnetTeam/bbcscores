@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-29T08:04:12.476451+00:00",
-  "egypt_time": "2026-07-29 11:04:12",
+  "timestamp": "2026-07-29T11:01:03.410235+00:00",
+  "egypt_time": "2026-07-29 14:01:03",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -9,6 +9,35 @@
       "date": "2026-07-29",
       "day_offset": 0,
       "leagues": [
+        {
+          "name": "Sydney Super Cup",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Tottenham Hotspur",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
+              },
+              "away_team": {
+                "name": "Sydney",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sydney_64x64.png"
+              },
+              "score": {
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
+              },
+              "time": {
+                "display": "55'",
+                "egypt": "12:45",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            }
+          ]
+        },
         {
           "name": "UEFA Champions League",
           "match_count": 8,
@@ -275,35 +304,6 @@
           ]
         },
         {
-          "name": "Sydney Super Cup",
-          "match_count": 1,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Tottenham Hotspur",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
-              },
-              "away_team": {
-                "name": "Sydney",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sydney_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "12:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        },
-        {
           "name": "Club Friendlies",
           "match_count": 69,
           "matches": [
@@ -317,17 +317,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/borussia-dortmund.11b645e3a6.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "13:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -461,7 +461,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "11:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -497,8 +497,8 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/celta-vigo.f0f2dc7b8b.svg"
               },
               "away_team": {
-                "name": "ABB",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/abb_64x64.png"
+                "name": "AcadÃ©mico de Viseu",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/acadã©mico-de-viseu_64x64.png"
               },
               "score": {
                 "home": null,
@@ -520,8 +520,8 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/celta-vigo.f0f2dc7b8b.svg"
               },
               "away_team": {
-                "name": "AcadÃ©mico de Viseu",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/acadã©mico-de-viseu_64x64.png"
+                "name": "ABB",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/abb_64x64.png"
               },
               "score": {
                 "home": null,
@@ -723,6 +723,29 @@
             },
             {
               "home_team": {
+                "name": "Westerlo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/westerlo_64x64.png"
+              },
+              "away_team": {
+                "name": "Kifisia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kifisia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Lecce",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lecce.d1642b5cd8.svg"
               },
@@ -821,29 +844,6 @@
               "away_team": {
                 "name": "Iraklis 1908",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iraklis-1908_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Westerlo",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/westerlo_64x64.png"
-              },
-              "away_team": {
-                "name": "Kifisia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kifisia_64x64.png"
               },
               "score": {
                 "home": null,
@@ -3090,7 +3090,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 17,
+          "match_count": 18,
           "matches": [
             {
               "home_team": {
@@ -3362,6 +3362,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Meerssen",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/meerssen_64x64.png"
+              },
+              "away_team": {
+                "name": "Fortuna Sittard",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fortuna-sittard_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:45",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -4280,12 +4303,12 @@
             },
             {
               "home_team": {
-                "name": "Crawley Town",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/crawley-town.0f6339195b.svg"
+                "name": "Bromley",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bromley.858a78d41a.svg"
               },
               "away_team": {
-                "name": "Reading",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/reading.9effd7d183.svg"
+                "name": "Queens Park Rangers",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/queens-park-rangers.0f35caae13.svg"
               },
               "score": {
                 "home": null,
@@ -4303,12 +4326,12 @@
             },
             {
               "home_team": {
-                "name": "Queens Park Rangers",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/queens-park-rangers.0f35caae13.svg"
+                "name": "Crawley Town",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/crawley-town.0f6339195b.svg"
               },
               "away_team": {
-                "name": "Bromley",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bromley.858a78d41a.svg"
+                "name": "Reading",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/reading.9effd7d183.svg"
               },
               "score": {
                 "home": null,
@@ -4455,7 +4478,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "17:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
