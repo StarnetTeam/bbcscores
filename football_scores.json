@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-29T15:26:59.759309+00:00",
-  "egypt_time": "2026-07-29 18:26:59",
+  "timestamp": "2026-07-29T16:49:01.083391+00:00",
+  "egypt_time": "2026-07-29 19:49:01",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,12 +23,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/omonia-nicosia.c9b6e3cf0f.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "15'",
+                "display": "HT",
                 "egypt": "18:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -46,17 +46,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kã_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "1'",
                 "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -214,11 +214,11 @@
               },
               "score": {
                 "home": "1",
-                "away": "3",
-                "display": "1 - 3"
+                "away": "5",
+                "display": "1 - 5"
               },
               "time": {
-                "display": "HT",
+                "display": "75'",
                 "egypt": "17:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -497,8 +497,8 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/celta-vigo.f0f2dc7b8b.svg"
               },
               "away_team": {
-                "name": "AcadÃ©mico de Viseu",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/acadã©mico-de-viseu_64x64.png"
+                "name": "ABB",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/abb_64x64.png"
               },
               "score": {
                 "home": null,
@@ -520,8 +520,8 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/celta-vigo.f0f2dc7b8b.svg"
               },
               "away_team": {
-                "name": "ABB",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/abb_64x64.png"
+                "name": "AcadÃ©mico de Viseu",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/acadã©mico-de-viseu_64x64.png"
               },
               "score": {
                 "home": null,
@@ -731,17 +731,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/genk_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "0",
+                "display": "4 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "16:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -4464,6 +4464,29 @@
             },
             {
               "home_team": {
+                "name": "Pogradeci",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pogradeci_64x64.png"
+              },
+              "away_team": {
+                "name": "Partizani Tirana",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/partizani-tirana_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "11:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Ãmraniyespor",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ãmraniyespor_64x64.png"
               },
@@ -4516,29 +4539,6 @@
               "away_team": {
                 "name": "Scandicci",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/scandicci_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Pogradeci",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pogradeci_64x64.png"
-              },
-              "away_team": {
-                "name": "Partizani Tirana",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/partizani-tirana_64x64.png"
               },
               "score": {
                 "home": null,
