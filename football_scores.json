@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-29T19:51:01.449544+00:00",
-  "egypt_time": "2026-07-29 22:51:01",
+  "timestamp": "2026-07-29T20:46:04.716258+00:00",
+  "egypt_time": "2026-07-29 23:46:04",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -143,11 +143,11 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "83'",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -166,11 +166,11 @@
                 "display": "5 - 0"
               },
               "time": {
-                "display": "82'",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -189,11 +189,11 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "77'",
+                "display": "FT",
                 "egypt": "21:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -259,16 +259,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fc-santa-coloma_64x64.png"
               },
               "score": {
-                "home": "4",
-                "away": "1",
-                "display": "4 - 1"
+                "home": "6",
+                "away": "2",
+                "display": "6 - 2"
               },
               "time": {
-                "display": "60'",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -340,17 +340,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/getafe.ff70b38ab3.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Suspended",
                 "egypt": "22:30",
-                "status": "PreEvent",
+                "status": "Suspended",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1375,16 +1375,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/newcastle-united.45e2739dd9.svg"
               },
               "score": {
-                "home": "3",
-                "away": "0",
-                "display": "3 - 0"
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
               },
               "time": {
-                "display": "60'",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
