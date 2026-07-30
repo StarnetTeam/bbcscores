@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-30T12:10:11.326017+00:00",
-  "egypt_time": "2026-07-30 15:10:11",
+  "timestamp": "2026-07-30T14:39:46.128289+00:00",
+  "egypt_time": "2026-07-30 17:39:46",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -236,17 +236,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vaduz_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "11'",
                 "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -259,17 +259,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/paneväå¾ys_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "7'",
                 "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1277,17 +1277,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/granville_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -2800,12 +2800,12 @@
             },
             {
               "home_team": {
-                "name": "Johor Darul Ta'zim",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/johor-darul-tazim_64x64.png"
-              },
-              "away_team": {
                 "name": "FC Cartagena",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fc-cartagena_64x64.png"
+              },
+              "away_team": {
+                "name": "Johor Darul Ta'zim",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/johor-darul-tazim_64x64.png"
               },
               "score": {
                 "home": null,
@@ -3172,7 +3172,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 229,
+          "match_count": 228,
           "matches": [
             {
               "home_team": {
@@ -3383,29 +3383,6 @@
             },
             {
               "home_team": {
-                "name": "AEK Athens",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/aek-athens_64x64.png"
-              },
-              "away_team": {
-                "name": "Sint-Truiden",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sint-truiden_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Alverca",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alverca_64x64.png"
               },
@@ -3504,29 +3481,6 @@
               "away_team": {
                 "name": "Seraing",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/seraing_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Genk",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/genk_64x64.png"
-              },
-              "away_team": {
-                "name": "TOP Oss",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/top-oss_64x64.png"
               },
               "score": {
                 "home": null,
@@ -4240,6 +4194,29 @@
               "away_team": {
                 "name": "Ballymena United",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ballymena-united_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Genk",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/genk_64x64.png"
+              },
+              "away_team": {
+                "name": "TOP Oss",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/top-oss_64x64.png"
               },
               "score": {
                 "home": null,
