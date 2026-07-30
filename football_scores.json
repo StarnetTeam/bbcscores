@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-29T23:56:03.420749+00:00",
-  "egypt_time": "2026-07-30 02:56:03",
+  "timestamp": "2026-07-30T02:00:50.316410+00:00",
+  "egypt_time": "2026-07-30 05:00:50",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1208,16 +1208,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wrexham.b02a4ae432.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "16'",
+                "display": "FT",
                 "egypt": "02:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
