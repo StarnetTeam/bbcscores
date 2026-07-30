@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-30T10:17:21.461370+00:00",
-  "egypt_time": "2026-07-30 13:17:21",
+  "timestamp": "2026-07-30T12:10:11.326017+00:00",
+  "egypt_time": "2026-07-30 15:10:11",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1254,17 +1254,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ittihad_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "2",
+                "display": "4 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -8098,52 +8098,6 @@
             },
             {
               "home_team": {
-                "name": "Sloga Doboj",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sloga-doboj_64x64.png"
-              },
-              "away_team": {
-                "name": "Zvijezda GradaÄac",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zvijezda-gradaäac_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Teuta DurrÃ«s",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/teuta-durrã«s_64x64.png"
-              },
-              "away_team": {
-                "name": "BesÃ«lidhja LezhÃ«",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/besã«lidhja-lezhã«_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Zagora",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zagora_64x64.png"
               },
@@ -8282,6 +8236,29 @@
             },
             {
               "home_team": {
+                "name": "Teuta DurrÃ«s",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/teuta-durrã«s_64x64.png"
+              },
+              "away_team": {
+                "name": "BesÃ«lidhja LezhÃ«",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/besã«lidhja-lezhã«_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Trofense",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trofense_64x64.png"
               },
@@ -8403,6 +8380,29 @@
               "away_team": {
                 "name": "Alcoyano",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alcoyano_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sloga Doboj",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sloga-doboj_64x64.png"
+              },
+              "away_team": {
+                "name": "Zvijezda GradaÄac",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zvijezda-gradaäac_64x64.png"
               },
               "score": {
                 "home": null,
