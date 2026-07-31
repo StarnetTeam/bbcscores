@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-31T08:39:09.498293+00:00",
-  "egypt_time": "2026-07-31 11:39:09",
+  "timestamp": "2026-07-31T11:24:39.091838+00:00",
+  "egypt_time": "2026-07-31 14:24:39",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1606,7 +1606,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 228,
+          "match_count": 229,
           "matches": [
             {
               "home_team": {
@@ -2292,6 +2292,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "12:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "AcadÃ©mico de Viseu",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/acadã©mico-de-viseu_64x64.png"
+              },
+              "away_team": {
+                "name": "Varzim",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/varzim_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -3059,12 +3082,12 @@
             },
             {
               "home_team": {
-                "name": "Beerschot",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/beerschot_64x64.png"
+                "name": "Ballyclare Comrades",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ballyclare-comrades_64x64.png"
               },
               "away_team": {
-                "name": "Zulte Waregem",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zulte-waregem_64x64.png"
+                "name": "Carrick Rangers",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/carrick-rangers_64x64.png"
               },
               "score": {
                 "home": null,
@@ -3082,12 +3105,12 @@
             },
             {
               "home_team": {
-                "name": "Carrick Rangers",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/carrick-rangers_64x64.png"
+                "name": "Beerschot",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/beerschot_64x64.png"
               },
               "away_team": {
-                "name": "Ballyclare Comrades",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ballyclare-comrades_64x64.png"
+                "name": "Zulte Waregem",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zulte-waregem_64x64.png"
               },
               "score": {
                 "home": null,
@@ -6499,12 +6522,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "18:30",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
