@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-01T10:14:20.219890+00:00",
-  "egypt_time": "2026-08-01 13:14:20",
+  "timestamp": "2026-08-01T11:39:40.348329+00:00",
+  "egypt_time": "2026-08-01 14:39:40",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -57,7 +57,7 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "26'",
+                "display": "70'",
                 "egypt": "12:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -86,7 +86,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "11'",
+                "display": "44'",
                 "egypt": "13:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -303,29 +303,6 @@
             },
             {
               "home_team": {
-                "name": "Farense",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/farense_64x64.png"
-              },
-              "away_team": {
-                "name": "Fulham",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fulham.d16ec60bd3.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Felgueiras 1932",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/felgueiras-1932_64x64.png"
               },
@@ -449,17 +426,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avellino_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "6",
+                "away": "3",
+                "display": "6 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "10:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -472,17 +449,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/albacete_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -562,6 +539,29 @@
               "away_team": {
                 "name": "Arenas Getxo",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/arenas-getxo_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Farense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/farense_64x64.png"
+              },
+              "away_team": {
+                "name": "Fulham",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fulham.d16ec60bd3.svg"
               },
               "score": {
                 "home": null,
@@ -2087,12 +2087,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -2465,6 +2465,29 @@
             },
             {
               "home_team": {
+                "name": "Mainz 05",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/mainz.8cb444ea66.svg"
+              },
+              "away_team": {
+                "name": "Udinese",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/udinese.b5f10af4e1.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Middlesbrough",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/middlesbrough.98afd8bffc.svg"
               },
@@ -2770,29 +2793,6 @@
               "away_team": {
                 "name": "LeganÃ©s",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leganes.6620ee20ea.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Udinese",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/udinese.b5f10af4e1.svg"
-              },
-              "away_team": {
-                "name": "Mainz 05",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/mainz.8cb444ea66.svg"
               },
               "score": {
                 "home": null,
@@ -4106,17 +4106,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ud-los-garres_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "10:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -4129,17 +4129,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/getafe-ii_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -4175,17 +4175,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/segesta-sisak_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -6086,7 +6086,7 @@
       "leagues": [
         {
           "name": "Club Friendlies",
-          "match_count": 33,
+          "match_count": 34,
           "matches": [
             {
               "home_team": {
@@ -6197,6 +6197,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "23:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Rizespor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rizespor_64x64.png"
+              },
+              "away_team": {
+                "name": "Orijent 1919",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/orijent-1919_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
