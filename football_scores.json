@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-01T02:21:47.647682+00:00",
-  "egypt_time": "2026-08-01 05:21:47",
+  "timestamp": "2026-08-01T05:39:25.921269+00:00",
+  "egypt_time": "2026-08-01 08:39:25",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -4489,6 +4489,29 @@
             },
             {
               "home_team": {
+                "name": "Gainsborough Trinity",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/gainsborough-trinity.5ede3cf3fe.svg"
+              },
+              "away_team": {
+                "name": "Bradford (Park Avenue)",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bradford-(park-avenue)_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Rijnsburgse Boys",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rijnsburgse-boys_64x64.png"
               },
@@ -4748,29 +4771,6 @@
               "away_team": {
                 "name": "Weymouth",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/weymouth_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Gainsborough Trinity",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/gainsborough-trinity.5ede3cf3fe.svg"
-              },
-              "away_team": {
-                "name": "Bradford (Park Avenue)",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bradford-(park-avenue)_64x64.png"
               },
               "score": {
                 "home": null,
@@ -5987,16 +5987,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/guadalajara_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6010,17 +6010,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tijuana_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "06:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -6033,17 +6033,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pumas-unam_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "5",
+                "display": "1 - 5"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "06:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
