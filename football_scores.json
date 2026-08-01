@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-01T11:39:40.348329+00:00",
-  "egypt_time": "2026-08-01 14:39:40",
+  "timestamp": "2026-08-01T13:03:50.655605+00:00",
+  "egypt_time": "2026-08-01 16:03:50",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -53,15 +53,15 @@
               },
               "score": {
                 "home": "1",
-                "away": "1",
-                "display": "1 - 1"
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "70'",
+                "display": "FT",
                 "egypt": "12:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -82,15 +82,15 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "44'",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -104,17 +104,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/inter-milan.209b8285b0.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "73'",
                 "egypt": "14:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -127,17 +127,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/atletico-madrid.8b14f6d5e1.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "1'",
                 "egypt": "16:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -353,8 +353,8 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/penafiel_64x64.png"
               },
               "away_team": {
-                "name": "Gil Vicente",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gil-vicente_64x64.png"
+                "name": "Sporting Braga II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-braga-ii_64x64.png"
               },
               "score": {
                 "home": null,
@@ -376,8 +376,8 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/penafiel_64x64.png"
               },
               "away_team": {
-                "name": "Sporting Braga II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-braga-ii_64x64.png"
+                "name": "Gil Vicente",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gil-vicente_64x64.png"
               },
               "score": {
                 "home": null,
@@ -518,17 +518,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cambuur_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -541,17 +541,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/arenas-getxo_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "5",
+                "away": "0",
+                "display": "5 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -633,17 +633,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ãpinal_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -679,17 +679,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/omiya-ardija_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
