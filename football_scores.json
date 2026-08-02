@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-02T04:49:56.075537+00:00",
-  "egypt_time": "2026-08-02 07:49:56",
+  "timestamp": "2026-08-02T07:28:40.908289+00:00",
+  "egypt_time": "2026-08-02 10:28:40",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -136,52 +136,6 @@
               "away_team": {
                 "name": "Orijent 1919",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/orijent-1919_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Oudenaarde",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/oudenaarde_64x64.png"
-              },
-              "away_team": {
-                "name": "Dender",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dender_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "RKC Waalwijk",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rkc-waalwijk_64x64.png"
-              },
-              "away_team": {
-                "name": "Kifisia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kifisia_64x64.png"
               },
               "score": {
                 "home": null,
@@ -383,6 +337,29 @@
             },
             {
               "home_team": {
+                "name": "Oudenaarde",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/oudenaarde_64x64.png"
+              },
+              "away_team": {
+                "name": "Dender",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dender_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Union Berlin",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/union-berlin.88a3630fbc.svg"
               },
@@ -444,6 +421,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "16:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "RKC Waalwijk",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rkc-waalwijk_64x64.png"
+              },
+              "away_team": {
+                "name": "Kifisia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kifisia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -932,16 +932,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlante_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "3",
+                "display": "2 - 3"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "06:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -1242,11 +1242,11 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "63'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1260,16 +1260,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/seattle-sounders.19c0cc8ef9.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "1",
-                "display": "1 - 1"
+                "display": "2 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "05:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
