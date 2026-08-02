@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-02T19:04:09.801666+00:00",
-  "egypt_time": "2026-08-02 22:04:09",
+  "timestamp": "2026-08-02T20:26:38.586859+00:00",
+  "egypt_time": "2026-08-02 23:26:38",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -92,16 +92,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rennes.d01a03ef02.svg"
               },
               "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
+                "home": "3",
+                "away": "3",
+                "display": "3 - 3"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -115,17 +115,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leeds-united.6eb48daff9.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "19'",
                 "egypt": "23:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
