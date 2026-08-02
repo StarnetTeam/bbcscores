@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-02T12:34:03.386262+00:00",
-  "egypt_time": "2026-08-02 15:34:03",
+  "timestamp": "2026-08-02T14:24:57.930120+00:00",
+  "egypt_time": "2026-08-02 17:24:57",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/ajax.93f9a237fb.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "3",
+                "display": "1 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "90'+2",
                 "egypt": "15:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -46,17 +46,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/atalanta.d1c89c44af.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "49'",
                 "egypt": "16:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -144,7 +144,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "18:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -184,17 +184,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kharkiv_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -207,17 +207,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/neustrelitz_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "14:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -230,17 +230,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/antwerp_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "14:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -253,40 +253,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sint-truiden_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "0",
+                "display": "3 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "15:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Alemannia Aachen",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alemannia-aachen_64x64.png"
-              },
-              "away_team": {
-                "name": "Eintracht Trier",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eintracht-trier_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "15:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -322,17 +299,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/go-ahead-eagles_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "15:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -368,13 +345,36 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/cagliari.517b4f0922.svg"
               },
               "score": {
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
+              },
+              "time": {
+                "display": "FT",
+                "egypt": "15:00",
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Alemannia Aachen",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alemannia-aachen_64x64.png"
+              },
+              "away_team": {
+                "name": "Eintracht Trier",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eintracht-trier_64x64.png"
+              },
+              "score": {
                 "home": null,
                 "away": null,
                 "display": "vs"
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "15:00",
+                "egypt": "15:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -419,12 +419,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "16:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -544,29 +544,6 @@
             },
             {
               "home_team": {
-                "name": "Vicenza",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vicenza_64x64.png"
-              },
-              "away_team": {
-                "name": "Luparense",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/luparense_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "18:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Sunderland",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sunderland.6fb24a6b29.svg"
               },
@@ -613,6 +590,29 @@
             },
             {
               "home_team": {
+                "name": "Vicenza",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vicenza_64x64.png"
+              },
+              "away_team": {
+                "name": "Luparense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/luparense_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Ascoli",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ascoli_64x64.png"
               },
@@ -644,17 +644,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ruå¾omberok-ii_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -811,17 +811,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/caernarfon-town_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "16:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -834,17 +834,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/new-saints.92c1c79927.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "16:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
