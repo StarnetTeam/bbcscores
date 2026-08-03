@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-03T12:15:19.569775+00:00",
-  "egypt_time": "2026-08-03 15:15:19",
+  "timestamp": "2026-08-03T15:23:21.269534+00:00",
+  "egypt_time": "2026-08-03 18:23:21",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -75,17 +75,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ael_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -518,29 +518,6 @@
           "matches": [
             {
               "home_team": {
-                "name": "Al Nassr",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-nassr_64x64.png"
-              },
-              "away_team": {
-                "name": "AlmerÃ­a",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/almeria.fe9295b80a.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Jeju FC",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jeju-fc_64x64.png"
               },
@@ -556,6 +533,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Al Nassr",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-nassr_64x64.png"
+              },
+              "away_team": {
+                "name": "AlmerÃ­a",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/almeria.fe9295b80a.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
