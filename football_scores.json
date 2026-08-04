@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-04T12:54:31.266508+00:00",
-  "egypt_time": "2026-08-04 15:54:31",
+  "timestamp": "2026-08-04T15:19:52.175001+00:00",
+  "egypt_time": "2026-08-04 18:19:52",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -299,11 +299,11 @@
                 "display": "1 - 2"
               },
               "time": {
-                "display": "52'",
+                "display": "FT",
                 "egypt": "14:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1141,7 +1141,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 41,
+          "match_count": 42,
           "matches": [
             {
               "home_team": {
@@ -1427,6 +1427,29 @@
               "away_team": {
                 "name": "Osasuna",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/osasuna.c0c9168a45.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Nea Salamis",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nea-salamis_64x64.png"
+              },
+              "away_team": {
+                "name": "Omonia 29is Maiou",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/omonia-29is-maiou_64x64.png"
               },
               "score": {
                 "home": null,
@@ -2389,29 +2412,6 @@
             },
             {
               "home_team": {
-                "name": "Lincoln Red Imps",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lincoln-red-imps_64x64.png"
-              },
-              "away_team": {
-                "name": "Omonia Nicosia",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/omonia-nicosia.c9b6e3cf0f.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Maccabi Tel Aviv",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/maccabi-tel-aviv_64x64.png"
               },
@@ -2464,6 +2464,29 @@
               "away_team": {
                 "name": "KÃ",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kã_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Lincoln Red Imps",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lincoln-red-imps_64x64.png"
+              },
+              "away_team": {
+                "name": "Omonia Nicosia",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/omonia-nicosia.c9b6e3cf0f.svg"
               },
               "score": {
                 "home": null,
