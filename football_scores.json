@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-04T10:30:20.138101+00:00",
-  "egypt_time": "2026-08-04 13:30:20",
+  "timestamp": "2026-08-04T12:54:31.266508+00:00",
+  "egypt_time": "2026-08-04 15:54:31",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -294,17 +294,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bayern-munich.4ea824a8bf.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "52'",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1444,6 +1444,29 @@
             },
             {
               "home_team": {
+                "name": "Al Ain",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ain_64x64.png"
+              },
+              "away_team": {
+                "name": "Toulouse",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/toulouse.133ec5877a.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Excelsior Virton",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/excelsior-virton_64x64.png"
               },
@@ -1519,29 +1542,6 @@
               "away_team": {
                 "name": "Augsburg",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/augsburg.05a8251648.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Toulouse",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/toulouse.133ec5877a.svg"
-              },
-              "away_team": {
-                "name": "Al Ain",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ain_64x64.png"
               },
               "score": {
                 "home": null,
@@ -1643,29 +1643,6 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Deportivo de A CoruÃ±a II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/deportivo-de-a-coruã±a-ii_64x64.png"
-              },
-              "away_team": {
-                "name": "Real Madrid II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-madrid-ii_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1919,6 +1896,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Deportivo de A CoruÃ±a II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/deportivo-de-a-coruã±a-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "Real Madrid II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-madrid-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -3231,7 +3231,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 15,
+          "match_count": 17,
           "matches": [
             {
               "home_team": {
@@ -3318,7 +3318,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "19:00",
+                "egypt": "18:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -3511,6 +3511,29 @@
             },
             {
               "home_team": {
+                "name": "Real Calepina",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-calepina_64x64.png"
+              },
+              "away_team": {
+                "name": "Leon",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/leon_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "AF Elbasani",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/af-elbasani_64x64.png"
               },
@@ -3530,6 +3553,29 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "AF Elbasani",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/af-elbasani_64x64.png"
+              },
+              "away_team": {
+                "name": "Partizani Tirana",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/partizani-tirana_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
