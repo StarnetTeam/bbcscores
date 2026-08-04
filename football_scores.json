@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-04T01:54:45.510836+00:00",
-  "egypt_time": "2026-08-04 04:54:45",
+  "timestamp": "2026-08-04T04:58:11.033316+00:00",
+  "egypt_time": "2026-08-04 07:58:11",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -282,7 +282,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 30,
+          "match_count": 31,
           "matches": [
             {
               "home_team": {
@@ -746,6 +746,29 @@
             },
             {
               "home_team": {
+                "name": "Bjelovar",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bjelovar_64x64.png"
+              },
+              "away_team": {
+                "name": "Trnje",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trnje_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "10:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "CittÃ  di Teramo",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cittã -di-teramo_64x64.png"
               },
@@ -1118,7 +1141,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 41,
+          "match_count": 40,
           "matches": [
             {
               "home_team": {
@@ -1620,29 +1643,6 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Bjelovar",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bjelovar_64x64.png"
-              },
-              "away_team": {
-                "name": "Trnje",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trnje_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "11:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
