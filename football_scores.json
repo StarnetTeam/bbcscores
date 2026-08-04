@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-04T04:58:11.033316+00:00",
-  "egypt_time": "2026-08-04 07:58:11",
+  "timestamp": "2026-08-04T07:40:29.740214+00:00",
+  "egypt_time": "2026-08-04 10:40:29",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -369,7 +369,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "14:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -552,12 +552,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "20:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1237,12 +1237,12 @@
             },
             {
               "home_team": {
-                "name": "Granada",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/granada.35f5e6b023.svg"
-              },
-              "away_team": {
                 "name": "CÃ¡diz",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/cadiz.dcb8c2358f.svg"
+              },
+              "away_team": {
+                "name": "Granada",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/granada.35f5e6b023.svg"
               },
               "score": {
                 "home": null,
