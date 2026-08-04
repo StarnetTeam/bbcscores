@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-04T07:40:29.740214+00:00",
-  "egypt_time": "2026-08-04 10:40:29",
+  "timestamp": "2026-08-04T10:30:20.138101+00:00",
+  "egypt_time": "2026-08-04 13:30:20",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -470,29 +470,6 @@
             },
             {
               "home_team": {
-                "name": "Eldense",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eldense_64x64.png"
-              },
-              "away_team": {
-                "name": "Villarreal II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/villarreal-ii_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "LeganÃ©s",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leganes.6620ee20ea.svg"
               },
@@ -585,6 +562,29 @@
             },
             {
               "home_team": {
+                "name": "Eldense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eldense_64x64.png"
+              },
+              "away_team": {
+                "name": "Villarreal II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/villarreal-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Geel",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/geel_64x64.png"
               },
@@ -608,12 +608,12 @@
             },
             {
               "home_team": {
-                "name": "Grimsby Town",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/grimsby-town.c29db6a639.svg"
-              },
-              "away_team": {
                 "name": "Grimsby Borough",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/grimsby-borough_64x64.png"
+              },
+              "away_team": {
+                "name": "Grimsby Town",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/grimsby-town.c29db6a639.svg"
               },
               "score": {
                 "home": null,
@@ -838,29 +838,6 @@
             },
             {
               "home_team": {
-                "name": "Lisse",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lisse_64x64.png"
-              },
-              "away_team": {
-                "name": "Katwijk",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/katwijk_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Noordwijk",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/noordwijk_64x64.png"
               },
@@ -899,6 +876,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Lisse",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lisse_64x64.png"
+              },
+              "away_team": {
+                "name": "Katwijk",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/katwijk_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1141,7 +1141,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 40,
+          "match_count": 41,
           "matches": [
             {
               "home_team": {
@@ -1519,6 +1519,29 @@
               "away_team": {
                 "name": "Augsburg",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/augsburg.05a8251648.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Toulouse",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/toulouse.133ec5877a.svg"
+              },
+              "away_team": {
+                "name": "Al Ain",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ain_64x64.png"
               },
               "score": {
                 "home": null,
@@ -3501,12 +3524,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "19:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
