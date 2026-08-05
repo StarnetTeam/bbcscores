@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-05T15:09:41.669920+00:00",
-  "egypt_time": "2026-08-05 18:09:41",
+  "timestamp": "2026-08-05T16:58:32.718448+00:00",
+  "egypt_time": "2026-08-05 19:58:32",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -29,7 +29,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "19:30",
+                "egypt": "20:10",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -777,17 +777,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/racing-de-casablanca_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "16:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
