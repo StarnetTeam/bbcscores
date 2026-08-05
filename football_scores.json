@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-04T23:30:38.835658+00:00",
-  "egypt_time": "2026-08-05 02:30:38",
+  "timestamp": "2026-08-05T01:54:40.830091+00:00",
+  "egypt_time": "2026-08-05 04:54:40",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -144,7 +144,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 42,
+          "match_count": 43,
           "matches": [
             {
               "home_team": {
@@ -361,6 +361,29 @@
               "away_team": {
                 "name": "Al Shahaniya",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-shahaniya_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Torino",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/torino.2266635c87.svg"
+              },
+              "away_team": {
+                "name": "Vado",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vado_64x64.png"
               },
               "score": {
                 "home": null,
