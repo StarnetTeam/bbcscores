@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-06T07:59:04.321739+00:00",
-  "egypt_time": "2026-08-06 10:59:04",
+  "timestamp": "2026-08-06T10:42:44.876141+00:00",
+  "egypt_time": "2026-08-06 13:42:44",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -907,29 +907,6 @@
           "matches": [
             {
               "home_team": {
-                "name": "AEL",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ael_64x64.png"
-              },
-              "away_team": {
-                "name": "Atromitos",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atromitos_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Cremonese",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/cremonese.17323f19a0.svg"
               },
@@ -968,6 +945,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "AEL",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ael_64x64.png"
+              },
+              "away_team": {
+                "name": "Atromitos",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atromitos_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -3034,7 +3034,7 @@
             {
               "home_team": {
                 "name": "Salford City",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/salford-city.931d371c95.svg"
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/salford-city.586f45da16.svg"
               },
               "away_team": {
                 "name": "Shrewsbury Town",
@@ -3547,7 +3547,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 109,
+          "match_count": 112,
           "matches": [
             {
               "home_team": {
@@ -3932,12 +3932,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -5092,6 +5092,29 @@
             },
             {
               "home_team": {
+                "name": "Huesca II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/huesca-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "Cuarte",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cuarte_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "10:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "AlcorcÃ³n",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alcorcã³n_64x64.png"
               },
@@ -5328,6 +5351,29 @@
               "away_team": {
                 "name": "Real AvilÃ©s",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-avilã©s_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sporting GijÃ³n II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "Palencia CF",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/palencia-cf_64x64.png"
               },
               "score": {
                 "home": null,
@@ -5719,6 +5765,29 @@
               "away_team": {
                 "name": "Terranuova Traiana",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/terranuova-traiana_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "L'Hospitalet",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lhospitalet_64x64.png"
+              },
+              "away_team": {
+                "name": "Badalona",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/badalona_64x64.png"
               },
               "score": {
                 "home": null,
