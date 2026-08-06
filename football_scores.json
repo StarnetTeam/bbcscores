@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-06T05:17:49.420320+00:00",
-  "egypt_time": "2026-08-06 08:17:49",
+  "timestamp": "2026-08-06T07:59:04.321739+00:00",
+  "egypt_time": "2026-08-06 10:59:04",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1382,7 +1382,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 20,
+          "match_count": 21,
           "matches": [
             {
               "home_team": {
@@ -1708,6 +1708,29 @@
             },
             {
               "home_team": {
+                "name": "Racing de Santander",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/racing-santander.ab71e79d87.svg"
+              },
+              "away_team": {
+                "name": "AlavÃ©s",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/deportivo-alaves.f81e3c929f.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Racing",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/racing_64x64.png"
               },
@@ -1721,12 +1744,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "21:30",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -4356,6 +4379,29 @@
             },
             {
               "home_team": {
+                "name": "Rennes",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rennes.d01a03ef02.svg"
+              },
+              "away_team": {
+                "name": "Brentford",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/brentford.aa0256ca6b.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Schalke 04",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-schalke.bddc2444b2.svg"
               },
@@ -4523,29 +4569,6 @@
               "away_team": {
                 "name": "LiÃ¨ge",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/liã¨ge_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Rennes",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rennes.d01a03ef02.svg"
-              },
-              "away_team": {
-                "name": "Brentford",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/brentford.aa0256ca6b.svg"
               },
               "score": {
                 "home": null,
