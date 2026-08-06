@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-05T23:53:52.348848+00:00",
-  "egypt_time": "2026-08-06 02:53:52",
+  "timestamp": "2026-08-06T01:57:36.109623+00:00",
+  "egypt_time": "2026-08-06 04:57:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1382,7 +1382,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 19,
+          "match_count": 20,
           "matches": [
             {
               "home_team": {
@@ -1516,6 +1516,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Hellas Verona",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/hellas-verona.aa3d27e02e.svg"
+              },
+              "away_team": {
+                "name": "Cremonese",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/cremonese.17323f19a0.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
