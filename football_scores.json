@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-06T10:42:44.876141+00:00",
-  "egypt_time": "2026-08-06 13:42:44",
+  "timestamp": "2026-08-06T12:52:33.364982+00:00",
+  "egypt_time": "2026-08-06 15:52:33",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1145,17 +1145,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/petro-de-luanda_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "4",
+                "display": "0 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1168,17 +1168,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/racing-de-casablanca_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1382,7 +1382,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 21,
+          "match_count": 22,
           "matches": [
             {
               "home_team": {
@@ -1409,12 +1409,12 @@
             },
             {
               "home_team": {
-                "name": "Huesca",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/huesca_64x64.png"
+                "name": "Rizespor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rizespor_64x64.png"
               },
               "away_team": {
-                "name": "FC Andorra",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fc-andorra_64x64.png"
+                "name": "Pyramids",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pyramids_64x64.png"
               },
               "score": {
                 "home": null,
@@ -1423,30 +1423,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "LeganÃ©s",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leganes.6620ee20ea.svg"
-              },
-              "away_team": {
-                "name": "MÃ©rida",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mã©rida_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1616,6 +1593,29 @@
             },
             {
               "home_team": {
+                "name": "Huesca",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/huesca_64x64.png"
+              },
+              "away_team": {
+                "name": "FC Andorra",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fc-andorra_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Albacete",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/albacete_64x64.png"
               },
@@ -1668,6 +1668,29 @@
               "away_team": {
                 "name": "Crystal Palace",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/crystal-palace.9e5ab01a7b.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "LeganÃ©s",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leganes.6620ee20ea.svg"
+              },
+              "away_team": {
+                "name": "MÃ©rida",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mã©rida_64x64.png"
               },
               "score": {
                 "home": null,
@@ -1823,29 +1846,6 @@
             },
             {
               "home_team": {
-                "name": "Llanera",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/llanera_64x64.png"
-              },
-              "away_team": {
-                "name": "Lealtad",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lealtad_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Chiclana",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/chiclana_64x64.png"
               },
@@ -1861,6 +1861,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "20:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Llanera",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/llanera_64x64.png"
+              },
+              "away_team": {
+                "name": "Lealtad",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lealtad_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -3735,29 +3758,6 @@
             },
             {
               "home_team": {
-                "name": "Rizespor",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rizespor_64x64.png"
-              },
-              "away_team": {
-                "name": "Pyramids",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pyramids_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Albacete",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/albacete_64x64.png"
               },
@@ -5222,6 +5222,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "11:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Amorebieta",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/amorebieta_64x64.png"
+              },
+              "away_team": {
+                "name": "Athletic Club II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/athletic-club-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -11005,12 +11028,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Postponed",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "Postponed",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
