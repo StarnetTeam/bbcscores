@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-07T09:29:48.762649+00:00",
-  "egypt_time": "2026-08-07 12:29:48",
+  "timestamp": "2026-08-07T10:27:12.306747+00:00",
+  "egypt_time": "2026-08-07 13:27:12",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -2274,7 +2274,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 112,
+          "match_count": 114,
           "matches": [
             {
               "home_team": {
@@ -2454,6 +2454,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "KasÄ±mpaÅa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kasä±mpaåa_64x64.png"
+              },
+              "away_team": {
+                "name": "Samsunspor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/samsunspor_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -4791,6 +4814,29 @@
               "away_team": {
                 "name": "Ibiza Islas Pitiusas",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ibiza-islas-pitiusas_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sant Andreu",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sant-andreu_64x64.png"
+              },
+              "away_team": {
+                "name": "Europa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/europa_64x64.png"
               },
               "score": {
                 "home": null,
