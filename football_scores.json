@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-07T12:06:06.842549+00:00",
-  "egypt_time": "2026-08-07 15:06:06",
+  "timestamp": "2026-08-07T13:46:59.778460+00:00",
+  "egypt_time": "2026-08-07 16:46:59",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -98,12 +98,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/aston-villa.7462c0d498.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "2'",
+                "display": "86'",
                 "egypt": "15:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1243,16 +1243,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kashima-antlers_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "4",
+                "display": "3 - 4"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:25",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1266,16 +1266,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/urawa-red-diamonds.94106ac11c.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "3",
+                "display": "4 - 3"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -2274,7 +2274,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 115,
+          "match_count": 117,
           "matches": [
             {
               "home_team": {
@@ -2477,6 +2477,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Club Brugge",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/club-bruges.ac6df5e725.svg"
+              },
+              "away_team": {
+                "name": "Beerschot",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/beerschot_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -3148,6 +3171,29 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Dender",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dender_64x64.png"
+              },
+              "away_team": {
+                "name": "Knokke",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/knokke_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
