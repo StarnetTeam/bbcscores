@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-07T11:20:57.946416+00:00",
-  "egypt_time": "2026-08-07 14:20:57",
+  "timestamp": "2026-08-07T12:06:06.842549+00:00",
+  "egypt_time": "2026-08-07 15:06:06",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -98,17 +98,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/aston-villa.7462c0d498.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "2'",
                 "egypt": "15:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -144,17 +144,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/almeria.fe9295b80a.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "4",
+                "display": "0 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -167,17 +167,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-de-gijã³n_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -512,17 +512,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/villarreal-ii_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "4",
+                "display": "2 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -10799,7 +10799,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 19,
+          "match_count": 20,
           "matches": [
             {
               "home_team": {
@@ -11071,6 +11071,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Francs Borains",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/francs-borains_64x64.png"
+              },
+              "away_team": {
+                "name": "RWDM Brussels",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rwdm-brussels_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
