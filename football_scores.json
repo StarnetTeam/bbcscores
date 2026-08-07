@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-07T10:27:12.306747+00:00",
-  "egypt_time": "2026-08-07 13:27:12",
+  "timestamp": "2026-08-07T11:20:57.946416+00:00",
+  "egypt_time": "2026-08-07 14:20:57",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1248,12 +1248,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "13:25",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1271,12 +1271,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "13:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -2274,7 +2274,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 114,
+          "match_count": 115,
           "matches": [
             {
               "home_team": {
@@ -2485,75 +2485,6 @@
             },
             {
               "home_team": {
-                "name": "Albacete",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/albacete_64x64.png"
-              },
-              "away_team": {
-                "name": "Real Murcia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-murcia_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Burgos",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/burgos_64x64.png"
-              },
-              "away_team": {
-                "name": "Cultural Leonesa",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cultural-leonesa_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "LeganÃ©s",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leganes.6620ee20ea.svg"
-              },
-              "away_team": {
-                "name": "Tenerife",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tenerife_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Sporting de GijÃ³n",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-de-gijã³n_64x64.png"
               },
@@ -2592,6 +2523,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "10:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Albacete",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/albacete_64x64.png"
+              },
+              "away_team": {
+                "name": "Real Murcia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-murcia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "11:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -3451,12 +3405,58 @@
             },
             {
               "home_team": {
+                "name": "Burgos",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/burgos_64x64.png"
+              },
+              "away_team": {
+                "name": "Cultural Leonesa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cultural-leonesa_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "CastellÃ³n",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/castellã³n_64x64.png"
               },
               "away_team": {
                 "name": "Levante",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/levante.14f0e85676.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "LeganÃ©s",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/leganes.6620ee20ea.svg"
+              },
+              "away_team": {
+                "name": "Tenerife",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tenerife_64x64.png"
               },
               "score": {
                 "home": null,
@@ -4630,6 +4630,29 @@
               "away_team": {
                 "name": "AtlÃ¨tic Lleida",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlã¨tic-lleida_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Celta de Vigo II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/celta-de-vigo-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "UD Ourense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ud-ourense_64x64.png"
               },
               "score": {
                 "home": null,
@@ -10776,7 +10799,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 16,
+          "match_count": 19,
           "matches": [
             {
               "home_team": {
@@ -10849,6 +10872,29 @@
             },
             {
               "home_team": {
+                "name": "Verlaine",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/verlaine_64x64.png"
+              },
+              "away_team": {
+                "name": "LiÃ¨ge",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/liã¨ge_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Radomiak Radom",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/radomiak-radom_64x64.png"
               },
@@ -10910,6 +10956,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Juve Stabia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/juve-stabia_64x64.png"
+              },
+              "away_team": {
+                "name": "Campobasso",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/campobasso_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -11071,6 +11140,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Olot",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/olot_64x64.png"
+              },
+              "away_team": {
+                "name": "Sabadell",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sabadell_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
