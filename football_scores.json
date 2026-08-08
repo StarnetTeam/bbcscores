@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-08T17:01:26.465181+00:00",
-  "egypt_time": "2026-08-08 20:01:26",
+  "timestamp": "2026-08-08T17:54:33.202507+00:00",
+  "egypt_time": "2026-08-08 20:54:33",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -621,12 +621,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/charlton-athletic.3f67213aaa.svg"
               },
               "score": {
-                "home": "0",
-                "away": "2",
-                "display": "0 - 2"
+                "home": "1",
+                "away": "3",
+                "display": "1 - 3"
               },
               "time": {
-                "display": "28'",
+                "display": "66'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -649,7 +649,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "31'",
+                "display": "68'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -668,11 +668,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "2",
-                "display": "0 - 2"
+                "away": "4",
+                "display": "0 - 4"
               },
               "time": {
-                "display": "30'",
+                "display": "66'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1094,11 +1094,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "1'",
+                "display": "HT",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1116,17 +1116,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trabzonspor_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "45'+5",
                 "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1208,17 +1208,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-murcia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1323,17 +1323,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/eibar_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "PENS",
                 "egypt": "12:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -9461,17 +9461,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/arouca_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -10222,17 +10222,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hallen_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
