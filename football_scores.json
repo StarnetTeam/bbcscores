@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-08T05:36:52.899739+00:00",
-  "egypt_time": "2026-08-08 08:36:52",
+  "timestamp": "2026-08-08T06:39:18.231807+00:00",
+  "egypt_time": "2026-08-08 09:39:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -966,7 +966,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 116,
+          "match_count": 117,
           "matches": [
             {
               "home_team": {
@@ -1177,12 +1177,12 @@
             },
             {
               "home_team": {
-                "name": "Elche",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/elche.9421b106ec.svg"
+                "name": "Rizespor",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rizespor_64x64.png"
               },
               "away_team": {
-                "name": "Toulouse",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/toulouse.133ec5877a.svg"
+                "name": "Pyramids",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pyramids_64x64.png"
               },
               "score": {
                 "home": null,
@@ -1191,7 +1191,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "10:30",
+                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1223,12 +1223,12 @@
             },
             {
               "home_team": {
-                "name": "Lens",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lens.4462d8cf00.svg"
+                "name": "Elche",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/elche.9421b106ec.svg"
               },
               "away_team": {
-                "name": "Sunderland",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sunderland.6fb24a6b29.svg"
+                "name": "Toulouse",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/toulouse.133ec5877a.svg"
               },
               "score": {
                 "home": null,
@@ -1242,6 +1242,29 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Lens",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lens.4462d8cf00.svg"
+              },
+              "away_team": {
+                "name": "Sunderland",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sunderland.6fb24a6b29.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Match Cancelled",
+                "egypt": "11:00",
+                "status": "Cancelled",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": false
               }
             },
             {
@@ -1374,12 +1397,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "13:30",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
