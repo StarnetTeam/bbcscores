@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-08T11:32:05.115614+00:00",
-  "egypt_time": "2026-08-08 14:32:05",
+  "timestamp": "2026-08-08T12:33:35.412426+00:00",
+  "egypt_time": "2026-08-08 15:33:35",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/barnet.45871df5a3.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "29'",
                 "egypt": "15:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -979,11 +979,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "19'",
+                "display": "60'",
                 "egypt": "14:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1001,17 +1001,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/milan.5b38a0414a.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "26'",
                 "egypt": "15:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -2883,29 +2883,6 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
               },
               "away_team": {
-                "name": "Cristo AtlÃ©tico",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cristo-atlã©tico_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Match Cancelled",
-                "egypt": "13:30",
-                "status": "Cancelled",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
-            {
-              "home_team": {
-                "name": "Sporting GijÃ³n II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
-              },
-              "away_team": {
                 "name": "Palencia CF",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/palencia-cf_64x64.png"
               },
@@ -2921,6 +2898,29 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sporting GijÃ³n II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "Cristo AtlÃ©tico",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cristo-atlã©tico_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Match Cancelled",
+                "egypt": "13:30",
+                "status": "Cancelled",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": false
               }
             },
             {
@@ -9265,16 +9265,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vissel-kobe_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -9288,16 +9288,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fagiano-okayama_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -9311,16 +9311,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mito-hollyhock_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -9334,16 +9334,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/shimizu-s-pulse_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -9357,16 +9357,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/machida-zelvia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "5",
+                "display": "1 - 5"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -9380,16 +9380,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jef-united_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "0",
+                "display": "3 - 0"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -10506,7 +10506,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 2,
+          "match_count": 3,
           "matches": [
             {
               "home_team": {
@@ -10548,6 +10548,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Sestri Levante",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sestri-levante_64x64.png"
+              },
+              "away_team": {
+                "name": "Vado",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vado_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
