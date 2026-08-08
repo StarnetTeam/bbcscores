@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-08T21:54:39.624586+00:00",
-  "egypt_time": "2026-08-09 00:54:39",
+  "timestamp": "2026-08-08T22:20:46.899319+00:00",
+  "egypt_time": "2026-08-09 01:20:46",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1932,8 +1932,31 @@
         },
         {
           "name": "FA Cup",
-          "match_count": 7,
+          "match_count": 8,
           "matches": [
+            {
+              "home_team": {
+                "name": "Abbey Hulton United",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/abbey-hulton-united_64x64.png"
+              },
+              "away_team": {
+                "name": "Kidsgrove Athletic",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kidsgrove-athletic_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "Ashby Ivanhoe",
