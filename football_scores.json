@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-10T09:55:15.818952+00:00",
-  "egypt_time": "2026-08-10 12:55:15",
+  "timestamp": "2026-08-10T11:01:26.448194+00:00",
+  "egypt_time": "2026-08-10 14:01:26",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -750,7 +750,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 10,
+          "match_count": 11,
           "matches": [
             {
               "home_team": {
@@ -815,6 +815,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Caudal",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/caudal_64x64.png"
+              },
+              "away_team": {
+                "name": "Cultural Leonesa II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cultural-leonesa-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1914,7 +1937,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 24,
+          "match_count": 25,
           "matches": [
             {
               "home_team": {
@@ -2209,6 +2232,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "11:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Laredo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/laredo_64x64.png"
+              },
+              "away_team": {
+                "name": "Sodupe",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sodupe_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
