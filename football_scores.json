@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-10T18:46:22.073023+00:00",
-  "egypt_time": "2026-08-10 21:46:22",
+  "timestamp": "2026-08-10T19:50:23.241515+00:00",
+  "egypt_time": "2026-08-10 22:50:23",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/exeter-city.c40e76f892.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "33'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -150,17 +150,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nacional_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "17'",
                 "egypt": "22:15",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
