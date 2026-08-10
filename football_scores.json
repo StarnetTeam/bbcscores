@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-10T19:50:23.241515+00:00",
-  "egypt_time": "2026-08-10 22:50:23",
+  "timestamp": "2026-08-10T20:34:02.051796+00:00",
+  "egypt_time": "2026-08-10 23:34:02",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -28,7 +28,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "33'",
+                "display": "69'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -40,7 +40,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 4,
+          "match_count": 3,
           "matches": [
             {
               "home_team": {
@@ -110,29 +110,6 @@
                 "is_full_time": false,
                 "is_upcoming": true
               }
-            },
-            {
-              "home_team": {
-                "name": "Colunga",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/colunga_64x64.png"
-              },
-              "away_team": {
-                "name": "Sporting GijÃ³n II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
             }
           ]
         },
@@ -150,12 +127,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nacional_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "17'",
+                "display": "51'",
                 "egypt": "22:15",
                 "status": "MidEvent",
                 "is_live": true,
@@ -520,7 +497,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 10,
+          "match_count": 11,
           "matches": [
             {
               "home_team": {
@@ -631,6 +608,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Colunga",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/colunga_64x64.png"
+              },
+              "away_team": {
+                "name": "Sporting GijÃ³n II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
