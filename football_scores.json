@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-11T14:51:41.980067+00:00",
-  "egypt_time": "2026-08-11 17:51:41",
+  "timestamp": "2026-08-11T15:54:10.990171+00:00",
+  "egypt_time": "2026-08-11 18:54:10",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/levski-sofia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -341,11 +341,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "3",
-                "display": "0 - 3"
+                "away": "10",
+                "display": "0 - 10"
               },
               "time": {
-                "display": "45'+5",
+                "display": "90'+2",
                 "egypt": "17:00",
                 "status": "MidEvent",
                 "is_live": true,
