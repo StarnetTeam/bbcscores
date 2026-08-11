@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-11T13:50:55.330713+00:00",
-  "egypt_time": "2026-08-11 16:50:55",
+  "timestamp": "2026-08-11T14:51:41.980067+00:00",
+  "egypt_time": "2026-08-11 17:51:41",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -340,17 +340,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/middlesbrough-u21_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "3",
+                "display": "0 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "45'+5",
                 "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -725,12 +725,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Postponed",
                 "egypt": "21:45",
-                "status": "PreEvent",
+                "status": "Postponed",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -2148,8 +2148,31 @@
         },
         {
           "name": "FA Cup",
-          "match_count": 9,
+          "match_count": 10,
           "matches": [
+            {
+              "home_team": {
+                "name": "Aylesbury United",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/aylesbury-united_64x64.png"
+              },
+              "away_team": {
+                "name": "Flackwell Heath",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/flackwell-heath_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "Easington Colliery",
