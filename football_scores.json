@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-11T18:52:50.550543+00:00",
-  "egypt_time": "2026-08-11 21:52:50",
+  "timestamp": "2026-08-11T19:57:20.965666+00:00",
+  "egypt_time": "2026-08-11 22:57:20",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -46,15 +46,15 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/union-saint-gilloise.a93b338616.svg"
               },
               "score": {
-                "home": "2",
+                "home": "3",
                 "away": "2",
-                "display": "2 - 2"
+                "display": "3 - 2"
               },
               "time": {
-                "display": "91' ET",
+                "display": "AET",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PostEvent",
+                "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
               }
@@ -92,16 +92,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/dinamo-zagreb.c79e3671f6.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "2",
-                "display": "0 - 2"
+                "display": "1 - 2"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -115,12 +115,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/olympiakos.2d00d7d0e8.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "31'",
+                "display": "106' ET",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -139,11 +139,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "1'",
+                "display": "81'",
                 "egypt": "21:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -161,17 +161,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ararat-armenia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "73'",
                 "egypt": "21:15",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -184,17 +184,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mjã¤llby_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "79'",
                 "egypt": "21:15",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -207,17 +207,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fenerbahce.e31766d9c0.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "64'",
                 "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -230,17 +230,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sparta-prague.bb93a39eae.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -259,15 +259,15 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/larne_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "1",
-                "display": "1 - 1"
+                "display": "2 - 1"
               },
               "time": {
-                "display": "97' ET",
+                "display": "AET",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PostEvent",
+                "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
               }
@@ -288,15 +288,15 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/brann_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "home": "2",
+                "away": "4",
+                "display": "2 - 4"
               },
               "time": {
-                "display": "46'",
+                "display": "AET",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PostEvent",
+                "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
               }
@@ -311,12 +311,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/panathinaikos.3cee5d5cee.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "31'",
+                "display": "109' ET",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
