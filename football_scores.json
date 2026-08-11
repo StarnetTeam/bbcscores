@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-11T17:52:38.662907+00:00",
-  "egypt_time": "2026-08-11 20:52:38",
+  "timestamp": "2026-08-11T18:52:50.550543+00:00",
+  "egypt_time": "2026-08-11 21:52:50",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -51,7 +51,7 @@
                 "display": "2 - 2"
               },
               "time": {
-                "display": "90'+2",
+                "display": "91' ET",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -74,11 +74,11 @@
                 "display": "4 - 0"
               },
               "time": {
-                "display": "90'+4",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -120,7 +120,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "21'",
+                "display": "31'",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -138,17 +138,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hapoel-beer-sheva_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "1'",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -264,7 +264,7 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "ET",
+                "display": "97' ET",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -293,7 +293,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "46'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -316,7 +316,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "20'",
+                "display": "31'",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -476,6 +476,29 @@
             },
             {
               "home_team": {
+                "name": "San Juan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/san-juan_64x64.png"
+              },
+              "away_team": {
+                "name": "PeÃ±a Sport",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/peã±a-sport_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Spakenburg",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spakenburg_64x64.png"
               },
@@ -512,12 +535,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "20:30",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -583,29 +606,6 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "San Juan",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/san-juan_64x64.png"
-              },
-              "away_team": {
-                "name": "PeÃ±a Sport",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/peã±a-sport_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1893,6 +1893,29 @@
             },
             {
               "home_team": {
+                "name": "Pogradeci",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pogradeci_64x64.png"
+              },
+              "away_team": {
+                "name": "SkÃ«nderbeu KorÃ§Ã«",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/skã«nderbeu-korã§ã«_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Tau Altopascio",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tau-altopascio_64x64.png"
               },
@@ -1922,29 +1945,6 @@
               "away_team": {
                 "name": "Athletic Club II",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/athletic-club-ii_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Pogradeci",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/pogradeci_64x64.png"
-              },
-              "away_team": {
-                "name": "SkÃ«nderbeu KorÃ§Ã«",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/skã«nderbeu-korã§ã«_64x64.png"
               },
               "score": {
                 "home": null,
