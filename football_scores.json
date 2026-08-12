@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-12T08:10:30.411036+00:00",
-  "egypt_time": "2026-08-12 11:10:30",
+  "timestamp": "2026-08-12T09:37:57.441805+00:00",
+  "egypt_time": "2026-08-12 12:37:57",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -115,7 +115,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 27,
+          "match_count": 29,
           "matches": [
             {
               "home_team": {
@@ -207,6 +207,29 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Volos NFC",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/volos-nfc_64x64.png"
+              },
+              "away_team": {
+                "name": "Olympiakos Piraeus II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/olympiakos-piraeus-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
@@ -318,6 +341,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "19:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Panionios",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/panionios_64x64.png"
+              },
+              "away_team": {
+                "name": "Kalamata",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kalamata_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
