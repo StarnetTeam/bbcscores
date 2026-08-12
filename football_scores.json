@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-12T19:34:25.248231+00:00",
-  "egypt_time": "2026-08-12 22:34:25",
+  "timestamp": "2026-08-12T20:36:13.128077+00:00",
+  "egypt_time": "2026-08-12 23:36:13",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,12 +23,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/aston-villa.7462c0d498.svg"
               },
               "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "30'",
+                "display": "67'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -132,11 +132,11 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -155,11 +155,11 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -174,11 +174,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "31'",
+                "display": "67'",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
