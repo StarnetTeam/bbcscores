@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-11T23:32:45.153625+00:00",
-  "egypt_time": "2026-08-12 02:32:45",
+  "timestamp": "2026-08-12T01:19:19.664521+00:00",
+  "egypt_time": "2026-08-12 04:19:19",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -978,31 +978,8 @@
         },
         {
           "name": "CONMEBOL Libertadores",
-          "match_count": 5,
+          "match_count": 4,
           "matches": [
-            {
-              "home_team": {
-                "name": "Fluminense",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fluminense.4dde9cc914.svg"
-              },
-              "away_team": {
-                "name": "Independiente Rivadavia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/independiente-rivadavia_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "72'",
-                "egypt": "01:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
             {
               "home_team": {
                 "name": "Deportes Tolima",
@@ -1036,17 +1013,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/universidad-catã³lica_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "23'",
                 "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
