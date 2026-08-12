@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-12T01:19:19.664521+00:00",
-  "egypt_time": "2026-08-12 04:19:19",
+  "timestamp": "2026-08-12T03:34:21.181278+00:00",
+  "egypt_time": "2026-08-12 06:34:21",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1014,15 +1014,15 @@
               },
               "score": {
                 "home": "1",
-                "away": "0",
-                "display": "1 - 0"
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "23'",
+                "display": "FT",
                 "egypt": "03:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1946,8 +1946,31 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 10,
+          "match_count": 11,
           "matches": [
+            {
+              "home_team": {
+                "name": "Unione La Rocca",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/unione-la-rocca_64x64.png"
+              },
+              "away_team": {
+                "name": "Vicenza",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vicenza_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "19:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "Athletic Club Boise",
