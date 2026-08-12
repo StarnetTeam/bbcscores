@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-12T21:38:03.022740+00:00",
-  "egypt_time": "2026-08-13 00:38:03",
+  "timestamp": "2026-08-12T22:33:06.464511+00:00",
+  "egypt_time": "2026-08-13 01:33:06",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1296,7 +1296,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 26,
+          "match_count": 27,
           "matches": [
             {
               "home_team": {
@@ -1545,6 +1545,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "18:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Bjelovar",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bjelovar_64x64.png"
+              },
+              "away_team": {
+                "name": "Inker",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/inker_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "18:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
