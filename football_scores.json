@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-13T22:33:43.648394+00:00",
-  "egypt_time": "2026-08-14 01:33:43",
+  "timestamp": "2026-08-13T23:34:06.325193+00:00",
+  "egypt_time": "2026-08-14 02:34:06",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -967,8 +967,31 @@
         },
         {
           "name": "CONMEBOL Libertadores",
-          "match_count": 1,
+          "match_count": 2,
           "matches": [
+            {
+              "home_team": {
+                "name": "Mirassol",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mirassol_64x64.png"
+              },
+              "away_team": {
+                "name": "LDU Quito",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ldu-quito_64x64.png"
+              },
+              "score": {
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
+              },
+              "time": {
+                "display": "72'",
+                "egypt": "01:00",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "Rosario Central",
