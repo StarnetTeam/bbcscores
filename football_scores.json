@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-13T12:54:30.983827+00:00",
-  "egypt_time": "2026-08-13 15:54:30",
+  "timestamp": "2026-08-13T14:18:36.824338+00:00",
+  "egypt_time": "2026-08-13 17:18:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -932,17 +932,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/leon_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -3428,7 +3428,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 44,
+          "match_count": 46,
           "matches": [
             {
               "home_team": {
@@ -4312,6 +4312,52 @@
               "away_team": {
                 "name": "Espanyol II",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/espanyol-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Martinenc",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/martinenc_64x64.png"
+              },
+              "away_team": {
+                "name": "Grama",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/grama_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Real Sociedad III",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-sociedad-iii_64x64.png"
+              },
+              "away_team": {
+                "name": "Subiza",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/subiza_64x64.png"
               },
               "score": {
                 "home": null,
