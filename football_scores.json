@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-13T23:34:06.325193+00:00",
-  "egypt_time": "2026-08-14 02:34:06",
+  "timestamp": "2026-08-14T01:20:18.797335+00:00",
+  "egypt_time": "2026-08-14 04:20:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -967,31 +967,8 @@
         },
         {
           "name": "CONMEBOL Libertadores",
-          "match_count": 2,
+          "match_count": 1,
           "matches": [
-            {
-              "home_team": {
-                "name": "Mirassol",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mirassol_64x64.png"
-              },
-              "away_team": {
-                "name": "LDU Quito",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ldu-quito_64x64.png"
-              },
-              "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
-              },
-              "time": {
-                "display": "72'",
-                "egypt": "01:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
             {
               "home_team": {
                 "name": "Rosario Central",
@@ -1002,17 +979,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/corinthians_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "17'",
                 "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
