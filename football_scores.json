@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-14T12:50:48.786585+00:00",
-  "egypt_time": "2026-08-14 15:50:48",
+  "timestamp": "2026-08-14T14:11:05.915985+00:00",
+  "egypt_time": "2026-08-14 17:11:05",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -219,17 +219,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/rayo-vallecano-ii_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "0",
+                "display": "4 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -242,17 +242,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trnje_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -265,17 +265,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/solbiatese-1911_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -288,17 +288,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cultural-leonesa-ii_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "0",
+                "display": "3 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -725,8 +725,31 @@
         },
         {
           "name": "Cymru Premier",
-          "match_count": 6,
+          "match_count": 7,
           "matches": [
+            {
+              "home_team": {
+                "name": "Airbus UK",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/airbus-uk_64x64.png"
+              },
+              "away_team": {
+                "name": "Ammanford",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ammanford_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "Airbus UK",
@@ -1008,16 +1031,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kashiwa-reysol_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "3",
+                "display": "1 - 3"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -5322,7 +5345,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 11,
+          "match_count": 13,
           "matches": [
             {
               "home_team": {
@@ -5548,6 +5571,52 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "10:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "CÃ´ng An Há» ChÃ­ Minh",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cã´ng-an-há»-chã­-minh_64x64.png"
+              },
+              "away_team": {
+                "name": "Long An",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/long-an_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "11:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Becamex Há» ChÃ­ Minh",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/becamex-há»-chã­-minh_64x64.png"
+              },
+              "away_team": {
+                "name": "Äá»ng ThÃ¡p",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/äá»ng-thã¡p_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
