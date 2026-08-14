@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-14T03:35:33.206949+00:00",
-  "egypt_time": "2026-08-14 06:35:33",
+  "timestamp": "2026-08-14T05:26:36.416752+00:00",
+  "egypt_time": "2026-08-14 08:26:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -386,7 +386,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "19:00",
+                "egypt": "18:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -625,12 +625,12 @@
             },
             {
               "home_team": {
-                "name": "Illescas",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/illescas_64x64.png"
+                "name": "Racing Portuense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/racing-portuense_64x64.png"
               },
               "away_team": {
-                "name": "Talavera",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/talavera_64x64.png"
+                "name": "Xerez",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/xerez_64x64.png"
               },
               "score": {
                 "home": null,
@@ -648,12 +648,12 @@
             },
             {
               "home_team": {
-                "name": "Racing Portuense",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/racing-portuense_64x64.png"
+                "name": "Illescas",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/illescas_64x64.png"
               },
               "away_team": {
-                "name": "Xerez",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/xerez_64x64.png"
+                "name": "Talavera",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/talavera_64x64.png"
               },
               "score": {
                 "home": null,
@@ -662,7 +662,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "21:00",
+                "egypt": "21:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -5299,7 +5299,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 10,
+          "match_count": 11,
           "matches": [
             {
               "home_team": {
@@ -5525,6 +5525,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "10:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "MÃ³stoles",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mã³stoles_64x64.png"
+              },
+              "away_team": {
+                "name": "Burgos Promesas",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/burgos-promesas_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
