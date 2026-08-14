@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-14T10:52:06.589672+00:00",
-  "egypt_time": "2026-08-14 13:52:06",
+  "timestamp": "2026-08-14T11:38:52.459291+00:00",
+  "egypt_time": "2026-08-14 14:38:52",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1013,7 +1013,7 @@
                 "display": "vs"
               },
               "time": {
-                "display": "In Play",
+                "display": "HT",
                 "egypt": "13:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -2201,7 +2201,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 46,
+          "match_count": 47,
           "matches": [
             {
               "home_team": {
@@ -2749,6 +2749,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "10:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "CÃ¡diz II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cã¡diz-ii_64x64.png"
+              },
+              "away_team": {
+                "name": "Real Betis II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-betis-ii_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "11:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
