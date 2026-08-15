@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T20:14:35.661866+00:00",
-  "egypt_time": "2026-08-15 23:14:35",
+  "timestamp": "2026-08-15T20:45:13.108094+00:00",
+  "egypt_time": "2026-08-15 23:45:13",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -3509,7 +3509,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "34'",
+                "display": "HT",
                 "egypt": "22:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3579,16 +3579,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/modena_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "3",
                 "away": "2",
-                "display": "1 - 2"
+                "display": "3 - 2"
               },
               "time": {
-                "display": "65'",
+                "display": "FT",
                 "egypt": "21:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -3607,7 +3607,7 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "69'",
                 "egypt": "22:15",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3895,7 +3895,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "39'",
+                "display": "52'",
                 "egypt": "22:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -4045,11 +4045,11 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "84'",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -4068,11 +4068,11 @@
                 "display": "2 - 1"
               },
               "time": {
-                "display": "82'",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
