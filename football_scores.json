@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T09:19:18.524329+00:00",
-  "egypt_time": "2026-08-15 12:19:18",
+  "timestamp": "2026-08-15T09:47:50.647633+00:00",
+  "egypt_time": "2026-08-15 12:47:50",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -4168,7 +4168,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 13,
+          "match_count": 14,
           "matches": [
             {
               "home_team": {
@@ -4417,6 +4417,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "11:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Bibiani Gold Stars",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bibiani-gold-stars_64x64.png"
+              },
+              "away_team": {
+                "name": "Venomous Vipers",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/venomous-vipers_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "13:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
