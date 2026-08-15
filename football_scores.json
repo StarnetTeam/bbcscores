@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T17:14:24.641014+00:00",
-  "egypt_time": "2026-08-15 20:14:24",
+  "timestamp": "2026-08-15T17:43:04.502552+00:00",
+  "egypt_time": "2026-08-15 20:43:04",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -189,7 +189,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "43'",
+                "display": "51'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1156,11 +1156,11 @@
                 "display": "2 - 2"
               },
               "time": {
-                "display": "78'",
+                "display": "FT",
                 "egypt": "18:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1174,17 +1174,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/real-betis.0034ca7a6b.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "3'",
                 "egypt": "20:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -3452,12 +3452,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/colwyn-bay.e3f087f500.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "64'",
                 "egypt": "19:15",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3481,17 +3481,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/getafe.ff70b38ab3.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "6'",
                 "egypt": "20:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -3533,12 +3533,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sã¼dtirol_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "1",
-                "display": "1 - 1"
+                "display": "2 - 1"
               },
               "time": {
-                "display": "52'",
+                "display": "77'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3561,7 +3561,7 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "40'",
+                "display": "47'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3868,11 +3868,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "12'",
+                "display": "37'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3924,7 +3924,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "62'",
                 "egypt": "19:15",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3994,12 +3994,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trabzonspor_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "1",
-                "display": "0 - 1"
+                "display": "1 - 1"
               },
               "time": {
-                "display": "54'",
+                "display": "79'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -4022,7 +4022,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "51'",
+                "display": "76'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
