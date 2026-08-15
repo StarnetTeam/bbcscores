@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T11:41:55.858206+00:00",
-  "egypt_time": "2026-08-15 14:41:55",
+  "timestamp": "2026-08-15T12:23:29.964074+00:00",
+  "egypt_time": "2026-08-15 15:23:29",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,12 +23,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/preston-north-end.0c0aa10224.svg"
               },
               "score": {
-                "home": "0",
+                "home": "2",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "1'",
+                "display": "HT",
                 "egypt": "14:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -218,7 +218,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "1'",
+                "display": "HT",
                 "egypt": "14:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -236,12 +236,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/milton-keynes-dons.acc9c240ab.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "1'",
+                "display": "HT",
                 "egypt": "14:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -259,12 +259,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/luton-town.73034e2483.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "1'",
+                "display": "HT",
                 "egypt": "14:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -495,17 +495,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rochdale.763bb0856c.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "14:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -523,7 +523,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "1'",
+                "display": "HT",
                 "egypt": "14:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1588,17 +1588,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cartagena-lu-ii_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "10:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1634,17 +1634,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlã©tico-baleares_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "3",
+                "display": "1 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1657,17 +1657,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/marchamalo_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "11:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -3429,17 +3429,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/cardiff-met-university.d80101d601.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "14:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -3700,16 +3700,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/v-varen-nagasaki_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "12:55",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -3723,16 +3723,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cerezo-osaka_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "0",
+                "display": "3 - 0"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -3746,16 +3746,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/machida-zelvia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "4",
+                "display": "0 - 4"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -3769,16 +3769,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kyoto-sanga_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -3792,16 +3792,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sanfrecce-hiroshima_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "4",
+                "display": "1 - 4"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -3815,16 +3815,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tokyo_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
