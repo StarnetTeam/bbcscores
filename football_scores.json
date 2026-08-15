@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T17:43:04.502552+00:00",
-  "egypt_time": "2026-08-15 20:43:04",
+  "timestamp": "2026-08-15T18:18:45.147814+00:00",
+  "egypt_time": "2026-08-15 21:18:45",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -189,7 +189,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "51'",
+                "display": "90'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1179,7 +1179,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "3'",
+                "display": "44'",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3452,16 +3452,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/colwyn-bay.e3f087f500.svg"
               },
               "score": {
-                "home": "2",
+                "home": "3",
                 "away": "0",
-                "display": "2 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "64'",
+                "display": "FT",
                 "egypt": "19:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -3486,7 +3486,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "6'",
+                "display": "45'",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3534,14 +3534,14 @@
               },
               "score": {
                 "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "77'",
+                "display": "PENS",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PostEvent",
+                "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
               }
@@ -3561,7 +3561,7 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "47'",
+                "display": "87'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3872,7 +3872,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "37'",
+                "display": "54'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3924,11 +3924,11 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "62'",
+                "display": "FT",
                 "egypt": "19:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -3942,17 +3942,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-kholood_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "15'",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -3965,17 +3965,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-fateh_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "16'",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -3999,11 +3999,11 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "79'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -4018,15 +4018,15 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "76'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
