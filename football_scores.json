@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T18:18:45.147814+00:00",
-  "egypt_time": "2026-08-15 21:18:45",
+  "timestamp": "2026-08-15T18:53:44.085314+00:00",
+  "egypt_time": "2026-08-15 21:53:44",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -189,11 +189,11 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "90'",
+                "display": "FT",
                 "egypt": "19:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -1179,7 +1179,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "44'",
+                "display": "57'",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1243,17 +1243,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/aston-villa.7462c0d498.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1266,17 +1266,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lorient.93c2125b54.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1289,17 +1289,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/afc-bournemouth.3e0ae7da8e.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1312,17 +1312,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/ipswich-town.016f53d3e1.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "4",
+                "display": "2 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1358,17 +1358,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bologna.be4ad81732.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1381,17 +1381,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lille.50a8c14400.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1404,17 +1404,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nice.edead23e0c.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1427,17 +1427,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/augsburg.05a8251648.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "0",
+                "display": "4 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1450,17 +1450,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bayer-leverkusen.b1c0805fcd.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1473,17 +1473,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/rennes.d01a03ef02.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "17:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1496,17 +1496,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/vfb-stuttgart.a557019cef.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "18:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1519,17 +1519,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/paris-fc.3844b394de.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "2",
+                "display": "3 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "18:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1542,17 +1542,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/le-havre.53b1145132.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -3486,7 +3486,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "45'",
+                "display": "62'",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3561,11 +3561,11 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "87'",
+                "display": "FT",
                 "egypt": "19:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -3579,17 +3579,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/modena_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "5'",
                 "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -3872,7 +3872,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "54'",
+                "display": "89'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3942,12 +3942,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-kholood_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "15'",
+                "display": "HT",
                 "egypt": "21:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3965,12 +3965,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-fateh_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "2",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "16'",
+                "display": "HT",
                 "egypt": "21:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -4040,17 +4040,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/alanyaspor_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "22'",
                 "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -4063,17 +4063,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fenerbahce.e31766d9c0.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "23'",
                 "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
