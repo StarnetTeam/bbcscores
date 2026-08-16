@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T03:25:24.409144+00:00",
-  "egypt_time": "2026-08-16 06:25:24",
+  "timestamp": "2026-08-16T04:06:22.450932+00:00",
+  "egypt_time": "2026-08-16 07:06:22",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -870,16 +870,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sporting-kansas-city.9acdcfa54d.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "84'",
+                "display": "FT",
                 "egypt": "04:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -894,15 +894,15 @@
               },
               "score": {
                 "home": "1",
-                "away": "0",
-                "display": "1 - 0"
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "86'",
+                "display": "FT",
                 "egypt": "04:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -921,7 +921,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "44'",
+                "display": "HT",
                 "egypt": "05:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -944,7 +944,7 @@
                 "display": "0 - 2"
               },
               "time": {
-                "display": "45'",
+                "display": "HT",
                 "egypt": "05:30",
                 "status": "MidEvent",
                 "is_live": true,
