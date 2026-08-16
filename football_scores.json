@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T10:46:29.779531+00:00",
-  "egypt_time": "2026-08-16 13:46:29",
+  "timestamp": "2026-08-16T11:13:24.297196+00:00",
+  "egypt_time": "2026-08-16 14:13:24",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -109,7 +109,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "4'",
+                "display": "HT",
                 "egypt": "13:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -127,17 +127,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/hoffenheim.90fe2ea78e.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "10'",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
