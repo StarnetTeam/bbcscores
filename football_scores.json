@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T17:42:22.584790+00:00",
-  "egypt_time": "2026-08-16 20:42:22",
+  "timestamp": "2026-08-16T18:18:25.833990+00:00",
+  "egypt_time": "2026-08-16 21:18:25",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -196,12 +196,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/como_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "40'",
+                "display": "59'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -484,12 +484,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/levante.14f0e85676.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "38'",
+                "display": "52'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -518,11 +518,11 @@
                 "display": "4 - 1"
               },
               "time": {
-                "display": "78'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -536,12 +536,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ascoli_64x64.png"
               },
               "score": {
-                "home": "2",
+                "home": "4",
                 "away": "1",
-                "display": "2 - 1"
+                "display": "4 - 1"
               },
               "time": {
-                "display": "48'",
+                "display": "84'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -685,12 +685,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -1037,12 +1037,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/moreirense_64x64.png"
               },
               "score": {
-                "home": "2",
+                "home": "3",
                 "away": "0",
-                "display": "2 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "40'",
+                "display": "55'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1117,11 +1117,11 @@
                 "display": "2 - 0"
               },
               "time": {
-                "display": "83'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
