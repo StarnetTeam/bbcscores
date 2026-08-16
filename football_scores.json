@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T14:46:09.328240+00:00",
-  "egypt_time": "2026-08-16 17:46:09",
+  "timestamp": "2026-08-16T15:14:20.822226+00:00",
+  "egypt_time": "2026-08-16 18:14:20",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -28,7 +28,7 @@
                 "display": "2 - 0"
               },
               "time": {
-                "display": "40'",
+                "display": "48'",
                 "egypt": "17:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -75,17 +75,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/west-ham-united.e3ad534012.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "9'",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -151,11 +151,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "11'",
+                "display": "36'",
                 "egypt": "17:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -173,17 +173,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/real-madrid.83d7d31003.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "9'",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -461,17 +461,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/villarreal.3f988cd607.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "8'",
                 "egypt": "18:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1019,7 +1019,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "11'",
+                "display": "36'",
                 "egypt": "17:30",
                 "status": "MidEvent",
                 "is_live": true,
