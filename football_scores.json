@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T20:13:46.429216+00:00",
-  "egypt_time": "2026-08-16 23:13:46",
+  "timestamp": "2026-08-16T20:45:07.684524+00:00",
+  "egypt_time": "2026-08-16 23:45:07",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -560,11 +560,11 @@
               },
               "score": {
                 "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "61'",
+                "display": "90'+1",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -587,7 +587,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "68'",
                 "egypt": "22:15",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1065,7 +1065,7 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "43'",
+                "display": "54'",
                 "egypt": "22:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1140,11 +1140,11 @@
                 "display": "3 - 0"
               },
               "time": {
-                "display": "85'",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1163,11 +1163,11 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "84'",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
