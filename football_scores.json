@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T19:41:38.946715+00:00",
-  "egypt_time": "2026-08-16 22:41:38",
+  "timestamp": "2026-08-16T20:13:46.429216+00:00",
+  "egypt_time": "2026-08-16 23:13:46",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -564,7 +564,7 @@
                 "display": "2 - 1"
               },
               "time": {
-                "display": "45'+5",
+                "display": "61'",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -587,7 +587,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "23'",
+                "display": "HT",
                 "egypt": "22:15",
                 "status": "MidEvent",
                 "is_live": true,
@@ -680,16 +680,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/querã©taro_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -1060,12 +1060,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/marã­timo_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "8'",
+                "display": "43'",
                 "egypt": "22:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1135,12 +1135,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/erzurumspor_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "3",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "47'",
+                "display": "85'",
                 "egypt": "21:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1163,7 +1163,7 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "49'",
+                "display": "84'",
                 "egypt": "21:30",
                 "status": "MidEvent",
                 "is_live": true,
