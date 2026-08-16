@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T05:29:19.786430+00:00",
-  "egypt_time": "2026-08-16 08:29:19",
+  "timestamp": "2026-08-16T05:54:53.564342+00:00",
+  "egypt_time": "2026-08-16 08:54:53",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -657,16 +657,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tigres-uanl_64x64.png"
               },
               "score": {
-                "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "home": null,
+                "away": null,
+                "display": "vs"
               },
               "time": {
-                "display": "FT",
+                "display": "In Play",
                 "egypt": "06:10",
-                "status": "PostEvent",
-                "is_live": false,
-                "is_full_time": true,
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
                 "is_upcoming": false
               }
             },
