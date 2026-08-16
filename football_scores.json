@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T05:54:53.564342+00:00",
-  "egypt_time": "2026-08-16 08:54:53",
+  "timestamp": "2026-08-16T06:27:52.924723+00:00",
+  "egypt_time": "2026-08-16 09:27:52",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -326,8 +326,8 @@
             },
             {
               "home_team": {
-                "name": "CÃ´ng An Há» ChÃ­ Minh",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cã´ng-an-há»-chã­-minh_64x64.png"
+                "name": "TP Há» ChÃ­ Minh",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tp-há»-chã­-minh_64x64.png"
               },
               "away_team": {
                 "name": "Long An",
@@ -657,16 +657,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tigres-uanl_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "06:10",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
