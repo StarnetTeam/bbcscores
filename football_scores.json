@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T14:15:28.735610+00:00",
-  "egypt_time": "2026-08-16 17:15:28",
+  "timestamp": "2026-08-16T14:46:09.328240+00:00",
+  "egypt_time": "2026-08-16 17:46:09",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,12 +23,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/manchester-city.30c4b22e90.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "7'",
+                "display": "40'",
                 "egypt": "17:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -57,11 +57,11 @@
                 "display": "2 - 1"
               },
               "time": {
-                "display": "80'",
+                "display": "FT",
                 "egypt": "15:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -150,17 +150,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/barcelona.0857442667.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "11'",
                 "egypt": "17:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1014,17 +1014,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/estoril_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "11'",
                 "egypt": "17:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
