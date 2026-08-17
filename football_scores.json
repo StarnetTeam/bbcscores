@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-17T05:05:37.686097+00:00",
-  "egypt_time": "2026-08-17 08:05:37",
+  "timestamp": "2026-08-17T05:58:09.544895+00:00",
+  "egypt_time": "2026-08-17 08:58:09",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -283,16 +283,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cruz-azul_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "06:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
