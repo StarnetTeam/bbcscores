@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-17T18:27:58.666021+00:00",
-  "egypt_time": "2026-08-17 21:27:58",
+  "timestamp": "2026-08-17T19:07:29.014395+00:00",
+  "egypt_time": "2026-08-17 22:07:29",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wrexham.b02a4ae432.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "7'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -110,17 +110,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/elche.9421b106ec.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "5'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -144,10 +144,10 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "90'+3",
+                "display": "PENS",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PostEvent",
+                "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": false
               }
@@ -162,16 +162,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cesena_64x64.png"
               },
               "score": {
-                "home": "2",
+                "home": "3",
                 "away": "0",
-                "display": "2 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "59'",
+                "display": "FT",
                 "egypt": "19:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -185,17 +185,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sampdoria_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "21'",
                 "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -393,17 +393,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gã¶ztepe_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "36'",
                 "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
