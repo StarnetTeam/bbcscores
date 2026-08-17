@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-17T09:33:45.193712+00:00",
-  "egypt_time": "2026-08-17 12:33:45",
+  "timestamp": "2026-08-17T10:24:31.848872+00:00",
+  "egypt_time": "2026-08-17 13:24:31",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1956,7 +1956,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 20,
+          "match_count": 21,
           "matches": [
             {
               "home_team": {
@@ -2380,6 +2380,29 @@
               "away_team": {
                 "name": "Noblejas",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/noblejas_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Salamanca UDS",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/salamanca-uds_64x64.png"
+              },
+              "away_team": {
+                "name": "UD Santa Marta",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ud-santa-marta_64x64.png"
               },
               "score": {
                 "home": null,
