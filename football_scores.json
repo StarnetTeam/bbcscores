@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-17T19:07:29.014395+00:00",
-  "egypt_time": "2026-08-17 22:07:29",
+  "timestamp": "2026-08-17T19:49:11.077135+00:00",
+  "egypt_time": "2026-08-17 22:49:11",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -28,7 +28,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "7'",
+                "display": "45'+2",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -110,12 +110,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/elche.9421b106ec.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "5'",
+                "display": "45'+2",
                 "egypt": "22:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -185,12 +185,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sampdoria_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "21'",
+                "display": "HT",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -208,17 +208,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/lecce.d1642b5cd8.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "28'",
                 "egypt": "22:15",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -364,17 +364,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/benfica.393c1416bb.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "32'",
                 "egypt": "22:15",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -393,12 +393,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gã¶ztepe_64x64.png"
               },
               "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
+                "home": "2",
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "36'",
+                "display": "55'",
                 "egypt": "21:30",
                 "status": "MidEvent",
                 "is_live": true,
