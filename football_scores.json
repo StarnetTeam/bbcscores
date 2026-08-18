@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-18T03:20:49.433938+00:00",
-  "egypt_time": "2026-08-18 06:20:49",
+  "timestamp": "2026-08-18T04:04:40.914667+00:00",
+  "egypt_time": "2026-08-18 07:04:40",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -602,12 +602,12 @@
             },
             {
               "home_team": {
-                "name": "Sporting GijÃ³n II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
+                "name": "Mutilvera",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mutilvera_64x64.png"
               },
               "away_team": {
-                "name": "Llanera",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/llanera_64x64.png"
+                "name": "PeÃ±a Sport",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/peã±a-sport_64x64.png"
               },
               "score": {
                 "home": null,
@@ -625,12 +625,12 @@
             },
             {
               "home_team": {
-                "name": "Mutilvera",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mutilvera_64x64.png"
+                "name": "Sporting GijÃ³n II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
               },
               "away_team": {
-                "name": "PeÃ±a Sport",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/peã±a-sport_64x64.png"
+                "name": "Llanera",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/llanera_64x64.png"
               },
               "score": {
                 "home": null,
@@ -639,7 +639,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "20:30",
+                "egypt": "20:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1433,7 +1433,7 @@
                 "display": "vs"
               },
               "time": {
-                "display": "In Play",
+                "display": "HT",
                 "egypt": "06:06",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1853,29 +1853,6 @@
             },
             {
               "home_team": {
-                "name": "Terrassa",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/terrassa_64x64.png"
-              },
-              "away_team": {
-                "name": "San CristÃ³bal",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/san-cristã³bal_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "AtlÃ©tico CoruÃ±a",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlã©tico-coruã±a_64x64.png"
               },
@@ -1905,6 +1882,29 @@
               "away_team": {
                 "name": "SD LogroÃ±Ã©s",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sd-logroã±ã©s_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Terrassa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/terrassa_64x64.png"
+              },
+              "away_team": {
+                "name": "San CristÃ³bal",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/san-cristã³bal_64x64.png"
               },
               "score": {
                 "home": null,
