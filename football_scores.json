@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-18T14:25:51.478504+00:00",
-  "egypt_time": "2026-08-18 17:25:51",
+  "timestamp": "2026-08-18T15:00:23.961375+00:00",
+  "egypt_time": "2026-08-18 18:00:23",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -518,17 +518,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bali-united_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "2",
+                "display": "3 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "15:30",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
