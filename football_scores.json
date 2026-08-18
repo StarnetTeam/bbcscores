@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-18T10:54:09.380752+00:00",
-  "egypt_time": "2026-08-18 13:54:09",
+  "timestamp": "2026-08-18T11:18:48.595795+00:00",
+  "egypt_time": "2026-08-18 14:18:48",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -495,17 +495,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ss-reyes-ii_64x64.png"
               },
               "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
+                "home": null,
+                "away": null,
+                "display": "vs"
               },
               "time": {
-                "display": "FT",
+                "display": "Scheduled",
                 "egypt": "11:00",
-                "status": "PostEvent",
+                "status": "PreEvent",
                 "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
