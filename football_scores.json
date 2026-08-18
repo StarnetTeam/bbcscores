@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-18T09:02:48.849528+00:00",
-  "egypt_time": "2026-08-18 12:02:48",
+  "timestamp": "2026-08-18T09:56:02.659825+00:00",
+  "egypt_time": "2026-08-18 12:56:02",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -3336,8 +3336,31 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 2,
+          "match_count": 6,
           "matches": [
+            {
+              "home_team": {
+                "name": "Red Arrows",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/red-arrows_64x64.png"
+              },
+              "away_team": {
+                "name": "Power Dynamos",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/power-dynamos_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "XuÃ¢n Thiá»n PhÃº Thá»",
@@ -3363,6 +3386,52 @@
             },
             {
               "home_team": {
+                "name": "Amurrio",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/amurrio_64x64.png"
+              },
+              "away_team": {
+                "name": "San Ignacio",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/san-ignacio_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "20:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "ES SÃ©tif",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/es-sã©tif_64x64.png"
+              },
+              "away_team": {
+                "name": "NC Magra",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nc-magra_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Real Madrid II",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-madrid-ii_64x64.png"
               },
@@ -3378,6 +3447,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "SanluqueÃ±o",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sanluqueã±o_64x64.png"
+              },
+              "away_team": {
+                "name": "Antoniano",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/antoniano_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
