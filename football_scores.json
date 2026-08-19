@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-19T18:23:30.038659+00:00",
-  "egypt_time": "2026-08-19 21:23:30",
+  "timestamp": "2026-08-19T19:01:01.496676+00:00",
+  "egypt_time": "2026-08-19 22:01:01",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -610,17 +610,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/manchester-city-u21_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": null,
+                "away": null,
+                "display": "vs"
               },
               "time": {
-                "display": "22'",
+                "display": "Scheduled",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PreEvent",
+                "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": false
+                "is_upcoming": true
               }
             }
           ]
