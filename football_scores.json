@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-19T00:51:35.341677+00:00",
-  "egypt_time": "2026-08-19 03:51:35",
+  "timestamp": "2026-08-19T02:14:31.211607+00:00",
+  "egypt_time": "2026-08-19 05:14:31",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -933,17 +933,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/independiente-valle_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "83'",
                 "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -956,17 +956,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/estudiantes_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "3",
+                "display": "0 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "85'",
                 "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
