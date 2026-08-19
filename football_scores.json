@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-19T09:04:28.144054+00:00",
-  "egypt_time": "2026-08-19 12:04:28",
+  "timestamp": "2026-08-19T09:56:38.259872+00:00",
+  "egypt_time": "2026-08-19 12:56:38",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -2536,7 +2536,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 6,
+          "match_count": 7,
           "matches": [
             {
               "home_team": {
@@ -2670,6 +2670,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Utiel",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/utiel_64x64.png"
+              },
+              "away_team": {
+                "name": "Vall de UxÃ³",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vall-de-uxã³_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
