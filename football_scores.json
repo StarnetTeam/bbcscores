@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-19T09:56:38.259872+00:00",
-  "egypt_time": "2026-08-19 12:56:38",
+  "timestamp": "2026-08-19T10:24:39.676538+00:00",
+  "egypt_time": "2026-08-19 13:24:39",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -2536,7 +2536,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 7,
+          "match_count": 9,
           "matches": [
             {
               "home_team": {
@@ -2670,6 +2670,52 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "20:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Mutilvera",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mutilvera_64x64.png"
+              },
+              "away_team": {
+                "name": "Doneztebe",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/doneztebe_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Selaya",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/selaya_64x64.png"
+              },
+              "away_team": {
+                "name": "CayÃ³n",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cayã³n_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
