@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-20T03:22:52.901245+00:00",
-  "egypt_time": "2026-08-20 06:22:52",
+  "timestamp": "2026-08-20T04:05:37.342490+00:00",
+  "egypt_time": "2026-08-20 07:05:37",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1329,11 +1329,11 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "79'",
+                "display": "FT",
                 "egypt": "04:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1348,15 +1348,15 @@
               },
               "score": {
                 "home": "3",
-                "away": "3",
-                "display": "3 - 3"
+                "away": "4",
+                "display": "3 - 4"
               },
               "time": {
-                "display": "80'",
+                "display": "FT",
                 "egypt": "04:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1370,16 +1370,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/austin.6bc6fcca81.svg"
               },
               "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "81'",
+                "display": "FT",
                 "egypt": "04:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1398,7 +1398,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "40'",
+                "display": "67'",
                 "egypt": "05:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1416,12 +1416,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/san-diego-fc.d99d8c0163.svg"
               },
               "score": {
-                "home": "1",
-                "away": "0",
-                "display": "1 - 0"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "41'",
+                "display": "66'",
                 "egypt": "05:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1439,12 +1439,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/houston-dynamo.c80456133e.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "1",
-                "display": "0 - 1"
+                "display": "1 - 1"
               },
               "time": {
-                "display": "41'",
+                "display": "66'",
                 "egypt": "05:30",
                 "status": "MidEvent",
                 "is_live": true,
