@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-20T11:50:31.726199+00:00",
-  "egypt_time": "2026-08-20 14:50:31",
+  "timestamp": "2026-08-20T12:33:48.670722+00:00",
+  "egypt_time": "2026-08-20 15:33:48",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -3648,7 +3648,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 31,
+          "match_count": 32,
           "matches": [
             {
               "home_team": {
@@ -3920,6 +3920,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "12:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Cristo AtlÃ©tico",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cristo-atlã©tico_64x64.png"
+              },
+              "away_team": {
+                "name": "AtlÃ©tico Tordesillas",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlã©tico-tordesillas_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -4296,8 +4319,8 @@
             },
             {
               "home_team": {
-                "name": "Xerez",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/xerez_64x64.png"
+                "name": "Xerez Deportivo",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/xerez-deportivo_64x64.png"
               },
               "away_team": {
                 "name": "SanluqueÃ±o",
