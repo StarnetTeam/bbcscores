@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-20T12:33:48.670722+00:00",
-  "egypt_time": "2026-08-20 15:33:48",
+  "timestamp": "2026-08-20T13:39:50.226490+00:00",
+  "egypt_time": "2026-08-20 16:39:50",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -3648,7 +3648,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 32,
+          "match_count": 33,
           "matches": [
             {
               "home_team": {
@@ -3667,6 +3667,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Western Sydney Wanderers",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/western-sydney-wanderers_64x64.png"
+              },
+              "away_team": {
+                "name": "Macarthur",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/macarthur_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "04:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
