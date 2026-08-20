@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-20T16:33:00.865757+00:00",
-  "egypt_time": "2026-08-20 19:33:00",
+  "timestamp": "2026-08-20T17:21:54.358718+00:00",
+  "egypt_time": "2026-08-20 20:21:54",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -24,11 +24,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "3",
-                "display": "0 - 3"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "65'",
+                "display": "41'",
                 "egypt": "18:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -46,17 +46,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/iberia-1999_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": null,
+                "away": null,
+                "display": "vs"
               },
               "time": {
-                "display": "24'",
+                "display": "Scheduled",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PreEvent",
+                "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": false
+                "is_upcoming": true
               }
             },
             {
@@ -69,17 +69,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-red-bull-salzburg.36344517d7.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": null,
+                "away": null,
+                "display": "vs"
               },
               "time": {
-                "display": "31'",
+                "display": "Scheduled",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PreEvent",
+                "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": false
+                "is_upcoming": true
               }
             },
             {
@@ -305,17 +305,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-copenhagen.476d1e3526.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": null,
+                "away": null,
+                "display": "vs"
               },
               "time": {
-                "display": "31'",
+                "display": "Scheduled",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PreEvent",
+                "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": false
+                "is_upcoming": true
               }
             },
             {
@@ -328,23 +328,23 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/larne_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": null,
+                "away": null,
+                "display": "vs"
               },
               "time": {
-                "display": "30'",
+                "display": "Scheduled",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
+                "status": "PreEvent",
+                "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": false
+                "is_upcoming": true
               }
             },
             {
               "home_team": {
                 "name": "Midtjylland",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/midtjylland.4b762b2fed.svg"
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/midtjylland_64x64.png"
               },
               "away_team": {
                 "name": "Rijeka",
@@ -1539,7 +1539,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "19:00",
+                "egypt": "19:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
