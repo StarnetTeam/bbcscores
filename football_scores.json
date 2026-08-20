@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-20T04:05:37.342490+00:00",
-  "egypt_time": "2026-08-20 07:05:37",
+  "timestamp": "2026-08-20T05:02:11.671016+00:00",
+  "egypt_time": "2026-08-20 08:02:11",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1393,16 +1393,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/san-jose-earthquakes.05ee679548.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "67'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1416,16 +1416,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/san-diego-fc.d99d8c0163.svg"
               },
               "score": {
-                "home": "2",
+                "home": "3",
                 "away": "1",
-                "display": "2 - 1"
+                "display": "3 - 1"
               },
               "time": {
-                "display": "66'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1439,16 +1439,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/houston-dynamo.c80456133e.svg"
               },
               "score": {
-                "home": "1",
+                "home": "0",
                 "away": "1",
-                "display": "1 - 1"
+                "display": "0 - 1"
               },
               "time": {
-                "display": "66'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -1617,12 +1617,12 @@
             },
             {
               "home_team": {
-                "name": "Real AvilÃ©s",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-avilã©s_64x64.png"
+                "name": "AtlÃ©tico Astorga",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlã©tico-astorga_64x64.png"
               },
               "away_team": {
-                "name": "Sporting GijÃ³n II",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
+                "name": "Cultural Leonesa",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cultural-leonesa_64x64.png"
               },
               "score": {
                 "home": null,
@@ -1631,7 +1631,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "20:00",
+                "egypt": "20:30",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -1640,12 +1640,12 @@
             },
             {
               "home_team": {
-                "name": "AtlÃ©tico Astorga",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlã©tico-astorga_64x64.png"
+                "name": "Real AvilÃ©s",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/real-avilã©s_64x64.png"
               },
               "away_team": {
-                "name": "Cultural Leonesa",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cultural-leonesa_64x64.png"
+                "name": "Sporting GijÃ³n II",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sporting-gijã³n-ii_64x64.png"
               },
               "score": {
                 "home": null,
