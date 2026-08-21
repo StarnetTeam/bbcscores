@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T12:32:46.964119+00:00",
-  "egypt_time": "2026-08-21 15:32:46",
+  "timestamp": "2026-08-21T13:39:16.401821+00:00",
+  "egypt_time": "2026-08-21 16:39:16",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -813,16 +813,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jef-united_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
