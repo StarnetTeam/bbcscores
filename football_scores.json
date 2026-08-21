@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T14:27:11.491247+00:00",
-  "egypt_time": "2026-08-21 17:27:11",
+  "timestamp": "2026-08-21T15:03:02.578887+00:00",
+  "egypt_time": "2026-08-21 18:03:02",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -98,17 +98,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/castellã³n-ii_64x64.png"
               },
               "score": {
-                "home": "4",
-                "away": "2",
-                "display": "4 - 2"
+                "home": null,
+                "away": null,
+                "display": "vs"
               },
               "time": {
-                "display": "FT",
+                "display": "Scheduled",
                 "egypt": "13:00",
-                "status": "PostEvent",
+                "status": "PreEvent",
                 "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
@@ -121,17 +121,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/zesco-united_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "home": null,
+                "away": null,
+                "display": "vs"
               },
               "time": {
-                "display": "FT",
+                "display": "Scheduled",
                 "egypt": "14:00",
-                "status": "PostEvent",
+                "status": "PreEvent",
                 "is_live": false,
-                "is_full_time": true,
-                "is_upcoming": false
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
