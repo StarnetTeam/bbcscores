@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T17:53:54.626248+00:00",
-  "egypt_time": "2026-08-21 20:53:54",
+  "timestamp": "2026-08-21T18:26:26.362520+00:00",
+  "egypt_time": "2026-08-21 21:26:26",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -639,11 +639,11 @@
                 "display": "1 - 2"
               },
               "time": {
-                "display": "88'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -658,15 +658,15 @@
               },
               "score": {
                 "home": "0",
-                "away": "10",
-                "display": "0 - 10"
+                "away": "11",
+                "display": "0 - 11"
               },
               "time": {
-                "display": "86'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -685,7 +685,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "85'",
+                "display": "ET",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -847,11 +847,11 @@
                 "display": "0 - 4"
               },
               "time": {
-                "display": "87'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -870,11 +870,11 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "73'",
+                "display": "FT",
                 "egypt": "19:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -888,17 +888,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/neom_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "25'",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -911,17 +911,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ittihad_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "26'",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
