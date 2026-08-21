@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T11:49:42.567403+00:00",
-  "egypt_time": "2026-08-21 14:49:42",
+  "timestamp": "2026-08-21T12:32:46.964119+00:00",
+  "egypt_time": "2026-08-21 15:32:46",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -790,16 +790,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/v-varen-nagasaki_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "2",
+                "display": "4 - 2"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
