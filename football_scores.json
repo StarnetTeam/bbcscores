@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T08:31:26.299901+00:00",
-  "egypt_time": "2026-08-21 11:31:26",
+  "timestamp": "2026-08-21T09:29:04.876225+00:00",
+  "egypt_time": "2026-08-21 12:29:04",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -8273,7 +8273,7 @@
         },
         {
           "name": "Club Friendlies",
-          "match_count": 10,
+          "match_count": 11,
           "matches": [
             {
               "home_team": {
@@ -8315,6 +8315,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "11:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Subiza",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/subiza_64x64.png"
+              },
+              "away_team": {
+                "name": "Izarra",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/izarra_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
