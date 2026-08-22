@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-22T21:43:43.704608+00:00",
-  "egypt_time": "2026-08-23 00:43:43",
+  "timestamp": "2026-08-22T22:14:20.443510+00:00",
+  "egypt_time": "2026-08-23 01:14:20",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -2187,7 +2187,7 @@
         },
         {
           "name": "FA Cup",
-          "match_count": 18,
+          "match_count": 20,
           "matches": [
             {
               "home_team": {
@@ -2490,6 +2490,29 @@
             },
             {
               "home_team": {
+                "name": "Prescot Cables",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/prescot-cables_64x64.png"
+              },
+              "away_team": {
+                "name": "Litherland Remyca",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/litherland-remyca_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "SE Dons",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/se-dons_64x64.png"
               },
@@ -2551,6 +2574,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Fakenham Town",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fakenham-town_64x64.png"
+              },
+              "away_team": {
+                "name": "St Ives Town",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/st-ives-town_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
