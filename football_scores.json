@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-22T17:14:11.790831+00:00",
-  "egypt_time": "2026-08-22 20:14:11",
+  "timestamp": "2026-08-22T17:43:18.474546+00:00",
+  "egypt_time": "2026-08-22 20:43:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -120,7 +120,7 @@
                 "display": "2 - 0"
               },
               "time": {
-                "display": "42'",
+                "display": "HT",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -3614,29 +3614,6 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/stotfold_64x64.png"
               },
               "away_team": {
-                "name": "TBC",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tbc_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "17:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Stotfold",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/stotfold_64x64.png"
-              },
-              "away_team": {
                 "name": "Cockfosters",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cockfosters_64x64.png"
               },
@@ -3652,6 +3629,29 @@
                 "is_live": false,
                 "is_full_time": true,
                 "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Stotfold",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/stotfold_64x64.png"
+              },
+              "away_team": {
+                "name": "TBC",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tbc_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "17:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
               }
             },
             {
@@ -5631,7 +5631,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "54'",
+                "display": "72'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -5654,7 +5654,7 @@
                 "display": "0 - 3"
               },
               "time": {
-                "display": "54'",
+                "display": "70'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -5672,12 +5672,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/arminia-bielefeld_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "2",
-                "display": "1 - 2"
+                "display": "2 - 2"
               },
               "time": {
-                "display": "52'",
+                "display": "70'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -5706,7 +5706,7 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "41'",
+                "display": "HT",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -5729,7 +5729,7 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "39'",
+                "display": "HT",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -5804,11 +5804,11 @@
                 "display": "5 - 2"
               },
               "time": {
-                "display": "90'+9",
+                "display": "FT",
                 "egypt": "18:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6209,11 +6209,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "11'",
+                "display": "27'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -6261,11 +6261,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "69'",
+                "display": "87'",
                 "egypt": "18:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -6284,11 +6284,11 @@
               },
               "score": {
                 "home": "3",
-                "away": "0",
-                "display": "3 - 0"
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "54'",
                 "egypt": "19:10",
                 "status": "MidEvent",
                 "is_live": true,
@@ -6359,11 +6359,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "57'",
+                "display": "72'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -6386,7 +6386,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "51'",
+                "display": "68'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
