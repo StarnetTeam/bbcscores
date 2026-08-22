@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-22T09:49:12.158580+00:00",
-  "egypt_time": "2026-08-22 12:49:12",
+  "timestamp": "2026-08-22T10:15:44.656911+00:00",
+  "egypt_time": "2026-08-22 13:15:44",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -6759,12 +6759,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "13:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -6782,12 +6782,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "13:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -6805,12 +6805,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "13:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -7370,6 +7370,29 @@
             },
             {
               "home_team": {
+                "name": "Racing de Casablanca",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/racing-de-casablanca_64x64.png"
+              },
+              "away_team": {
+                "name": "Stade Marocain",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/stade-marocain_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Subiza",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/subiza_64x64.png"
               },
@@ -7491,29 +7514,6 @@
               "away_team": {
                 "name": "Vilassar Mar",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vilassar-mar_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Racing de Casablanca",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/racing-de-casablanca_64x64.png"
-              },
-              "away_team": {
-                "name": "Stade Marocain",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/stade-marocain_64x64.png"
               },
               "score": {
                 "home": null,
