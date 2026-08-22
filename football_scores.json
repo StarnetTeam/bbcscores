@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-22T04:57:52.847506+00:00",
-  "egypt_time": "2026-08-22 07:57:52",
+  "timestamp": "2026-08-22T05:27:20.630916+00:00",
+  "egypt_time": "2026-08-22 08:27:20",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -6921,16 +6921,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/club-amã©rica_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "06:10",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6944,16 +6944,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/toluca_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "06:10",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
