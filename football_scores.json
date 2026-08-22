@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-22T10:46:55.383918+00:00",
-  "egypt_time": "2026-08-22 13:46:55",
+  "timestamp": "2026-08-22T11:14:19.913192+00:00",
+  "egypt_time": "2026-08-22 14:14:19",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -6230,17 +6230,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/augsburg.05a8251648.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "7'",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -6253,17 +6253,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bayer-leverkusen.b1c0805fcd.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "7'",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -6708,16 +6708,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/avispa-fukuoka_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "2",
+                "display": "3 - 2"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "12:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -7370,6 +7370,29 @@
             },
             {
               "home_team": {
+                "name": "Racing de Casablanca",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/racing-de-casablanca_64x64.png"
+              },
+              "away_team": {
+                "name": "Stade Marocain",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/stade-marocain_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "12:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Subiza",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/subiza_64x64.png"
               },
@@ -7491,29 +7514,6 @@
               "away_team": {
                 "name": "Vilassar Mar",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vilassar-mar_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Racing de Casablanca",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/racing-de-casablanca_64x64.png"
-              },
-              "away_team": {
-                "name": "Stade Marocain",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/stade-marocain_64x64.png"
               },
               "score": {
                 "home": null,
