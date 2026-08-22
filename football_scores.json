@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-22T02:11:49.479677+00:00",
-  "egypt_time": "2026-08-22 05:11:49",
+  "timestamp": "2026-08-22T03:13:00.790077+00:00",
+  "egypt_time": "2026-08-22 06:13:00",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -6875,16 +6875,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/monterrey.d45ab03573.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -6903,7 +6903,7 @@
                 "display": "vs"
               },
               "time": {
-                "display": "HT",
+                "display": "In Play",
                 "egypt": "04:00",
                 "status": "MidEvent",
                 "is_live": true,
