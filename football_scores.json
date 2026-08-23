@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-23T17:14:39.783627+00:00",
-  "egypt_time": "2026-08-23 20:14:39",
+  "timestamp": "2026-08-23T17:42:47.999711+00:00",
+  "egypt_time": "2026-08-23 20:42:47",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -70,15 +70,15 @@
               },
               "score": {
                 "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "77'",
+                "display": "FT",
                 "egypt": "18:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -184,11 +184,11 @@
                 "display": "2 - 2"
               },
               "time": {
-                "display": "90'+10",
+                "display": "FT",
                 "egypt": "18:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -439,11 +439,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "46'",
+                "display": "73'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -462,11 +462,11 @@
               },
               "score": {
                 "home": "1",
-                "away": "2",
-                "display": "1 - 2"
+                "away": "4",
+                "display": "1 - 4"
               },
               "time": {
-                "display": "46'",
+                "display": "73'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -484,12 +484,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-st-pauli.41d3cc5f0d.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "47'",
+                "display": "74'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -518,7 +518,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "32'",
+                "display": "HT",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -541,7 +541,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "31'",
+                "display": "HT",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -639,11 +639,11 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "88'",
+                "display": "FT",
                 "egypt": "18:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1141,12 +1141,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/famalicã£o_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "4'",
+                "display": "31'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1194,11 +1194,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "46'",
+                "display": "74'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1216,12 +1216,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/istanbul-basaksehir.e30a4bef27.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "1",
-                "display": "1 - 1"
+                "display": "2 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "70'",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
