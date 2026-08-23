@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-23T00:55:45.014457+00:00",
-  "egypt_time": "2026-08-23 03:55:45",
+  "timestamp": "2026-08-23T02:21:01.225946+00:00",
+  "egypt_time": "2026-08-23 05:21:01",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -720,12 +720,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "02:07",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -743,12 +743,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "04:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -790,16 +790,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/dc-united.ec2a52bd2a.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "55'",
+                "display": "FT",
                 "egypt": "02:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -814,15 +814,15 @@
               },
               "score": {
                 "home": "1",
-                "away": "0",
-                "display": "1 - 0"
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "53'",
+                "display": "FT",
                 "egypt": "02:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -836,16 +836,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/toronto-fc.00c0e158d9.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "51'",
+                "display": "FT",
                 "egypt": "02:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -859,16 +859,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/la-galaxy.535e48f402.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "2",
-                "display": "1 - 2"
+                "display": "2 - 2"
               },
               "time": {
-                "display": "54'",
+                "display": "FT",
                 "egypt": "02:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -882,16 +882,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/chicago-fire.8d07a0529d.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "1",
-                "display": "0 - 1"
+                "display": "1 - 1"
               },
               "time": {
-                "display": "50'",
+                "display": "FT",
                 "egypt": "02:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -905,16 +905,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/real-salt-lake.344df414e7.svg"
               },
               "score": {
-                "home": "0",
+                "home": "2",
                 "away": "1",
-                "display": "0 - 1"
+                "display": "2 - 1"
               },
               "time": {
-                "display": "51'",
+                "display": "FT",
                 "egypt": "02:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -928,12 +928,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/columbus-crew.c9e4af2505.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "12'",
+                "display": "76'",
                 "egypt": "03:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -951,12 +951,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/houston-dynamo.c80456133e.svg"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "12'",
+                "display": "79'",
                 "egypt": "03:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -974,17 +974,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/philadelphia-union.5daeb872b4.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "47'",
                 "egypt": "04:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -997,17 +997,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-dallas.d3f930d32a.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "0",
+                "display": "3 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "38'",
                 "egypt": "04:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
