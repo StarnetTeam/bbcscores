@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-23T15:15:34.991216+00:00",
-  "egypt_time": "2026-08-23 18:15:34",
+  "timestamp": "2026-08-23T15:44:27.116185+00:00",
+  "egypt_time": "2026-08-23 18:44:27",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -69,17 +69,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/liverpool.34999937ef.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "10'",
                 "egypt": "18:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -184,7 +184,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "12'",
+                "display": "40'",
                 "egypt": "18:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -305,11 +305,11 @@
                 "display": "0 - 4"
               },
               "time": {
-                "display": "85'",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -328,11 +328,11 @@
                 "display": "1 - 2"
               },
               "time": {
-                "display": "85'",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -347,15 +347,15 @@
               },
               "score": {
                 "home": "2",
-                "away": "3",
-                "display": "2 - 3"
+                "away": "4",
+                "display": "2 - 4"
               },
               "time": {
-                "display": "85'",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -370,15 +370,15 @@
               },
               "score": {
                 "home": "0",
-                "away": "8",
-                "display": "0 - 8"
+                "away": "9",
+                "display": "0 - 9"
               },
               "time": {
-                "display": "86'",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -397,11 +397,11 @@
                 "display": "0 - 5"
               },
               "time": {
-                "display": "86'",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -420,11 +420,11 @@
                 "display": "0 - 6"
               },
               "time": {
-                "display": "86'",
+                "display": "FT",
                 "egypt": "16:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -634,17 +634,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/monaco.379804f1f5.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "28'",
                 "egypt": "18:15",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1123,7 +1123,7 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "42'",
+                "display": "48'",
                 "egypt": "17:30",
                 "status": "MidEvent",
                 "is_live": true,
