@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-23T17:42:47.999711+00:00",
-  "egypt_time": "2026-08-23 20:42:47",
+  "timestamp": "2026-08-23T18:18:41.189866+00:00",
+  "egypt_time": "2026-08-23 21:18:41",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -202,17 +202,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/racing-santander.ab71e79d87.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "44'",
                 "egypt": "20:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -438,16 +438,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/freiburg.913d385d12.svg"
               },
               "score": {
-                "home": "0",
-                "away": "2",
-                "display": "0 - 2"
+                "home": "1",
+                "away": "5",
+                "display": "1 - 5"
               },
               "time": {
-                "display": "73'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -461,16 +461,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/paderborn.a95377aa5d.svg"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "4",
-                "display": "1 - 4"
+                "display": "2 - 4"
               },
               "time": {
-                "display": "73'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -489,11 +489,11 @@
                 "display": "2 - 0"
               },
               "time": {
-                "display": "74'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -518,7 +518,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "HT",
+                "display": "84'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -537,11 +537,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "HT",
+                "display": "84'",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1146,7 +1146,7 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "31'",
+                "display": "59'",
                 "egypt": "20:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1198,11 +1198,11 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "74'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1221,11 +1221,11 @@
                 "display": "2 - 1"
               },
               "time": {
-                "display": "70'",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
