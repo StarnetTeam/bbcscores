@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-22T23:43:06.774717+00:00",
-  "egypt_time": "2026-08-23 02:43:06",
+  "timestamp": "2026-08-23T00:55:45.014457+00:00",
+  "egypt_time": "2026-08-23 03:55:45",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -790,17 +790,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/dc-united.ec2a52bd2a.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "55'",
                 "egypt": "02:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -813,17 +813,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/seattle-sounders.19c0cc8ef9.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "53'",
                 "egypt": "02:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -836,17 +836,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/toronto-fc.00c0e158d9.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "51'",
                 "egypt": "02:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -859,17 +859,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/la-galaxy.535e48f402.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "54'",
                 "egypt": "02:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -882,17 +882,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/chicago-fire.8d07a0529d.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "50'",
                 "egypt": "02:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -905,17 +905,63 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/real-salt-lake.344df414e7.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "51'",
                 "egypt": "02:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Nashville SC",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nashville-sc.e652956866.svg"
+              },
+              "away_team": {
+                "name": "Columbus Crew",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/columbus-crew.c9e4af2505.svg"
+              },
+              "score": {
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
+              },
+              "time": {
+                "display": "12'",
+                "egypt": "03:30",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "St. Louis City",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/st-louis-city.83b1653c5a.svg"
+              },
+              "away_team": {
+                "name": "Houston Dynamo",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/houston-dynamo.c80456133e.svg"
+              },
+              "score": {
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
+              },
+              "time": {
+                "display": "12'",
+                "egypt": "03:30",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
               }
             },
             {
@@ -934,53 +980,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Nashville SC",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/nashville-sc.e652956866.svg"
-              },
-              "away_team": {
-                "name": "Columbus Crew",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/columbus-crew.c9e4af2505.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "St. Louis City",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/st-louis-city.83b1653c5a.svg"
-              },
-              "away_team": {
-                "name": "Houston Dynamo",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/houston-dynamo.c80456133e.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:30",
+                "egypt": "04:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
