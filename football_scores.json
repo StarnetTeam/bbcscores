@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-23T04:08:40.740299+00:00",
-  "egypt_time": "2026-08-23 07:08:40",
+  "timestamp": "2026-08-23T04:59:47.287355+00:00",
+  "egypt_time": "2026-08-23 07:59:47",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -766,7 +766,7 @@
                 "display": "vs"
               },
               "time": {
-                "display": "HT",
+                "display": "In Play",
                 "egypt": "06:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1020,16 +1020,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/portland-timbers.c3217090fa.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "1",
-                "display": "0 - 1"
+                "display": "1 - 1"
               },
               "time": {
-                "display": "67'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1044,15 +1044,15 @@
               },
               "score": {
                 "home": "1",
-                "away": "4",
-                "display": "1 - 4"
+                "away": "5",
+                "display": "1 - 5"
               },
               "time": {
-                "display": "66'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1066,16 +1066,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/colorado-rapids.1a40dc0b52.svg"
               },
               "score": {
-                "home": "2",
+                "home": "3",
                 "away": "0",
-                "display": "2 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "65'",
+                "display": "FT",
                 "egypt": "05:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
