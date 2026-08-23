@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-23T18:54:57.548711+00:00",
-  "egypt_time": "2026-08-23 21:54:57",
+  "timestamp": "2026-08-23T19:17:41.607218+00:00",
+  "egypt_time": "2026-08-23 22:17:41",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -202,12 +202,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/racing-santander.ab71e79d87.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "55'",
+                "display": "84'",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -559,12 +559,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sassuolo.960f825bf0.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "1'",
+                "display": "29'",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -587,7 +587,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "3'",
+                "display": "29'",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -657,12 +657,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/paris-st-germain.9fc63d41ab.svg"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "4'",
+                "display": "31'",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1146,11 +1146,11 @@
                 "display": "1 - 0"
               },
               "time": {
-                "display": "90'",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1244,7 +1244,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "19'",
+                "display": "45'",
                 "egypt": "21:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1267,7 +1267,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "18'",
+                "display": "45'",
                 "egypt": "21:30",
                 "status": "MidEvent",
                 "is_live": true,
