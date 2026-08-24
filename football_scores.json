@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-24T17:55:40.406648+00:00",
-  "egypt_time": "2026-08-24 20:55:40",
+  "timestamp": "2026-08-24T18:31:36.842321+00:00",
+  "egypt_time": "2026-08-24 21:31:36",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -57,7 +57,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "23'",
+                "display": "HT",
                 "egypt": "20:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -104,12 +104,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wolfsburg.39c3020b6a.svg"
               },
               "score": {
-                "home": "2",
+                "home": "3",
                 "away": "2",
-                "display": "2 - 2"
+                "display": "3 - 2"
               },
               "time": {
-                "display": "90'+3",
+                "display": "114' ET",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -155,11 +155,11 @@
                 "display": "1 - 2"
               },
               "time": {
-                "display": "90'+4",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -207,7 +207,7 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "61'",
+                "display": "90'+7",
                 "egypt": "19:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -365,11 +365,11 @@
               },
               "score": {
                 "home": "0",
-                "away": "1",
-                "display": "0 - 1"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "53'",
+                "display": "90'",
                 "egypt": "19:40",
                 "status": "MidEvent",
                 "is_live": true,
@@ -387,17 +387,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-hazem_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "29'",
                 "egypt": "21:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
