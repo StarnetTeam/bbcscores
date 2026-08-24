@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-24T02:19:26.524076+00:00",
-  "egypt_time": "2026-08-24 05:19:26",
+  "timestamp": "2026-08-24T03:29:46.416614+00:00",
+  "egypt_time": "2026-08-24 06:29:46",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -277,16 +277,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/necaxa_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
