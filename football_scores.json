@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-24T20:21:30.681422+00:00",
-  "egypt_time": "2026-08-24 23:21:30",
+  "timestamp": "2026-08-24T20:56:37.378972+00:00",
+  "egypt_time": "2026-08-24 23:56:37",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -28,11 +28,11 @@
                 "display": "2 - 3"
               },
               "time": {
-                "display": "56'",
+                "display": "FT",
                 "egypt": "22:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -80,7 +80,7 @@
                 "display": "1 - 1"
               },
               "time": {
-                "display": "39'",
+                "display": "65'",
                 "egypt": "22:30",
                 "status": "MidEvent",
                 "is_live": true,
@@ -173,12 +173,12 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fc-schalke.bddc2444b2.svg"
               },
               "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
+                "home": "2",
+                "away": "3",
+                "display": "2 - 3"
               },
               "time": {
-                "display": "72'",
+                "display": "104' ET",
                 "egypt": "21:45",
                 "status": "MidEvent",
                 "is_live": true,
@@ -225,16 +225,16 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fiorentina.a7a02aaf95.svg"
               },
               "score": {
-                "home": "3",
+                "home": "4",
                 "away": "0",
-                "display": "3 - 0"
+                "display": "4 - 0"
               },
               "time": {
-                "display": "70'",
+                "display": "FT",
                 "egypt": "21:45",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -340,7 +340,7 @@
                 "display": "2 - 0"
               },
               "time": {
-                "display": "HT",
+                "display": "78'",
                 "egypt": "22:15",
                 "status": "MidEvent",
                 "is_live": true,
@@ -416,16 +416,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/amed_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "0",
-                "display": "1 - 0"
+                "display": "2 - 0"
               },
               "time": {
-                "display": "81'",
+                "display": "FT",
                 "egypt": "21:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
