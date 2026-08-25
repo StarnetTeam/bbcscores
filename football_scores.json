@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-25T16:28:13.488905+00:00",
-  "egypt_time": "2026-08-25 19:28:13",
+  "timestamp": "2026-08-25T17:05:17.289642+00:00",
+  "egypt_time": "2026-08-25 20:05:17",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hapoel-beer-sheva_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "18'",
                 "egypt": "19:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1111,12 +1111,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-khaleej_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "1",
-                "display": "0 - 1"
+                "display": "1 - 1"
               },
               "time": {
-                "display": "21'",
+                "display": "HT",
                 "egypt": "19:05",
                 "status": "MidEvent",
                 "is_live": true,
@@ -1139,7 +1139,7 @@
                 "display": "0 - 0"
               },
               "time": {
-                "display": "16'",
+                "display": "HT",
                 "egypt": "19:10",
                 "status": "MidEvent",
                 "is_live": true,
