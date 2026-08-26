@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-26T16:12:22.580467+00:00",
-  "egypt_time": "2026-08-26 19:12:22",
+  "timestamp": "2026-08-26T18:12:08.195134+00:00",
+  "egypt_time": "2026-08-26 21:12:08",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -9,6 +9,104 @@
       "date": "2026-08-26",
       "day_offset": 0,
       "leagues": [
+        {
+          "name": "English League Cup",
+          "match_count": 4,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Bradford City",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bradford-city.ac9319088f.svg"
+              },
+              "away_team": {
+                "name": "Burnley",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/burnley.74a6ee9929.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Newcastle United",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/newcastle-united.45e2739dd9.svg"
+              },
+              "away_team": {
+                "name": "West Bromwich Albion",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/west-bromwich-albion.3b169ce6a6.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Tottenham Hotspur",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
+              },
+              "away_team": {
+                "name": "Charlton Athletic",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/charlton-athletic.3f67213aaa.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Preston North End",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/preston-north-end.0c0aa10224.svg"
+              },
+              "away_team": {
+                "name": "Everton",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/everton.38c006ac78.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
         {
           "name": "UEFA Champions League",
           "match_count": 4,
@@ -121,115 +219,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/heart-of-midlothian.31daa72a1a.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "52'",
                 "egypt": "19:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "English League Cup",
-          "match_count": 4,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Bradford City",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/bradford-city.ac9319088f.svg"
-              },
-              "away_team": {
-                "name": "Burnley",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/burnley.74a6ee9929.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Newcastle United",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/newcastle-united.45e2739dd9.svg"
-              },
-              "away_team": {
-                "name": "West Bromwich Albion",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/west-bromwich-albion.3b169ce6a6.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Tottenham Hotspur",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/tottenham-hotspur.f1c704ee3b.svg"
-              },
-              "away_team": {
-                "name": "Charlton Athletic",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/charlton-athletic.3f67213aaa.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Preston North End",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/preston-north-end.0c0aa10224.svg"
-              },
-              "away_team": {
-                "name": "Everton",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/everton.38c006ac78.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -345,6 +345,35 @@
           ]
         },
         {
+          "name": "FIFA Intercontinental Cup",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Al Ahli",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ahli_64x64.png"
+              },
+              "away_team": {
+                "name": "Auckland",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/auckland_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
           "name": "Saudi Pro League",
           "match_count": 2,
           "matches": [
@@ -358,12 +387,12 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-fateh_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "10'",
+                "display": "90'+4",
                 "egypt": "19:00",
                 "status": "MidEvent",
                 "is_live": true,
@@ -403,6 +432,58 @@
       "date": "2026-08-27",
       "day_offset": 1,
       "leagues": [
+        {
+          "name": "English League Cup",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Chelsea",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/chelsea.b96b403b5f.svg"
+              },
+              "away_team": {
+                "name": "Luton Town",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/luton-town.73034e2483.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:30",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Fulham",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fulham.d16ec60bd3.svg"
+              },
+              "away_team": {
+                "name": "AFC Wimbledon",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/afc-wimbledon.0f2de40137.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
         {
           "name": "UEFA Europa League",
           "match_count": 12,
@@ -1203,58 +1284,6 @@
               "away_team": {
                 "name": "Getafe",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/getafe.ff70b38ab3.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "English League Cup",
-          "match_count": 2,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Chelsea",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/chelsea.b96b403b5f.svg"
-              },
-              "away_team": {
-                "name": "Luton Town",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/luton-town.73034e2483.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:30",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Fulham",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fulham.d16ec60bd3.svg"
-              },
-              "away_team": {
-                "name": "AFC Wimbledon",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/afc-wimbledon.0f2de40137.svg"
               },
               "score": {
                 "home": null,
