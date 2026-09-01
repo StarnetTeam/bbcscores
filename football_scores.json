@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-01T06:26:39.784095+00:00",
-  "egypt_time": "2026-09-01 09:26:39",
+  "timestamp": "2026-09-01T11:53:25.308822+00:00",
+  "egypt_time": "2026-09-01 14:53:25",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1005,6 +1005,35 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "English FA Trophy",
+          "match_count": 1,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Winslow United",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/winslow-united_64x64.png"
+              },
+              "away_team": {
+                "name": "Milton Keynes Irish",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/milton-keynes-irish_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
