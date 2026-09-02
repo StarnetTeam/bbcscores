@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-02T12:12:05.665082+00:00",
-  "egypt_time": "2026-09-02 15:12:05",
+  "timestamp": "2026-09-02T16:44:43.547254+00:00",
+  "egypt_time": "2026-09-02 19:44:43",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -300,17 +300,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/frosinone.9a01f57824.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "PENS",
                 "egypt": "16:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -323,17 +323,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/venezia.36acb17469.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "43'",
                 "egypt": "19:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
