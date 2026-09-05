@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-05T18:43:34.554651+00:00",
-  "egypt_time": "2026-09-05 21:43:34",
+  "timestamp": "2026-09-05T20:52:50.011669+00:00",
+  "egypt_time": "2026-09-05 23:52:50",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -420,17 +420,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wrexham.b02a4ae432.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "90'+2",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -4493,17 +4493,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/deportivo-de-la-coruna.f0d1ca59ea.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "3",
+                "display": "2 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "90'",
                 "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -4712,17 +4712,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/atalanta.d1c89c44af.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "21:45",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
@@ -4764,17 +4764,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/brest.b287b887e5.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "21:45",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -4787,17 +4787,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/le-mans.cf0af98464.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "21:45",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
@@ -4931,11 +4931,11 @@
                 "display": "1 - 2"
               },
               "time": {
-                "display": "77'",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -4954,11 +4954,11 @@
                 "display": "0 - 3"
               },
               "time": {
-                "display": "84'",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -4972,17 +4972,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nacional_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "58'",
                 "egypt": "22:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -5052,11 +5052,11 @@
                 "display": "2 - 1"
               },
               "time": {
-                "display": "43'",
+                "display": "FT",
                 "egypt": "21:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -5104,11 +5104,11 @@
                 "display": "1 - 2"
               },
               "time": {
-                "display": "84'",
+                "display": "FT",
                 "egypt": "20:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -6669,8 +6669,31 @@
         },
         {
           "name": "FA Cup",
-          "match_count": 1,
+          "match_count": 3,
           "matches": [
+            {
+              "home_team": {
+                "name": "Carshalton Athletic",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/carshalton-athletic_64x64.png"
+              },
+              "away_team": {
+                "name": "Chertsey Town",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/chertsey-town_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
             {
               "home_team": {
                 "name": "Redditch United",
@@ -6679,6 +6702,29 @@
               "away_team": {
                 "name": "Malvern Town",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malvern-town_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Swindon Supermarine",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/swindon-supermarine_64x64.png"
+              },
+              "away_team": {
+                "name": "Winslow United",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/winslow-united_64x64.png"
               },
               "score": {
                 "home": null,
