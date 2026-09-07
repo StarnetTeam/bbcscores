@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-07T00:35:56.378681+00:00",
-  "egypt_time": "2026-09-07 03:35:56",
+  "timestamp": "2026-09-07T05:33:50.750815+00:00",
+  "egypt_time": "2026-09-07 08:33:50",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -231,16 +231,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/santos-laguna_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "02:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
