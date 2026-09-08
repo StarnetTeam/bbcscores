@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-08T21:17:48.992104+00:00",
-  "egypt_time": "2026-09-09 00:17:48",
+  "timestamp": "2026-09-08T23:30:02.798177+00:00",
+  "egypt_time": "2026-09-09 02:30:02",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -363,8 +363,31 @@
         },
         {
           "name": "CONMEBOL Libertadores",
-          "match_count": 1,
+          "match_count": 2,
           "matches": [
+            {
+              "home_team": {
+                "name": "Fluminense",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fluminense.4dde9cc914.svg"
+              },
+              "away_team": {
+                "name": "Platense",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/platense_64x64.png"
+              },
+              "score": {
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
+              },
+              "time": {
+                "display": "HT",
+                "egypt": "01:00",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "Palmeiras",
@@ -410,7 +433,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "09:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
