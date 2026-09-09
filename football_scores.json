@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-09T21:33:54.626067+00:00",
-  "egypt_time": "2026-09-10 00:33:54",
+  "timestamp": "2026-09-09T23:44:49.858771+00:00",
+  "egypt_time": "2026-09-10 02:44:49",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -184,8 +184,31 @@
         },
         {
           "name": "CONMEBOL Libertadores",
-          "match_count": 1,
+          "match_count": 2,
           "matches": [
+            {
+              "home_team": {
+                "name": "Palmeiras",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/palmeiras.6820335192.svg"
+              },
+              "away_team": {
+                "name": "LDU Quito",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ldu-quito_64x64.png"
+              },
+              "score": {
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
+              },
+              "time": {
+                "display": "79'",
+                "egypt": "01:00",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "Estudiantes",
