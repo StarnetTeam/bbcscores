@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-10T12:35:35.160721+00:00",
-  "egypt_time": "2026-09-10 15:35:35",
+  "timestamp": "2026-09-10T16:49:47.364106+00:00",
+  "egypt_time": "2026-09-10 19:49:47",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -23,17 +23,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/roma.8062319932.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "2'",
                 "egypt": "19:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -46,17 +46,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/shakhtar-donetsk.16a422c938.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "1'",
                 "egypt": "19:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -112,7 +112,7 @@
               },
               "away_team": {
                 "name": "Sabah",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sabah-az.f059241e1f.svg"
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sabah-az.94f5e6193a.svg"
               },
               "score": {
                 "home": null,
