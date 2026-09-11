@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-11T07:25:15.896131+00:00",
-  "egypt_time": "2026-09-11 10:25:15",
+  "timestamp": "2026-09-11T12:17:12.879290+00:00",
+  "egypt_time": "2026-09-11 15:17:12",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -393,17 +393,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kashiwa-reysol_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "3",
+                "display": "2 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -416,17 +416,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/kashima-antlers_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
