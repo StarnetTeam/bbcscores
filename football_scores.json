@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-11T12:17:12.879290+00:00",
-  "egypt_time": "2026-09-11 15:17:12",
+  "timestamp": "2026-09-11T16:39:27.483286+00:00",
+  "egypt_time": "2026-09-11 19:39:27",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -474,17 +474,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ettifaq_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "51'",
                 "egypt": "18:25",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -497,17 +497,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/al-ittihad_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "18:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1188,7 +1188,7 @@
             {
               "home_team": {
                 "name": "Sheffield Wednesday",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sheffield-wednesday.5da5c9cdb9.svg"
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sheffield-wednesday.23e5361d37.svg"
               },
               "away_team": {
                 "name": "Wigan Athletic",
@@ -5395,7 +5395,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "02:00",
+                "egypt": "02:05",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
