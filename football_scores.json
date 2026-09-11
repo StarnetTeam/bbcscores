@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-10T23:36:36.386418+00:00",
-  "egypt_time": "2026-09-11 02:36:36",
+  "timestamp": "2026-09-11T02:27:59.577791+00:00",
+  "egypt_time": "2026-09-11 05:27:59",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -364,17 +364,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/flamengo.b541e6fc47.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "90'+3",
                 "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
