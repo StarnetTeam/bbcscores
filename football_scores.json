@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-12T02:36:18.433868+00:00",
-  "egypt_time": "2026-09-12 05:36:18",
+  "timestamp": "2026-09-12T07:33:31.113067+00:00",
+  "egypt_time": "2026-09-12 10:33:31",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -3816,16 +3816,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/puebla_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -3839,17 +3839,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/pachuca.ad89843077.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "3",
+                "display": "0 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "06:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -3862,17 +3862,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/querã©taro_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "06:10",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
