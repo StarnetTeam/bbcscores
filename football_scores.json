@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-13T05:05:08.174351+00:00",
-  "egypt_time": "2026-09-13 08:05:08",
+  "timestamp": "2026-09-13T10:25:55.769135+00:00",
+  "egypt_time": "2026-09-13 13:25:55",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -657,12 +657,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "12:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -680,12 +680,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "12:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -750,16 +750,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/club-amã©rica_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "3",
+                "display": "4 - 3"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "06:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
