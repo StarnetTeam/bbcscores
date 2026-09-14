@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-13T22:30:13.228260+00:00",
-  "egypt_time": "2026-09-14 01:30:13",
+  "timestamp": "2026-09-14T00:34:59.904052+00:00",
+  "egypt_time": "2026-09-14 03:34:59",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -196,8 +196,31 @@
         },
         {
           "name": "Major League Soccer",
-          "match_count": 1,
+          "match_count": 2,
           "matches": [
+            {
+              "home_team": {
+                "name": "Vancouver Whitecaps",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/vancouver-whitecaps.9fcd6c73ed.svg"
+              },
+              "away_team": {
+                "name": "Austin",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/austin.6bc6fcca81.svg"
+              },
+              "score": {
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
+              },
+              "time": {
+                "display": "78'",
+                "egypt": "01:30",
+                "status": "MidEvent",
+                "is_live": true,
+                "is_full_time": false,
+                "is_upcoming": false
+              }
+            },
             {
               "home_team": {
                 "name": "San Diego",
