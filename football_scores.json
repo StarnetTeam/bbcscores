@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-14T05:37:45.615178+00:00",
-  "egypt_time": "2026-09-14 08:37:45",
+  "timestamp": "2026-09-14T11:27:07.663117+00:00",
+  "egypt_time": "2026-09-14 14:27:07",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1495,6 +1495,104 @@
       "day_offset": 2,
       "leagues": [
         {
+          "name": "English League Cup",
+          "match_count": 4,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Everton",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/everton.38c006ac78.svg"
+              },
+              "away_team": {
+                "name": "Wolverhampton Wanderers",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wolverhampton-wanderers.0139aed1b8.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Fleetwood Town",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fleetwood-town.0390dff9d2.svg"
+              },
+              "away_team": {
+                "name": "Sheffield United",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sheffield-united.3e49eb6a1d.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Coventry City",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/coventry-city.2b26ca0838.svg"
+              },
+              "away_team": {
+                "name": "Aston Villa",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/aston-villa.7462c0d498.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Manchester United",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/manchester-united.80807495b5.svg"
+              },
+              "away_team": {
+                "name": "Brighton & Hove Albion",
+                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/brighton-and-hove-albion.4522a78440.svg"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
           "name": "UEFA Europa League",
           "match_count": 9,
           "matches": [
@@ -1690,104 +1788,6 @@
               "away_team": {
                 "name": "AZ Alkmaar",
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/az-alkmaar.06174d2d8e.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "English League Cup",
-          "match_count": 4,
-          "matches": [
-            {
-              "home_team": {
-                "name": "Everton",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/everton.38c006ac78.svg"
-              },
-              "away_team": {
-                "name": "Wolverhampton Wanderers",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/wolverhampton-wanderers.0139aed1b8.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Fleetwood Town",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fleetwood-town.0390dff9d2.svg"
-              },
-              "away_team": {
-                "name": "Sheffield United",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sheffield-united.3e49eb6a1d.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Coventry City",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/coventry-city.2b26ca0838.svg"
-              },
-              "away_team": {
-                "name": "Aston Villa",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/aston-villa.7462c0d498.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "22:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Manchester United",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/manchester-united.80807495b5.svg"
-              },
-              "away_team": {
-                "name": "Brighton & Hove Albion",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/brighton-and-hove-albion.4522a78440.svg"
               },
               "score": {
                 "home": null,
