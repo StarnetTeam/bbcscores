@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-15T08:16:54.496874+00:00",
-  "egypt_time": "2026-09-15 11:16:54",
+  "timestamp": "2026-09-15T13:44:08.187528+00:00",
+  "egypt_time": "2026-09-15 16:44:08",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -603,6 +603,29 @@
           "matches": [
             {
               "home_team": {
+                "name": "Bo'ness United",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/boness-united_64x64.png"
+              },
+              "away_team": {
+                "name": "Lochee United",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lochee-united_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "CS Strollers",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cs-strollers_64x64.png"
               },
@@ -678,29 +701,6 @@
               "away_team": {
                 "name": "Dunipace",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/dunipace_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "21:45",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Lochee United",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/lochee-united_64x64.png"
-              },
-              "away_team": {
-                "name": "Bo'ness United",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/boness-united_64x64.png"
               },
               "score": {
                 "home": null,
