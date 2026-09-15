@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-15T13:44:08.187528+00:00",
-  "egypt_time": "2026-09-15 16:44:08",
+  "timestamp": "2026-09-15T17:51:55.472162+00:00",
+  "egypt_time": "2026-09-15 20:51:55",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -991,17 +991,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/espanyol.c2647e7518.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "45'+5",
                 "egypt": "20:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1066,17 +1066,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sã¼dtirol_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "19:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
