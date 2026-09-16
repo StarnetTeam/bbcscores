@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-16T01:30:10.412575+00:00",
-  "egypt_time": "2026-09-16 04:30:10",
+  "timestamp": "2026-09-16T06:35:45.650413+00:00",
+  "egypt_time": "2026-09-16 09:35:45",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -887,16 +887,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/toluca_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
