@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-15T23:20:41.789843+00:00",
-  "egypt_time": "2026-09-16 02:20:41",
+  "timestamp": "2026-09-16T01:30:10.412575+00:00",
+  "egypt_time": "2026-09-16 04:30:10",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -846,31 +846,8 @@
         },
         {
           "name": "CONMEBOL Libertadores",
-          "match_count": 2,
+          "match_count": 1,
           "matches": [
-            {
-              "home_team": {
-                "name": "Platense",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/platense_64x64.png"
-              },
-              "away_team": {
-                "name": "Fluminense",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/fluminense.4dde9cc914.svg"
-              },
-              "score": {
-                "home": "2",
-                "away": "0",
-                "display": "2 - 0"
-              },
-              "time": {
-                "display": "53'",
-                "egypt": "01:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
             {
               "home_team": {
                 "name": "LDU Quito",
@@ -915,12 +892,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "04:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
