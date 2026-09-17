@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-16T23:06:11.123119+00:00",
-  "egypt_time": "2026-09-17 02:06:11",
+  "timestamp": "2026-09-17T01:33:55.652852+00:00",
+  "egypt_time": "2026-09-17 04:33:55",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -334,31 +334,8 @@
         },
         {
           "name": "CONMEBOL Libertadores",
-          "match_count": 2,
+          "match_count": 1,
           "matches": [
-            {
-              "home_team": {
-                "name": "LDU Quito",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ldu-quito_64x64.png"
-              },
-              "away_team": {
-                "name": "Palmeiras",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/palmeiras.6820335192.svg"
-              },
-              "score": {
-                "home": "1",
-                "away": "1",
-                "display": "1 - 1"
-              },
-              "time": {
-                "display": "HT",
-                "egypt": "01:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
             {
               "home_team": {
                 "name": "Corinthians",
@@ -369,17 +346,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/estudiantes_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "3'",
                 "egypt": "03:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -398,17 +375,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cruz-azul_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "26'",
                 "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
