@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-18T01:05:37.226108+00:00",
-  "egypt_time": "2026-09-18 04:05:37",
+  "timestamp": "2026-09-18T06:12:07.850741+00:00",
+  "egypt_time": "2026-09-18 09:12:07",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -59,6 +59,58 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "22:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Internationals",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "Papua New Guinea",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/papua-new-guinea_64x64.png"
+              },
+              "away_team": {
+                "name": "Vanuatu",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vanuatu_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "05:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Fiji",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fiji_64x64.png"
+              },
+              "away_team": {
+                "name": "Solomon Islands",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/solomon-islands_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "10:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -595,16 +647,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/independiente-valle_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "1",
-                "display": "0 - 1"
+                "display": "1 - 1"
               },
               "time": {
-                "display": "35'",
+                "display": "FT",
                 "egypt": "03:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -6724,6 +6776,58 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Internationals Women",
+          "match_count": 2,
+          "matches": [
+            {
+              "home_team": {
+                "name": "New Caledonia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/new-caledonia_64x64.png"
+              },
+              "away_team": {
+                "name": "Papua New Guinea",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/papua-new-guinea_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "07:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Fiji",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/fiji_64x64.png"
+              },
+              "away_team": {
+                "name": "Vanuatu",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vanuatu_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "10:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
