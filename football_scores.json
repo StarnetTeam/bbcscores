@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-18T11:33:55.819715+00:00",
-  "egypt_time": "2026-09-18 14:33:55",
+  "timestamp": "2026-09-18T15:36:07.201840+00:00",
+  "egypt_time": "2026-09-18 18:36:07",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -81,17 +81,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vanuatu_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "05:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
