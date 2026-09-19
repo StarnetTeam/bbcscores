@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-19T01:21:48.036124+00:00",
-  "egypt_time": "2026-09-19 04:21:48",
+  "timestamp": "2026-09-19T06:10:57.088480+00:00",
+  "egypt_time": "2026-09-19 09:10:57",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -5012,16 +5012,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atlante_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -5035,17 +5035,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/tigres-uanl_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "06:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
@@ -5069,11 +5069,11 @@
                 "display": "0 - 1"
               },
               "time": {
-                "display": "68'",
+                "display": "FT",
                 "egypt": "02:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
