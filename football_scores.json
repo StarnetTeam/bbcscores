@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-18T23:25:32.120585+00:00",
-  "egypt_time": "2026-09-19 02:25:32",
+  "timestamp": "2026-09-19T01:21:48.036124+00:00",
+  "egypt_time": "2026-09-19 04:21:48",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -5017,12 +5017,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "04:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -5064,17 +5064,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/new-york-red-bulls.94c643f250.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "68'",
                 "egypt": "02:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
