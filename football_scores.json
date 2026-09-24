@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-23T23:25:03.137480+00:00",
-  "egypt_time": "2026-09-24 02:25:03",
+  "timestamp": "2026-09-24T01:33:50.551665+00:00",
+  "egypt_time": "2026-09-24 04:33:50",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -812,16 +812,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/antigua-and-barbuda_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "1",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "1 - 0"
               },
               "time": {
-                "display": "19'",
+                "display": "FT",
                 "egypt": "02:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
