@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-25T08:58:44.954738+00:00",
-  "egypt_time": "2026-09-25 11:58:44",
+  "timestamp": "2026-09-25T14:29:06.471706+00:00",
+  "egypt_time": "2026-09-25 17:29:06",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -213,17 +213,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/brazil_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -449,17 +449,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/senegal_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "25'",
                 "egypt": "16:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -478,7 +478,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "19:00",
+                "egypt": "16:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -541,17 +541,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/guinea-bissau_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "27'",
                 "egypt": "16:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1314,7 +1314,7 @@
         },
         {
           "name": "League One",
-          "match_count": 9,
+          "match_count": 8,
           "matches": [
             {
               "home_team": {
@@ -1452,29 +1452,6 @@
                 "is_live": false,
                 "is_full_time": false,
                 "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Stevenage",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/stevenage.6d72e6ce96.svg"
-              },
-              "away_team": {
-                "name": "Sheffield Wednesday",
-                "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/sheffield-wednesday.23e5361d37.svg"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Match Postponed",
-                "egypt": "17:00",
-                "status": "Postponed",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": false
               }
             },
             {
