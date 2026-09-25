@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-25T03:11:13.696355+00:00",
-  "egypt_time": "2026-09-25 06:11:13",
+  "timestamp": "2026-09-25T08:58:44.954738+00:00",
+  "egypt_time": "2026-09-25 11:58:44",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -980,15 +980,15 @@
               },
               "score": {
                 "home": "3",
-                "away": "0",
-                "display": "3 - 0"
+                "away": "4",
+                "display": "3 - 4"
               },
               "time": {
-                "display": "HT",
+                "display": "FT",
                 "egypt": "05:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -5093,29 +5093,6 @@
           "matches": [
             {
               "home_team": {
-                "name": "Botswana",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/botswana_64x64.png"
-              },
-              "away_team": {
-                "name": "Namibia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/namibia_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "New Caledonia",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/new-caledonia_64x64.png"
               },
@@ -5154,6 +5131,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "10:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Botswana",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/botswana_64x64.png"
+              },
+              "away_team": {
+                "name": "Namibia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/namibia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
