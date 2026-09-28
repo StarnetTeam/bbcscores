@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-28T05:39:58.649809+00:00",
-  "egypt_time": "2026-09-28 08:39:58",
+  "timestamp": "2026-09-28T12:36:27.113030+00:00",
+  "egypt_time": "2026-09-28 15:36:27",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -213,17 +213,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/venezuela_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:25",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -236,17 +236,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uruguay_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "4",
+                "display": "0 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "74'",
                 "egypt": "14:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -444,7 +444,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "18:00",
+                "egypt": "17:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
@@ -2111,31 +2111,8 @@
       "leagues": [
         {
           "name": "Internationals",
-          "match_count": 9,
+          "match_count": 8,
           "matches": [
-            {
-              "home_team": {
-                "name": "Argentina",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/argentina_64x64.png"
-              },
-              "away_team": {
-                "name": "Bolivia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bolivia_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "02:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
             {
               "home_team": {
                 "name": "United States",
