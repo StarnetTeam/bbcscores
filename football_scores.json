@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-29T05:57:26.791823+00:00",
-  "egypt_time": "2026-09-29 08:57:26",
+  "timestamp": "2026-09-29T12:13:45.484984+00:00",
+  "egypt_time": "2026-09-29 15:13:45",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -259,17 +259,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/brazil_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "4",
+                "display": "2 - 4"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -714,17 +714,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/namibia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "5'",
                 "egypt": "15:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -1186,7 +1186,7 @@
         },
         {
           "name": "Internationals Women",
-          "match_count": 2,
+          "match_count": 3,
           "matches": [
             {
               "home_team": {
@@ -1198,17 +1198,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/solomon-islands_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "5",
+                "away": "1",
+                "display": "5 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "07:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1221,17 +1221,40 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/new-caledonia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "0",
+                "display": "1 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "10:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
+              }
+            },
+            {
+              "home_team": {
+                "name": "Botswana",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/botswana_64x64.png"
+              },
+              "away_team": {
+                "name": "Namibia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/namibia_64x64.png"
+              },
+              "score": {
+                "home": "4",
+                "away": "1",
+                "display": "4 - 1"
+              },
+              "time": {
+                "display": "FT",
+                "egypt": "11:00",
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
@@ -1873,31 +1896,8 @@
         },
         {
           "name": "Internationals Women",
-          "match_count": 2,
+          "match_count": 1,
           "matches": [
-            {
-              "home_team": {
-                "name": "Botswana",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/botswana_64x64.png"
-              },
-              "away_team": {
-                "name": "Namibia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/namibia_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
             {
               "home_team": {
                 "name": "Ethiopia",
