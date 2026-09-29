@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-29T00:09:52.172637+00:00",
-  "egypt_time": "2026-09-29 03:09:52",
+  "timestamp": "2026-09-29T05:57:26.791823+00:00",
+  "egypt_time": "2026-09-29 08:57:26",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -1274,15 +1274,15 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "1",
+                "display": "0 - 1"
               },
               "time": {
-                "display": "9'",
+                "display": "FT",
                 "egypt": "03:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1296,16 +1296,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bermuda_64x64.png"
               },
               "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "home": "5",
+                "away": "2",
+                "display": "5 - 2"
               },
               "time": {
-                "display": "8'",
+                "display": "FT",
                 "egypt": "03:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1319,17 +1319,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/el-salvador_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "6",
+                "away": "0",
+                "display": "6 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "05:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1342,16 +1342,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/grenada_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "3",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "7'",
+                "display": "FT",
                 "egypt": "03:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1873,7 +1873,7 @@
         },
         {
           "name": "Internationals Women",
-          "match_count": 1,
+          "match_count": 2,
           "matches": [
             {
               "home_team": {
@@ -1892,6 +1892,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "03:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Ethiopia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/ethiopia_64x64.png"
+              },
+              "away_team": {
+                "name": "Seychelles",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/seychelles_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
