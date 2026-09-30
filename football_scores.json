@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-30T07:02:33.825747+00:00",
-  "egypt_time": "2026-09-30 10:02:33",
+  "timestamp": "2026-09-30T14:01:04.494901+00:00",
+  "egypt_time": "2026-09-30 17:01:04",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -97,12 +97,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "Match Cancelled",
                 "egypt": "03:00",
-                "status": "PreEvent",
+                "status": "Cancelled",
                 "is_live": false,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -115,17 +115,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/solomon-islands_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "07:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -138,17 +138,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/new-caledonia_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "10:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
