@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-04T02:47:20.256169+00:00",
-  "egypt_time": "2026-10-04 05:47:20",
+  "timestamp": "2026-10-04T09:12:58.018176+00:00",
+  "egypt_time": "2026-10-04 12:12:58",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -236,16 +236,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mexico_64x64.png"
               },
               "score": {
-                "home": "0",
+                "home": "3",
                 "away": "0",
-                "display": "0 - 0"
+                "display": "3 - 0"
               },
               "time": {
-                "display": "25'",
+                "display": "FT",
                 "egypt": "05:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -859,15 +859,15 @@
               },
               "score": {
                 "home": "0",
-                "away": "0",
-                "display": "0 - 0"
+                "away": "2",
+                "display": "0 - 2"
               },
               "time": {
-                "display": "34'",
+                "display": "FT",
                 "egypt": "05:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -1953,52 +1953,6 @@
           "matches": [
             {
               "home_team": {
-                "name": "Atherton Collieries",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atherton-collieries_64x64.png"
-              },
-              "away_team": {
-                "name": "Trafford",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trafford_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Halesowen Town",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/halesowen-town_64x64.png"
-              },
-              "away_team": {
-                "name": "Stafford Rangers",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/stafford-rangers_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "Scarborough Athletic",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/scarborough-athletic_64x64.png"
               },
@@ -2022,6 +1976,52 @@
             },
             {
               "home_team": {
+                "name": "Atherton Collieries",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/atherton-collieries_64x64.png"
+              },
+              "away_team": {
+                "name": "Trafford",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/trafford_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Halesowen Town",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/halesowen-town_64x64.png"
+              },
+              "away_team": {
+                "name": "Stafford Rangers",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/stafford-rangers_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "21:45",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Spalding United",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spalding-united_64x64.png"
               },
@@ -2036,7 +2036,7 @@
               },
               "time": {
                 "display": "Scheduled",
-                "egypt": "03:00",
+                "egypt": "21:45",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
