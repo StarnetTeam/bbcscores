@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-03T23:14:48.590963+00:00",
-  "egypt_time": "2026-10-04 02:14:48",
+  "timestamp": "2026-10-04T02:47:20.256169+00:00",
+  "egypt_time": "2026-10-04 05:47:20",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -213,17 +213,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/burkina-faso_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "7",
+                "away": "0",
+                "display": "7 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "03:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -236,17 +236,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mexico_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "25'",
                 "egypt": "05:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -858,17 +858,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/french-guiana_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "0",
+                "away": "0",
+                "display": "0 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "34'",
                 "egypt": "05:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
