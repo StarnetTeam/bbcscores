@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-05T06:00:01.822129+00:00",
-  "egypt_time": "2026-10-05 09:00:01",
+  "timestamp": "2026-10-05T14:18:02.442084+00:00",
+  "egypt_time": "2026-10-05 17:18:02",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -251,6 +251,29 @@
             },
             {
               "home_team": {
+                "name": "Mauritius",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mauritius_64x64.png"
+              },
+              "away_team": {
+                "name": "Sri Lanka",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sri-lanka_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "15:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
                 "name": "Uganda",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/uganda_64x64.png"
               },
@@ -266,29 +289,6 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "16:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
-                "name": "Mauritius",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/mauritius_64x64.png"
-              },
-              "away_team": {
-                "name": "Sri Lanka",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/sri-lanka_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "18:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
