@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-09T06:25:51.855987+00:00",
-  "egypt_time": "2026-10-09 09:25:51",
+  "timestamp": "2026-10-09T13:34:22.234725+00:00",
+  "egypt_time": "2026-10-09 16:34:22",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -548,17 +548,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/gamba-osaka_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "0",
+                "display": "2 - 0"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -571,17 +571,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/vissel-kobe_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "4",
+                "away": "2",
+                "display": "4 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "13:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
