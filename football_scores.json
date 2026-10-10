@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-09T23:23:02.517944+00:00",
-  "egypt_time": "2026-10-10 02:23:02",
+  "timestamp": "2026-10-10T02:30:22.783270+00:00",
+  "egypt_time": "2026-10-10 05:30:22",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -2510,17 +2510,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/denmark_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "02:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -2533,17 +2533,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jamaica_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "3",
+                "display": "2 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "58'",
                 "egypt": "04:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -2849,12 +2849,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "04:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
