@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-12T02:32:18.565070+00:00",
-  "egypt_time": "2026-10-12 05:32:18",
+  "timestamp": "2026-10-12T10:04:42.707797+00:00",
+  "egypt_time": "2026-10-12 13:04:42",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -277,16 +277,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/cruz-azul_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "3",
+                "display": "3 - 3"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "04:15",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             }
@@ -1319,29 +1319,6 @@
             },
             {
               "home_team": {
-                "name": "Jordan",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jordan_64x64.png"
-              },
-              "away_team": {
-                "name": "Indonesia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/indonesia_64x64.png"
-              },
-              "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
-              },
-              "time": {
-                "display": "Scheduled",
-                "egypt": "03:00",
-                "status": "PreEvent",
-                "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
-              }
-            },
-            {
-              "home_team": {
                 "name": "El Salvador",
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/el-salvador_64x64.png"
               },
@@ -1380,6 +1357,29 @@
               "time": {
                 "display": "Scheduled",
                 "egypt": "14:00",
+                "status": "PreEvent",
+                "is_live": false,
+                "is_full_time": false,
+                "is_upcoming": true
+              }
+            },
+            {
+              "home_team": {
+                "name": "Jordan",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jordan_64x64.png"
+              },
+              "away_team": {
+                "name": "Indonesia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/indonesia_64x64.png"
+              },
+              "score": {
+                "home": null,
+                "away": null,
+                "display": "vs"
+              },
+              "time": {
+                "display": "Scheduled",
+                "egypt": "16:00",
                 "status": "PreEvent",
                 "is_live": false,
                 "is_full_time": false,
