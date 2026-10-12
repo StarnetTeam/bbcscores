@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-11T23:01:08.034774+00:00",
-  "egypt_time": "2026-10-12 02:01:08",
+  "timestamp": "2026-10-12T02:32:18.565070+00:00",
+  "egypt_time": "2026-10-12 05:32:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -121,31 +121,8 @@
         },
         {
           "name": "Internationals Women",
-          "match_count": 5,
+          "match_count": 4,
           "matches": [
-            {
-              "home_team": {
-                "name": "Chile",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/chile_64x64.png"
-              },
-              "away_team": {
-                "name": "Bolivia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/bolivia_64x64.png"
-              },
-              "score": {
-                "home": "0",
-                "away": "0",
-                "display": "0 - 0"
-              },
-              "time": {
-                "display": "5'",
-                "egypt": "00:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
-                "is_upcoming": false
-              }
-            },
             {
               "home_team": {
                 "name": "Canada",
@@ -254,16 +231,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/santos-laguna_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "In Play",
+                "display": "FT",
                 "egypt": "02:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -277,17 +254,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/necaxa_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "3",
+                "display": "3 - 3"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "02:10",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -305,12 +282,12 @@
                 "display": "vs"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "In Play",
                 "egypt": "04:15",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             }
           ]
@@ -329,17 +306,17 @@
                 "logo_url": "https://static.files.bbci.co.uk/core/website/assets/static/sport/football/la-galaxy.535e48f402.svg"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "6",
+                "away": "2",
+                "display": "6 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "02:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
