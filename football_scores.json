@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-13T08:49:04.179294+00:00",
-  "egypt_time": "2026-10-13 11:49:04",
+  "timestamp": "2026-10-13T16:39:18.929449+00:00",
+  "egypt_time": "2026-10-13 19:39:18",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -881,17 +881,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/japan_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "1",
+                "display": "1 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "HT",
                 "egypt": "18:45",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -973,17 +973,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/palestine_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "14:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             },
             {
@@ -1011,12 +1011,12 @@
             },
             {
               "home_team": {
-                "name": "Malaysia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malaysia_64x64.png"
+                "name": "Peru",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/peru_64x64.png"
               },
               "away_team": {
-                "name": "Saudi Arabia",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/saudi-arabia_64x64.png"
+                "name": "Philippines",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/philippines_64x64.png"
               },
               "score": {
                 "home": null,
@@ -1034,12 +1034,12 @@
             },
             {
               "home_team": {
-                "name": "Peru",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/peru_64x64.png"
+                "name": "Saudi Arabia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/saudi-arabia_64x64.png"
               },
               "away_team": {
-                "name": "Philippines",
-                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/philippines_64x64.png"
+                "name": "Malaysia",
+                "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/malaysia_64x64.png"
               },
               "score": {
                 "home": null,
