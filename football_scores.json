@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-14T00:47:45.989701+00:00",
-  "egypt_time": "2026-10-14 03:47:45",
+  "timestamp": "2026-10-14T05:41:48.537033+00:00",
+  "egypt_time": "2026-10-14 08:41:48",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -334,16 +334,16 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain_64x64.png"
               },
               "score": {
-                "home": "1",
+                "home": "2",
                 "away": "2",
-                "display": "1 - 2"
+                "display": "2 - 2"
               },
               "time": {
-                "display": "73'",
+                "display": "FT",
                 "egypt": "02:00",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -358,15 +358,15 @@
               },
               "score": {
                 "home": "2",
-                "away": "1",
-                "display": "2 - 1"
+                "away": "2",
+                "display": "2 - 2"
               },
               "time": {
-                "display": "49'",
+                "display": "FT",
                 "egypt": "02:30",
-                "status": "MidEvent",
-                "is_live": true,
-                "is_full_time": false,
+                "status": "PostEvent",
+                "is_live": false,
+                "is_full_time": true,
                 "is_upcoming": false
               }
             },
@@ -403,17 +403,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/jamaica_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "3",
+                "away": "1",
+                "display": "3 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "FT",
                 "egypt": "04:00",
-                "status": "PreEvent",
+                "status": "PostEvent",
                 "is_live": false,
-                "is_full_time": false,
-                "is_upcoming": true
+                "is_full_time": true,
+                "is_upcoming": false
               }
             }
           ]
