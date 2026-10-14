@@ -1,7 +1,7 @@
 name: Fetch Football Scores
 
 on:
-  schedule:
+  schedul.e:
     # Run every 30 minutes
     - cron: '*/30 * * * *'
   workflow_dispatch:  # Manual trigger
