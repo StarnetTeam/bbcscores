@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-13T21:41:01.946365+00:00",
-  "egypt_time": "2026-10-14 00:41:01",
+  "timestamp": "2026-10-14T00:47:45.989701+00:00",
+  "egypt_time": "2026-10-14 03:47:45",
   "source": "BBC Sport",
   "source_url": "https://www.bbc.com/sport/football/scores-fixtures",
   "days": [
@@ -334,17 +334,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/spain_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "1",
+                "away": "2",
+                "display": "1 - 2"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "73'",
                 "egypt": "02:00",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
@@ -357,17 +357,17 @@
                 "logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/argentina_64x64.png"
               },
               "score": {
-                "home": null,
-                "away": null,
-                "display": "vs"
+                "home": "2",
+                "away": "1",
+                "display": "2 - 1"
               },
               "time": {
-                "display": "Scheduled",
+                "display": "49'",
                 "egypt": "02:30",
-                "status": "PreEvent",
-                "is_live": false,
+                "status": "MidEvent",
+                "is_live": true,
                 "is_full_time": false,
-                "is_upcoming": true
+                "is_upcoming": false
               }
             },
             {
